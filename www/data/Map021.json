@@ -943,7 +943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>おーおはよう。"
+                                "\\N<Village Chief> G-Good morning."
                             ]
                         },
                         {
@@ -1011,7 +1011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>村長、おはようございます！"
+                                "\\N<Naoto>Good morning, Village Chief!"
                             ]
                         },
                         {
@@ -1044,7 +1044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おはようございます。"
+                                "\\N<Kaede>Good morning."
                             ]
                         },
                         {
@@ -1077,7 +1077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>おぉ直人君に楓ちゃん、おはよう。"
+                                "\\N<Village Chief> Oh, good morning Naoto-kun and Kaede-chan."
                             ]
                         },
                         {
@@ -1094,7 +1094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>どうしたんだい？こんな朝から。"
+                                "\\N<Village Chief>What's the matter? This early in the morning."
                             ]
                         },
                         {
@@ -1111,7 +1111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっと村おこしの件で・・・。"
+                                "\\N<Naoto>Um, it's about the revitalization of the village...."
                             ]
                         },
                         {
@@ -1128,7 +1128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>村おこし・・・？はて・・・？"
+                                "\\N<Village Chief>Village revitalization...? What...?"
                             ]
                         },
                         {
@@ -1145,7 +1145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・笑"
+                                "\\N<Naoto>Huh... (laughs)"
                             ]
                         },
                         {
@@ -1162,7 +1162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>今年の村おこしの案は僕らで考えてくれって！"
+                                "\\N<Naoto>This year, let us come up with ideas for revitalizing the\nvillage!"
                             ]
                         },
                         {
@@ -1179,7 +1179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>・・・あーそんなこと言ったかのぉ・・・！"
+                                "\\N<Village Chief>...Ah, did I really say something like that...?!"
                             ]
                         },
                         {
@@ -1212,7 +1212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>大丈夫ですか・・・。"
+                                "\\N<Kaede>Are you okay...."
                             ]
                         },
                         {
@@ -1236,7 +1236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>そうじゃったそうじゃった。では頼んだぞ二人とも。"
+                                "\\N<Village Chief> That's right, that's right. I'm counting on both of\nyou then."
                             ]
                         },
                         {
@@ -1253,7 +1253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっと、具体的にどうすればとか・・・。"
+                                "\\N<Naoto>Um, specifically, what should we do...?"
                             ]
                         },
                         {
@@ -1270,7 +1270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>それは二人に任せようかのぉ！"
+                                "\\N<Village Chief>Let's leave that to the two of you, shall we?"
                             ]
                         },
                         {
@@ -1287,7 +1287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ笑"
+                                "\\N<Naoto>Huh... (laughs)"
                             ]
                         },
                         {
@@ -1304,14 +1304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>村おこしと言っても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も好き好んで来んじゃろこんな村・・・。"
+                                "\\N<Village Chief>Even if we talk about revitalizing the village, no\none would willingly come to a village like this...."
                             ]
                         },
                         {
@@ -1328,7 +1321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>こんな村って・・・笑"
+                                "\\N<Naoto>This kind of village... (laughs)"
                             ]
                         },
                         {
@@ -1361,7 +1354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>そんな適当な感じなのね。"
+                                "\\N<Kaede>It feels so half-hearted."
                             ]
                         },
                         {
@@ -1385,14 +1378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>もし悩むようじゃったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "田中さんたちと一緒に決めたらどうじゃ？"
+                                "\\N<Village Chief>If you're having trouble deciding, how about\ndiscussing it with Tanaka-san and the others?"
                             ]
                         },
                         {
@@ -1409,7 +1395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>え、いいんですか？"
+                                "\\N<Naoto>Wait, is that okay?"
                             ]
                         },
                         {
@@ -1426,14 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>もちろんじゃよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと気楽に考えてくれてええからの。"
+                                "\\N<Village Chief>Of course it's okay. I want you to think about it\nmore casually."
                             ]
                         },
                         {
@@ -1450,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>分かりました。"
+                                "\\N<Naoto>Understood."
                             ]
                         },
                         {
@@ -1467,7 +1446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>これから畑仕事かい？"
+                                "\\N<Village Chief>Are you going to work in the fields from now on?"
                             ]
                         },
                         {
@@ -1500,7 +1479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はい。"
+                                "\\N<Kaede>Yes."
                             ]
                         },
                         {
@@ -1524,7 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>そうかそうか。頑張りなさい。"
+                                "\\N<Village Chief>I see, I see. Do your best."
                             ]
                         },
                         {
@@ -1541,7 +1520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はい！"
+                                "\\N<Naoto>Yes!"
                             ]
                         },
                         {
@@ -1644,7 +1623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>またいつでも来てくれて構わんからのぉ。"
+                                "\\N<Village Chief>Feel free to come by anytime, okay?"
                             ]
                         },
                         {
@@ -1712,7 +1691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>田中さん家にはいったのかい？"
+                                "\\N<Village Chief>Did you go into the Tanaka's house?"
                             ]
                         },
                         {
@@ -1780,7 +1759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>良い案は思いついたのかい？"
+                                "\\N<Village Chief>Did you come up with a good idea?"
                             ]
                         },
                         {
@@ -1848,7 +1827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>さっきみやが来たぞい。"
+                                "\\N<Village Chief>Miya just came by."
                             ]
                         },
                         {
@@ -1916,7 +1895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>みや？いーや知らんぞい。"
+                                "\\N<Village Chief>Miya? Ah, I don't know."
                             ]
                         },
                         {
@@ -1984,7 +1963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>村おこしの件はどうなっとるのかのぉ・・・。"
+                                "\\N<Village Chief>How is the revitalization of the village going,\nhmm...."
                             ]
                         },
                         {
@@ -2135,7 +2114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ひかる>あーこんにちはー！"
+                                "\\N<Hikaru>Ah, hello-!"
                             ]
                         },
                         {

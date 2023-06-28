@@ -817,7 +817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将さん>あら直人君に楓ちゃん。"
+                                "\\N<Landlady> Oh, Naoto-kun and Kaede-chan."
                             ]
                         },
                         {
@@ -894,14 +894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将さん>あ、直人君楓ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お二人が上で待ってるって・・・。"
+                                "\\N<Landlady>Ah, Naoto-kun and Kaede-chan. They're waiting for you\nupstairs...."
                             ]
                         },
                         {
@@ -969,7 +962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将さん>この前は助けてくれてありがとうねー。"
+                                "\\N<Landlady>Thank you for helping me the other day."
                             ]
                         },
                         {
@@ -1046,7 +1039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばあちゃん>ふぅ温泉は身体に効くねぇ～・・・。"
+                                "\\N<Grandma>Ah, hot springs are so good for the body...."
                             ]
                         },
                         {
@@ -1114,7 +1107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばあちゃん>ガラの悪い二人じゃのう・・・。"
+                                "\\N<Grandma>They're such ill-mannered kids...."
                             ]
                         },
                         {

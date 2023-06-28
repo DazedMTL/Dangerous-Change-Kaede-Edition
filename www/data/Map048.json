@@ -619,7 +619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>お客様、無断の入店はお断りしています。"
+                                "\\N<Shopkeeper>We do not allow unauthorized entry, sir/madam."
                             ]
                         },
                         {
@@ -841,7 +841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -1012,7 +1012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -1120,7 +1120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>いらっしゃいませ。"
+                                "\\N<Shopkeeper>Welcome."
                             ]
                         },
                         {
@@ -1137,7 +1137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>会員証はお持ちでしょうか。"
+                                "\\N<Shopkeeper>Do you have a membership card?"
                             ]
                         },
                         {
@@ -1161,7 +1161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ・・・これ・・・。"
+                                "\\N<Naoto>Ah... this..."
                             ]
                         },
                         {
@@ -1178,14 +1178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>・・・はい。確認致しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではごちらをご着用ください。"
+                                "\\N<Shopkeeper>...Yes, I have confirmed it. Please put this on."
                             ]
                         },
                         {
@@ -1202,7 +1195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>また、衣服を下着以外全て脱衣ください。"
+                                "\\N<Shopkeeper>Please remove all your clothes except for your\nunderwear."
                             ]
                         },
                         {
@@ -1219,7 +1212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・はい。"
+                                "\\N<Naoto>...Yes."
                             ]
                         },
                         {
@@ -1358,7 +1351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>中へどうぞ。"
+                                "\\N<Shopkeeper>Please come inside."
                             ]
                         },
                         {

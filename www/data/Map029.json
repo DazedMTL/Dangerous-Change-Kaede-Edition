@@ -2056,7 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -2218,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>まさか・・まだここに住んでるのか・・・。"
+                                "\\N<Naoto>I can't believe it... you're still living here...."
                             ]
                         },
                         {
@@ -2312,7 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・ここじゃ・・ないのか・・・。"
+                                "\\N<Naoto>...You're not here...."
                             ]
                         },
                         {
@@ -2399,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>あれ？隣のやつに用かい？"
+                                "\\N<Male>Huh? Do you need something from the person next door?"
                             ]
                         },
                         {
@@ -2456,7 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・あ、そうです・・・。"
+                                "\\N<Naoto>Huh... Oh, yeah..."
                             ]
                         },
                         {
@@ -2473,7 +2473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そこの住人はほとんど帰ってきてねーぞ？"
+                                "\\N<Male>Most of the residents there rarely come back, you know?"
                             ]
                         },
                         {
@@ -2490,7 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、引っ越されたんですか？"
+                                "\\N<Naoto>Oh, did you move?"
                             ]
                         },
                         {
@@ -2507,7 +2507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>引っ越しはしてねーと思うけどなぁ。"
+                                "\\N<Male>I think they moved, though."
                             ]
                         },
                         {
@@ -2524,7 +2524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>昔は女連れ込んで、喘ぎ声がすげかったけど。"
+                                "\\N<Male>Back in the day, he used to bring girls over and there would\nbe loud moaning sounds."
                             ]
                         },
                         {
@@ -2541,7 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>最近はめっきり減ったなぁ。"
+                                "\\N<Male>It has significantly decreased recently."
                             ]
                         },
                         {
@@ -2558,7 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そ、そうですか・・・。"
+                                "\\N<Naoto>Is that so...."
                             ]
                         },
                         {
@@ -2575,14 +2575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>声がうるさすぎて一回苦情に行ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこにいた女が俺のチンポ咥えたりしてくれてなぁ・・・。"
+                                "\\N<Male>The noise was so loud that I once went to complain, and the\nwoman who was there ended up sucking my dick...."
                             ]
                         },
                         {
@@ -2599,7 +2592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・あっ・・そうですか・・・。"
+                                "\\N<Naoto>Huh... Oh, is that so...."
                             ]
                         },
                         {
@@ -2616,14 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>望めるならもう一度咥えてほしいなぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綾ちゃん・・・。"
+                                "\\N<Male>If I could, I would want Ayachan to suck me off again...."
                             ]
                         },
                         {
@@ -2649,7 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・・。"
+                                "\\N<Naoto>Huh....."
                             ]
                         },
                         {
@@ -2666,14 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ま、とにかくそこで待ってても帰ってこないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんじゃな。"
+                                "\\N<Male>Well, anyway, they won't come back if you wait there. So,\nlet's go."
                             ]
                         },
                         {
@@ -2808,7 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -2825,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ここで待ってても・・・か・・・。"
+                                "\\N<Naoto>Even if we wait here... I see..."
                             ]
                         },
                         {
@@ -2842,7 +2821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>もう一度、綾の家に行ってみるか・・・。"
+                                "\\N<Naoto>Should we go to Aya's house again..."
                             ]
                         },
                         {
@@ -3050,7 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ここか・・・ここにいるのか・・・！！"
+                                "\\N<Naoto>Is this... Is she here...!!"
                             ]
                         },
                         {
@@ -3093,7 +3072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>下山・・・！下山いるんだろ・・・！！！"
+                                "\\N<Naoto>She's coming down...! She must be coming down...!!!"
                             ]
                         },
                         {
@@ -3110,7 +3089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓っ・・・！！！"
+                                "\\N<Naoto>Kaede...!!!"
                             ]
                         },
                         {
@@ -3240,7 +3219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>おっこの前の兄ちゃんじゃねぇか。"
+                                "\\N<Male>Hey, aren't you the guy from earlier?"
                             ]
                         },
                         {
@@ -3297,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ・・あの！ここに住んでる人は！！"
+                                "\\N<Naoto>Ah... there she is! The person who lives here!!"
                             ]
                         },
                         {
@@ -3314,14 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>いねぇんじゃねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ったろ？ほとんど帰ってきてねぇってよ。"
+                                "\\N<Male>Hey, aren't you the guy from earlier? Didn't I tell you? She\nhardly ever comes back."
                             ]
                         },
                         {
@@ -3338,7 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、そうでした・・よね・・。"
+                                "\\N<Naoto>Ah, right..."
                             ]
                         },
                         {
@@ -3371,14 +3343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>あ、でも確か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近ちょいちょい帰ってきてるっぽいなぁ・・・。"
+                                "\\N<Male>Oh, but I think she's been coming back more often recently..."
                             ]
                         },
                         {
@@ -3411,7 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そ、そうなんですか！"
+                                "\\N<Naoto>Is, is that so?!"
                             ]
                         },
                         {
@@ -3428,7 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>にいちゃん友達かい？"
+                                "\\N<Male>Are you friends with him?"
                             ]
                         },
                         {
@@ -3445,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>え・・・・ま、まぁ・・・・。"
+                                "\\N<Naoto>Uh... W-Well..."
                             ]
                         },
                         {
@@ -3462,7 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>なら中で待ってればいいんじゃねぇか？"
+                                "\\N<Male>Then why don't you just wait inside?"
                             ]
                         },
                         {
@@ -3479,7 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>で、でも鍵が・・・。"
+                                "\\N<Naoto>But, I don't have the key...."
                             ]
                         },
                         {
@@ -3496,14 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>あーこつがいるんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと引きながらドアノブ回すと空くぜ"
+                                "\\N<Male>Ah, there's a trick to it. Just turn the doorknob while\npulling back a little and it'll open."
                             ]
                         },
                         {
@@ -3520,7 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・そ、そうなんですか・・・。"
+                                "\\N<Naoto>Oh... R-Really?"
                             ]
                         },
                         {
@@ -3537,7 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ダチなら中で待ってなよ！"
+                                "\\N<Male>If you're friends, then wait inside!"
                             ]
                         },
                         {
@@ -3554,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、ありがとうございます・・・。"
+                                "\\N<Naoto>Thank you very much...."
                             ]
                         },
                         {
@@ -3571,14 +3529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>いーってことよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあな！"
+                                "\\N<Male>That's what I'm saying! Well then, see you later!"
                             ]
                         },
                         {
@@ -4322,7 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -4664,7 +4615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>なんなのよ・・・この格好。"
+                                "\\N<Kaede>What's with this outfit..."
                             ]
                         },
                         {
@@ -4688,14 +4639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>だから説明しただろぉ・・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時の続きがしたいって・・・♡"
+                                "\\N<Kusayama>Didn't I already explain...? You said you wanted to\ncontinue from that time...♡"
                             ]
                         },
                         {
@@ -4728,7 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -4752,14 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ台本通りやろうかぁ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと覚えたかぁ・・・？♡"
+                                "\\N<Kusayama>Shall we follow the script then...♡ Did you remember it\nproperly...?♡"
                             ]
                         },
                         {
@@ -4792,7 +4729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>よく覚えてるわね・・・。こんなこと。"
+                                "\\N<Kaede>You remember it well... something like this."
                             ]
                         },
                         {
@@ -4816,7 +4753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そりゃ楓に初めて会った記念すべき日だぞぉ・・？♡"
+                                "\\N<Kusayama>Well, it's the memorable day when I first met Kaede,\nright...?♡"
                             ]
                         },
                         {
@@ -4833,14 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁ記憶は曖昧だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セリフはなんとなくだがな・・・♡"
+                                "\\N<Kusayama>Well, my memory is vague, so the lines are just kind\nof...♡"
                             ]
                         },
                         {
@@ -4857,7 +4787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほら早く・・・♡"
+                                "\\N<Kusayama>Hurry up...♡"
                             ]
                         },
                         {
@@ -4890,7 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -4930,7 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、あんたが下山？"
+                                "\\N<Kaede>Oh, are you Kusayama?"
                             ]
                         },
                         {
@@ -4954,7 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ？俺に女子高生の知り合いはいねーけどなぁ。"
+                                "\\N<Kusayama>Oh? I don't have any female high school acquaintances."
                             ]
                         },
                         {
@@ -4987,7 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、綾ねえ達に何したんだよ。"
+                                "\\N<Kaede>Ah, what did you do to Aya-ne and the others?"
                             ]
                         },
                         {
@@ -5011,7 +4941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほぉ・・・柏木の妹か・・・。"
+                                "\\N<Kusayama>Oh... Kaede, Kashiwagi's sister, huh..."
                             ]
                         },
                         {
@@ -5028,14 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>何って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君のお姉ちゃんとセックスしてただけだぞ？♡"
+                                "\\N<Kusayama>What do you mean... I just had sex with your sister, you\nknow?♡"
                             ]
                         },
                         {
@@ -5068,7 +4991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>こ、この・・・クソ野郎・・・。"
+                                "\\N<Kaede>This... you bastard...."
                             ]
                         },
                         {
@@ -5092,14 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>君がお姉ちゃんの変わりになるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうやめてもいいぞぉ？♡"
+                                "\\N<Kusayama>If you're willing to take your sister's place, I can stop,\nyou know?♡"
                             ]
                         },
                         {
@@ -5150,7 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>殺す！"
+                                "\\N<Kaede>I'll kill you!"
                             ]
                         },
                         {
@@ -5167,7 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>せいやっ！！！"
+                                "\\N<Kaede>Take this!!!"
                             ]
                         },
                         {
@@ -5216,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>うげっ・・・・！！"
+                                "\\N<Kusayama>Ugh....!!"
                             ]
                         },
                         {
@@ -5240,14 +5156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お、おい・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にやるやつがあるか！"
+                                "\\N<Kusayama>W-Whoa...! So you're really gonna do it, huh?!"
                             ]
                         },
                         {
@@ -5264,7 +5173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、なんとなく腹たったから。"
+                                "\\N<Kaede>Ah, I just got a little angry for some reason."
                             ]
                         },
                         {
@@ -5281,7 +5190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ったくよぉ・・・・。"
+                                "\\N<Kusayama> Jeez...."
                             ]
                         },
                         {
@@ -5409,7 +5318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おっと・・・・。"
+                                "\\N<Kusayama>Oops....."
                             ]
                         },
                         {
@@ -5426,7 +5335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そのポーズのままでいてくれよぉ・・・♡"
+                                "\\N<Kusayama>Stay in that position for me...♡"
                             ]
                         },
                         {
@@ -5443,7 +5352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ど、どういうこと・・・・。"
+                                "\\N<Kaede>W-What do you mean..."
                             ]
                         },
                         {
@@ -5494,7 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・な、なに・・・・。"
+                                "\\N<Kaede>...W-What..."
                             ]
                         },
                         {
@@ -5511,14 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>いーやー？♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、この蹴りで言い発KOしちゃったんだよなぁ？♡"
+                                "\\N<Kusayama>Oh-? ♡ Come to think of it, I knocked you out with that\nkick, didn't I? ♡"
                             ]
                         },
                         {
@@ -5535,7 +5437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -5552,14 +5454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>よぉし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあここからはあの時に続きだなぁ・・♡"
+                                "\\N<Kusayama>Alright... Then let's continue from where we left off back\nthen...♡"
                             ]
                         },
                         {
@@ -5622,7 +5517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -5639,7 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あれー？"
+                                "\\N<Kusayama>Huh-?"
                             ]
                         },
                         {
@@ -5656,7 +5551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんでこの下着にしてるんだぁ？"
+                                "\\N<Kusayama>Why are you wearing this underwear?"
                             ]
                         },
                         {
@@ -5673,7 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>これ俺があげたピンクのやつだよなぁ？"
+                                "\\N<Kusayama>This is the pink one I gave you, right?"
                             ]
                         },
                         {
@@ -5724,7 +5619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う、うるさいっ。"
+                                "\\N<Kaede>Ugh, you're so annoying."
                             ]
                         },
                         {
@@ -5741,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>別にいいでしょなんだって。"
+                                "\\N<Kaede>It's not a big deal, whatever."
                             ]
                         },
                         {
@@ -5758,7 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>可愛いところあるじゃねぇか笑"
+                                "\\N<Kusayama>You have some cute aspects, don't you? Haha."
                             ]
                         },
                         {
@@ -5775,7 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うるさい黙れ。"
+                                "\\N<Kaede>Shut up, you're annoying."
                             ]
                         },
                         {
@@ -5792,7 +5687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>それよりボタン。戻して"
+                                "\\N<Kaede>More importantly, button it up."
                             ]
                         },
                         {
@@ -5809,7 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>いーやこれからだろう？"
+                                "\\N<Kusayama>W-We're starting from here, right?"
                             ]
                         },
                         {
@@ -5860,7 +5755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・っ！"
+                                "\\N<Kaede>....!"
                             ]
                         },
                         {
@@ -5877,7 +5772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ここ外でしょ！！"
+                                "\\N<Kaede>We're outside, you know!!"
                             ]
                         },
                         {
@@ -5894,7 +5789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>外ってのもいいだろう？"
+                                "\\N<Kusayama>Isn't being outside also nice?"
                             ]
                         },
                         {
@@ -5911,14 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>誰か来るかもしれないってのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感度をビンビンにさせるよなぁ？"
+                                "\\N<Kusayama>Isn't the possibility of someone coming arousing?"
                             ]
                         },
                         {
@@ -5935,7 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・っ。"
+                                "\\N<Kaede>...."
                             ]
                         },
                         {
@@ -5952,7 +5840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あぁ本当に良いおっぱいだぁ。"
+                                "\\N<Kusayama>Ah, your breasts are really nice."
                             ]
                         },
                         {
@@ -5969,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>変態。"
+                                "\\N<Kaede>Pervert."
                             ]
                         },
                         {
@@ -5986,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>変態でも、今では夫婦だもんなぁ・・・♡"
+                                "\\N<Kusayama>Even though you're a pervert, we're married now, huh...♡"
                             ]
                         },
                         {
@@ -6003,7 +5891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -6020,7 +5908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あなた♡って呼んでくれよ？"
+                                "\\N<Kusayama>Call me Darling♡"
                             ]
                         },
                         {
@@ -6037,7 +5925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>絶対嫌。"
+                                "\\N<Kaede>I absolutely refuse."
                             ]
                         },
                         {
@@ -6054,7 +5942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんだよつれねーなぁ笑"
+                                "\\N<Kusayama>What's with the cold shoulder, huh? Laugh."
                             ]
                         },
                         {
@@ -6071,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>続きは家でいいから・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外は嫌・・・。"
+                                "\\N<Kaede>I'd prefer to continue at home.... I don't like being\noutside...."
                             ]
                         },
                         {
@@ -6095,7 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ・・・これだけよぉ・・・？♡"
+                                "\\N<Kusayama>Is this... enough for you...?♡"
                             ]
                         },
                         {
@@ -6146,7 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ちょっ・・本当に誰か来たら・・・。"
+                                "\\N<Kaede>Hey... If someone really comes..."
                             ]
                         },
                         {
@@ -6163,14 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>大丈夫だって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは滅多に人なんてこないからよ・・・♡"
+                                "\\N<Kusayama>Don't worry.... Hardly anyone ever comes here, so it's\nfine...♡"
                             ]
                         },
                         {
@@ -6187,14 +6061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>それに外で咥えてもらうのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意味があるんだろぉ・・・？♡"
+                                "\\N<Kusayama>Isn't there a meaning to having you do it outside...?♡"
                             ]
                         },
                         {
@@ -6211,7 +6078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いっ・・意味わかんないっ・・・・。"
+                                "\\N<Kaede>I... I don't understand the meaning..."
                             ]
                         },
                         {
@@ -6228,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>しゃぶってみれば分かるさ・・・♡"
+                                "\\N<Kusayama>If you try it, you'll understand...♡"
                             ]
                         },
                         {
@@ -6245,14 +6112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>な？夫婦だろぉ？♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうプレイもしなきゃなぁ・・♡"
+                                "\\N<Kusayama>Hey, aren't we a couple? ♡ We should try this kind of play\ntoo... ♡"
                             ]
                         },
                         {
@@ -6303,7 +6163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>夫婦関係・・ないから・・・。"
+                                "\\N<Kaede>We're not in a romantic relationship...."
                             ]
                         },
                         {
@@ -6320,7 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あんたがこんな変態なことしたいだけでしょ・・・。"
+                                "\\N<Kaede>You just want to do perverted things like this...."
                             ]
                         },
                         {
@@ -6337,7 +6197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁ・・それもあるけどなぁ・・・♡"
+                                "\\N<Kusayama>Well, that's one way to look at it...♡"
                             ]
                         },
                         {
@@ -6354,14 +6214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ嫌だったら言ってくれよぉ・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ止めるから・・・♡"
+                                "\\N<Kusayama>If you don't like it, just tell me...♡ I'll stop right\naway...♡"
                             ]
                         },
                         {
@@ -6378,7 +6231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・・・"
+                                "\\N<Kaede>Huh...."
                             ]
                         },
                         {
@@ -6441,7 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんんんっ・・・・！！"
+                                "\\N<Kaede>Ugh....!!"
                             ]
                         },
                         {
@@ -6458,7 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おほぉ♡あったかぁ・・・♡"
+                                "\\N<Kusayama>Ah, it's warm...♡"
                             ]
                         },
                         {
@@ -6475,7 +6328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんっ・・んんんっ・・こらっ・・・！！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -6492,14 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ♡やっぱり嫌かぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめるかぁ・・・・？♡"
+                                "\\N<Kusayama>Hehehe ♡ So you really don't like it...? Should I stop...?\n♡"
                             ]
                         },
                         {
@@ -6516,7 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんっ・・んんんっ・・・・・"
+                                "\\N<Kaede>Ugh...uhh..."
                             ]
                         },
                         {
@@ -6533,14 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ちょっとだけ我慢してくれよぉ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い気持ち良いからよぉ・・・。"
+                                "\\N<Kusayama>Just bear with it for a little bit...♡ It feels really\ngood, you know...."
                             ]
                         },
                         {
@@ -6557,7 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんんっ・・・・"
+                                "\\N<Kaede>Ugh...."
                             ]
                         },
                         {
@@ -6620,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅっ・・ぢゅぢゅ・・！！！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -6637,14 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ・・♡吸い付きが良くなったなぁ・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでいいってことかぁ・・・・？"
+                                "\\N<Kusayama>Oh...♡ You've gotten better at sucking...♡ Does that mean\nyou want to continue like this...?"
                             ]
                         },
                         {
@@ -6661,7 +6493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>別にっ・・んぢゅるるっ・・そんなことっ・・・。"
+                                "\\N<Kaede>It's not like that... n-never mind... it's nothing..."
                             ]
                         },
                         {
@@ -6678,14 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そうかぁ・・・？♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初に比べたらだいぶ素直になったよなぁ♡"
+                                "\\N<Kusayama>Is that so...? ♡ Compared to the beginning, you've become\nquite obedient, haven't you? ♡"
                             ]
                         },
                         {
@@ -6702,7 +6527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うっ・・うるさいっ・・・んぢゅるるるっ・・・！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -6719,7 +6544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>うほぉっ・・・いいねぇ♡"
+                                "\\N<Kusayama>Ohh...that feels good♡"
                             ]
                         },
                         {
@@ -6736,7 +6561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅぢゅばばばっ・・・！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -6753,7 +6578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>気持ち良いぞぉ・・楓♡"
+                                "\\N<Kusayama>Feels good, doesn't it... Kaede♡"
                             ]
                         },
                         {
@@ -6770,7 +6595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅっ・・・んんっ・・・！"
+                                "\\N<Kaede>Nngh...stop it...!"
                             ]
                         },
                         {
@@ -6787,7 +6612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>俺のちんぽ・・美味いかぁ・・・？♡"
+                                "\\N<Kusayama>Does my dick taste good...?♡"
                             ]
                         },
                         {
@@ -6838,14 +6663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>美味しいわけっ・・ないでしょっ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカなのっ・・・んぢゅぢゅっ・・！"
+                                "\\N<Kaede>There's no way it tastes good... You're an idiot... ngh...!"
                             ]
                         },
                         {
@@ -6862,7 +6680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>それでこそ楓だぁ・・♡"
+                                "\\N<Kusayama>That's exactly like Kaede...♡"
                             ]
                         },
                         {
@@ -6879,7 +6697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>でも美味しそうにしゃぶってるよなぁ・・・？♡"
+                                "\\N<Kusayama>But you're sucking on it so deliciously... aren't you? ♡"
                             ]
                         },
                         {
@@ -6896,7 +6714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅっ・・黙れっ・・・んぢゅるるるっ・・！"
+                                "\\N<Kaede>Shut up...stop it...!"
                             ]
                         },
                         {
@@ -6913,14 +6731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>夫婦だからなぁ・・♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからいつでもしゃぶってくれるかぁ？♡"
+                                "\\N<Kusayama>Because we're a married couple...♡ Will you suck on it for\nme anytime from now on?♡"
                             ]
                         },
                         {
@@ -6937,7 +6748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>わっ・・分かってるわよっ・・んぢゅるるるっ・・・。"
+                                "\\N<Kaede>Ah...I-I know... slurp..."
                             ]
                         },
                         {
@@ -6954,7 +6765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ちゃんと言葉にして言ってくれ♡"
+                                "\\N<Kusayama>Say it properly in words for me♡"
                             ]
                         },
                         {
@@ -6971,7 +6782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅるるっ・・っもういちいち・・・。"
+                                "\\N<Kaede>Mmm...stop it...every time..."
                             ]
                         },
                         {
@@ -6988,14 +6799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅっ・・いつでも咥えてあげるわよっ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぢゅるるるっ・・・。"
+                                "\\N<Kaede>I'll...always suck on it for you... slurp..."
                             ]
                         },
                         {
@@ -7012,7 +6816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>はぁはぁっ・・・もう我慢出来んっ・・・！♡"
+                                "\\N<Kusayama>Ah... I can't hold back anymore...!♡"
                             ]
                         },
                         {
@@ -7029,7 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・ちょっ・・ここでっ・・・！？"
+                                "\\N<Kaede>Huh...w-wait...here...!?"
                             ]
                         },
                         {
@@ -7116,7 +6920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ひぃ゛ぃあぁぁあーーー！！"
+                                "\\N<Kaede>Eeekk!!"
                             ]
                         },
                         {
@@ -7133,7 +6937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ凄い痙攣だなぁ・・♡"
+                                "\\N<Kusayama>Oh, what an amazing convulsion...♡"
                             ]
                         },
                         {
@@ -7150,7 +6954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あぁぁんっ・・んぁぁっ・・！！"
+                                "\\N<Kaede>Ahh...nghh...!!"
                             ]
                         },
                         {
@@ -7167,7 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>人は来ないって言ったけどよぉ・・♡"
+                                "\\N<Kusayama>You said no one would come, but...♡"
                             ]
                         },
                         {
@@ -7184,7 +6988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>絶対来ないって保証はないんだよなぁ・・♡"
+                                "\\N<Kusayama>There's no guarantee that no one will come, huh...♡"
                             ]
                         },
                         {
@@ -7201,7 +7005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんああ゛ぁぁぁっ・・なにっ・・今更ぁっ・・・！"
+                                "\\N<Kaede>Ahh...wha...what...now...!"
                             ]
                         },
                         {
@@ -7218,14 +7022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>もし来たら言い訳出来ないなぁ：・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって完全に外でセックスしちゃってるんだもんなぁ・・♡"
+                                "\\N<Kusayama>If someone comes, we won't be able to come up with any\nexcuses...♡ Because we're clearly having sex outside...♡"
                             ]
                         },
                         {
@@ -7242,7 +7039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はぁんっ・・んぐぁあ゛っ・・！！"
+                                "\\N<Kaede>Ah...ngghh...!!"
                             ]
                         },
                         {
@@ -7259,7 +7056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>楓が外でおっぱい丸出しでセックスって・・・♡"
+                                "\\N<Kusayama>Kaede having sex outside with her breasts exposed...♡"
                             ]
                         },
                         {
@@ -7276,7 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>たまらん・・・♡"
+                                "\\N<Kusayama>It's irresistible...♡"
                             ]
                         },
                         {
@@ -7293,7 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>言う・・・なぁっ・・・！あぁぁんっ・・・！"
+                                "\\N<Kaede>Don't...stop...! Ahhh...!"
                             ]
                         },
                         {
@@ -7310,7 +7107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>早くっ・・終わりっ・・にっ・・あぁぁ・・・！"
+                                "\\N<Kaede>Hurry...finish...ahh...!"
                             ]
                         },
                         {
@@ -7327,14 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なら早く出して♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って言ってもらわないとなぁ・・・♡"
+                                "\\N<Kusayama>If you don't tell me to hurry up and finish...♡"
                             ]
                         },
                         {
@@ -7351,7 +7141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>またっ・・・このっ・・変態っ・・・！"
+                                "\\N<Kaede>Again...this...pervert...!"
                             ]
                         },
                         {
@@ -7368,14 +7158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>変態でいいぞ♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも旦那だけどなぁ・・♡"
+                                "\\N<Kusayama>It's fine to be a pervert ♡ But I'm still your husband,\nyou know... ♡"
                             ]
                         },
                         {
@@ -7392,7 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁぁっ・・・はぁはぁっ・・・！"
+                                "\\N<Kaede>Ah...haa...haa...!"
                             ]
                         },
                         {
@@ -7409,7 +7192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>早くっ・・射精してっ・・・んあぁぁ・・！"
+                                "\\N<Kaede>Hurry...finish...ahh...!"
                             ]
                         },
                         {
@@ -7426,7 +7209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>早く射精してほしいのかぁ・・・？♡"
+                                "\\N<Kusayama>Do you want me to cum quickly...? ♡"
                             ]
                         },
                         {
@@ -7443,7 +7226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>っもうっ・・早く射精してって言ってるのよっ・・！"
+                                "\\N<Kaede>Just hurry up and cum already...!"
                             ]
                         },
                         {
@@ -7460,7 +7243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>はいはい分かりましたよ♡"
+                                "\\N<Kusayama>Alright, alright, I understand ♡"
                             ]
                         },
                         {
@@ -7511,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ふぅっ・・ふぅっ・・・！"
+                                "\\N<Kusayama>Ah...ahh...!"
                             ]
                         },
                         {
@@ -7528,7 +7311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあイクぞぉ・・・♡"
+                                "\\N<Kusayama>Alright, I'm going to cum...♡"
                             ]
                         },
                         {
@@ -7545,7 +7328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んあぁぁっ・・・あ゛っあっ・・・イクっ・・・"
+                                "\\N<Kaede>Ah...ahh...I'm...I'm cumming...!"
                             ]
                         },
                         {
@@ -7688,7 +7471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ゛あ゛うぅぅぅ・・・！！"
+                                "\\N<Kaede>Ah...ahh...I'm...I'm cumming...!"
                             ]
                         },
                         {
@@ -7705,7 +7488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>うぉぉぉ・・・。"
+                                "\\N<Kusayama>Whoa...."
                             ]
                         },
                         {
@@ -7722,7 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>やっぱ青空の下での射精は最高だなぁ・・・♡"
+                                "\\N<Kusayama> Ejaculating under the blue sky really is the best...♡"
                             ]
                         },
                         {
@@ -7739,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぐっ・・あぁっ・・・んんっ・・・・。"
+                                "\\N<Kaede>Nggh...ahh...mmm..."
                             ]
                         },
                         {
@@ -7756,7 +7539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>外でセックスなんて初めてだよなぁ・・・？♡"
+                                "\\N<Kusayama>Isn't this your first time having sex outside...?♡"
                             ]
                         },
                         {
@@ -7807,7 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁっ・・あぁ・・・あ、当たり前でしょっ・・・！！"
+                                "\\N<Kaede>Nggh...ahh...ah, of course...!!"
                             ]
                         },
                         {
@@ -7824,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>最高だろぉ・・・？♡"
+                                "\\N<Kusayama>Isn't it the best...?♡"
                             ]
                         },
                         {
@@ -7841,7 +7624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はぁはぁっ・・はぁはぁっ・・・・。"
+                                "\\N<Kaede>Ah...ahh...!"
                             ]
                         },
                         {
@@ -7858,7 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なぁ・・最高だろって・・・♡"
+                                "\\N<Kusayama>Hey... Isn't it the best...?♡"
                             ]
                         },
                         {
@@ -7875,7 +7658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うっ・・うるさいっ・・・！！"
+                                "\\N<Kaede>Ugh...so noisy...!!"
                             ]
                         },
                         {
@@ -7892,14 +7675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあもう一回するかぁ・・・？♡"
+                                "\\N<Kusayama>Hehehe ♡ Shall we do it one more time...? ♡"
                             ]
                         },
                         {
@@ -7916,14 +7692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>嫌って言ってるでしょ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう帰るっ・・・！！"
+                                "\\N<Kaede>You know I don't like it...! I'm going home...!!"
                             ]
                         },
                         {
@@ -7940,7 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ続きは家でかぁ・・・？♡"
+                                "\\N<Kusayama>So, shall we continue at home...?♡"
                             ]
                         },
                         {
@@ -7957,7 +7726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -7974,7 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なぁ・・・家なら良いってことかぁ・・・？♡"
+                                "\\N<Kusayama>Hey... So, is it okay if we do it at home...?♡"
                             ]
                         },
                         {
@@ -7991,7 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・す、好きにすればっ・・・。"
+                                "\\N<Kaede>...D-Do whatever you want...."
                             ]
                         },
                         {
@@ -8008,7 +7777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>よぉし・・じゃあ早速帰ろうか・・・♡"
+                                "\\N<Kusayama>Alright then... Let's go home right away...♡"
                             ]
                         },
                         {
@@ -8025,7 +7794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・・。"
+                                "\\N<Kaede>......."
                             ]
                         },
                         {
@@ -8541,7 +8310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>なんなのよ・・・この格好。"
+                                "\\N<Kaede>What's with this outfit..."
                             ]
                         },
                         {
@@ -8565,14 +8334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>だから説明しただろぉ・・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時の続きがしたいって・・・♡"
+                                "\\N<Kusayama>Didn't I already explain...? You said you wanted to\ncontinue from that time...♡"
                             ]
                         },
                         {
@@ -8605,7 +8367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -8629,14 +8391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ台本通りやろうかぁ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと覚えたかぁ・・・？♡"
+                                "\\N<Kusayama>Shall we follow the script then...♡ Did you remember it\nproperly...?♡"
                             ]
                         },
                         {
@@ -8669,7 +8424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>よく覚えてるわね・・・。こんなこと。"
+                                "\\N<Kaede>You remember it well... something like this."
                             ]
                         },
                         {
@@ -8693,7 +8448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そりゃ楓に初めて会った記念すべき日だぞぉ・・？♡"
+                                "\\N<Kusayama>Well, it's the memorable day when I first met Kaede,\nright...?♡"
                             ]
                         },
                         {
@@ -8710,14 +8465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁ記憶は曖昧だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セリフはなんとなくだがな・・・♡"
+                                "\\N<Kusayama>Well, my memory is vague, so the lines are just kind\nof...♡"
                             ]
                         },
                         {
@@ -8734,7 +8482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほら早く・・・♡"
+                                "\\N<Kusayama>Come on, hurry up...♡"
                             ]
                         },
                         {
@@ -8767,7 +8515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -8807,7 +8555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、あんたが下山？"
+                                "\\N<Kaede>Oh, are you Kusayama?"
                             ]
                         },
                         {
@@ -8831,7 +8579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ？俺に女子高生の知り合いはいねーけどなぁ。"
+                                "\\N<Kusayama>Oh? I don't think I know any high school girls."
                             ]
                         },
                         {
@@ -8864,7 +8612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、綾ねえ達に何したんだよ。"
+                                "\\N<Kaede>Ah, what did you do to Aya-ne and the others?"
                             ]
                         },
                         {
@@ -8888,7 +8636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほぉ・・・柏木の妹か・・・。"
+                                "\\N<Kusayama>Oh... Kaede, Kashiwagi's sister, huh..."
                             ]
                         },
                         {
@@ -8905,14 +8653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>何って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君のお姉ちゃんとセックスしてただけだぞ？♡"
+                                "\\N<Kusayama>What do you mean... I just had sex with your sister, you\nknow?♡"
                             ]
                         },
                         {
@@ -8945,7 +8686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>こ、この・・・クソ野郎・・・。"
+                                "\\N<Kaede>This... you bastard...."
                             ]
                         },
                         {
@@ -8969,14 +8710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>君がお姉ちゃんの変わりになるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうやめてもいいぞぉ？♡"
+                                "\\N<Kusayama>If you want to take your sister's place, you can stop now,\nyou know?♡"
                             ]
                         },
                         {
@@ -9027,7 +8761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>殺す！"
+                                "\\N<Kaede>I'll kill you!"
                             ]
                         },
                         {
@@ -9044,7 +8778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>せいやっ！！！"
+                                "\\N<Kaede>Take this!!!"
                             ]
                         },
                         {
@@ -9093,7 +8827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>うげっ・・・・！！"
+                                "\\N<Kusayama>Ugh....!!"
                             ]
                         },
                         {
@@ -9117,14 +8851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お、おい・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にやるやつがあるか！"
+                                "\\N<Kusayama>Oh, hey...! So there really is someone who's willing to\nfight!"
                             ]
                         },
                         {
@@ -9141,7 +8868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、なんとなく腹たったから。"
+                                "\\N<Kaede>Ah, I just got a little angry for some reason."
                             ]
                         },
                         {
@@ -9158,7 +8885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ったくよぉ・・・・。"
+                                "\\N<Kusayama>Ugh, seriously...."
                             ]
                         },
                         {
@@ -9286,7 +9013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おっと・・・・。"
+                                "\\N<Kusayama>Oops....."
                             ]
                         },
                         {
@@ -9303,7 +9030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そのポーズのままでいてくれよぉ・・・♡"
+                                "\\N<Kusayama>Stay in that position for me...♡"
                             ]
                         },
                         {
@@ -9320,7 +9047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ど、どういうこと・・・・。"
+                                "\\N<Kaede>W-What does this mean..."
                             ]
                         },
                         {
@@ -9371,7 +9098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・な、なに・・・・。"
+                                "\\N<Kaede>...W-What is this..."
                             ]
                         },
                         {
@@ -9388,14 +9115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>いーやー？♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、この蹴りで言い発KOしちゃったんだよなぁ？♡"
+                                "\\N<Kusayama>Wha-? ♡ Come to think of it, I think I knocked you out\nwith that kick, didn't I? ♡"
                             ]
                         },
                         {
@@ -9412,7 +9132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -9429,14 +9149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>よぉし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあここからはあの時に続きだなぁ・・♡"
+                                "\\N<Kusayama>Alright... then let's continue from where we left off,\nshall we..♡"
                             ]
                         },
                         {
@@ -9499,7 +9212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -9516,7 +9229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あれー？"
+                                "\\N<Kusayama>Huh-?"
                             ]
                         },
                         {
@@ -9533,7 +9246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんでこの下着にしてるんだぁ？"
+                                "\\N<Kusayama>Why are you wearing this underwear?"
                             ]
                         },
                         {
@@ -9550,7 +9263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>これ俺があげたピンクのやつだよなぁ？"
+                                "\\N<Kusayama>This is the pink one I gave you, right?"
                             ]
                         },
                         {
@@ -9601,7 +9314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う、うるさいっ。"
+                                "\\N<Kaede>Ugh, you're so annoying."
                             ]
                         },
                         {
@@ -9618,7 +9331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>別にいいでしょなんだって。"
+                                "\\N<Kaede>It's not a big deal, whatever."
                             ]
                         },
                         {
@@ -9635,7 +9348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>可愛いところあるじゃねぇか笑"
+                                "\\N<Kusayama>You've got some cute aspects, don't you? Haha."
                             ]
                         },
                         {
@@ -9652,7 +9365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うるさい黙れ。"
+                                "\\N<Kaede>Shut up, you're annoying."
                             ]
                         },
                         {
@@ -9669,7 +9382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>それよりボタン。戻して"
+                                "\\N<Kaede>More importantly, put the button back."
                             ]
                         },
                         {
@@ -9686,7 +9399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>いーやこれからだろう？"
+                                "\\N<Kusayama>We're starting from here, right?"
                             ]
                         },
                         {
@@ -9737,7 +9450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・っ！"
+                                "\\N<Kaede>....!"
                             ]
                         },
                         {
@@ -9754,7 +9467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ここ外でしょ！！"
+                                "\\N<Kaede>We're outside, you know!!"
                             ]
                         },
                         {
@@ -9771,7 +9484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>外ってのもいいだろう？"
+                                "\\N<Kusayama>Isn't being outside also nice?"
                             ]
                         },
                         {
@@ -9788,14 +9501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>誰か来るかもしれないってのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感度をビンビンにさせるよなぁ？"
+                                "\\N<Kusayama>Isn't the possibility of someone coming making you feel\nexcited?"
                             ]
                         },
                         {
@@ -9812,7 +9518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・っ。"
+                                "\\N<Kaede>...."
                             ]
                         },
                         {
@@ -9829,7 +9535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あぁ本当に良いおっぱいだぁ。"
+                                "\\N<Kusayama>Ah, you really have nice breasts."
                             ]
                         },
                         {
@@ -9846,7 +9552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>変態。"
+                                "\\N<Kaede>Pervert."
                             ]
                         },
                         {
@@ -9863,7 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>変態でも、今では夫婦だもんなぁ・・・♡"
+                                "\\N<Kusayama>Even though you're a pervert, we're married now, huh...♡"
                             ]
                         },
                         {
@@ -9880,7 +9586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -9897,7 +9603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あなた♡って呼んでくれよ？"
+                                "\\N<Kusayama>Call me Darling♡"
                             ]
                         },
                         {
@@ -9914,7 +9620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>絶対嫌。"
+                                "\\N<Kaede>I absolutely refuse."
                             ]
                         },
                         {
@@ -9931,7 +9637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんだよつれねーなぁ笑"
+                                "\\N<Kusayama>What's with the cold shoulder, huh? Haha."
                             ]
                         },
                         {
@@ -9948,14 +9654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>続きは家でいいから・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外は嫌・・・。"
+                                "\\N<Kaede>I'd rather continue at home.... I don't like being\noutside...."
                             ]
                         },
                         {
@@ -9972,7 +9671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ・・・これだけよぉ・・・？♡"
+                                "\\N<Kusayama>Is this... enough for you...?♡"
                             ]
                         },
                         {
@@ -10023,7 +9722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ちょっ・・本当に誰か来たら・・・。"
+                                "\\N<Kaede>Hey... If someone really comes..."
                             ]
                         },
                         {
@@ -10040,14 +9739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>大丈夫だって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは滅多に人なんてこないからよ・・・♡"
+                                "\\N<Kusayama>Don't worry... Hardly anyone ever comes here, so it's\nfine...♡"
                             ]
                         },
                         {
@@ -10064,14 +9756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>それに外で咥えてもらうのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意味があるんだろぉ・・・？♡"
+                                "\\N<Kusayama>Isn't there a meaning to having you do it outside...?♡"
                             ]
                         },
                         {
@@ -10088,7 +9773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いっ・・意味わかんないっ・・・・。"
+                                "\\N<Kaede>I... I don't understand the meaning..."
                             ]
                         },
                         {
@@ -10105,7 +9790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>しゃぶってみれば分かるさ・・・♡"
+                                "\\N<Kusayama>If you try it, you'll understand...♡"
                             ]
                         },
                         {
@@ -10122,14 +9807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>な？夫婦だろぉ？♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうプレイもしなきゃなぁ・・♡"
+                                "\\N<Kusayama>Hey, aren't we a couple? ♡ We should try playing like this\ntoo... ♡"
                             ]
                         },
                         {
@@ -10180,7 +9858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>夫婦関係・・ないから・・・。"
+                                "\\N<Kaede>We're not in a marital relationship...."
                             ]
                         },
                         {
@@ -10197,7 +9875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あんたがこんな変態なことしたいだけでしょ・・・。"
+                                "\\N<Kaede>You just want to do perverted things like this...."
                             ]
                         },
                         {
@@ -10214,7 +9892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁ・・それもあるけどなぁ・・・♡"
+                                "\\N<Kusayama>Well, that's one way to look at it...♡"
                             ]
                         },
                         {
@@ -10231,14 +9909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ嫌だったら言ってくれよぉ・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ止めるから・・・♡"
+                                "\\N<Kusayama>If you don't want to, just tell me...♡ I'll stop right\naway...♡"
                             ]
                         },
                         {
@@ -10255,7 +9926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・・・"
+                                "\\N<Kaede>Huh...."
                             ]
                         },
                         {
@@ -10318,7 +9989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんんんっ・・・・！！"
+                                "\\N<Kaede>Ah...!!"
                             ]
                         },
                         {
@@ -10335,7 +10006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おほぉ♡あったかぁ・・・♡"
+                                "\\N<Kusayama>Ah~ It's warm...♡"
                             ]
                         },
                         {
@@ -10352,7 +10023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんっ・・んんんっ・・こらっ・・・！！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -10369,14 +10040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ♡やっぱり嫌かぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめるかぁ・・・・？♡"
+                                "\\N<Kusayama>Hehehe ♡ So you really don't like it...? Should I stop...?\n♡"
                             ]
                         },
                         {
@@ -10393,7 +10057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんっ・・んんんっ・・・・・"
+                                "\\N<Kaede>Ugh...uhh..."
                             ]
                         },
                         {
@@ -10410,14 +10074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ちょっとだけ我慢してくれよぉ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い気持ち良いからよぉ・・・。"
+                                "\\N<Kusayama>Just bear with it for a little bit...♡ It feels so good,\nyou know...."
                             ]
                         },
                         {
@@ -10434,7 +10091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんんっ・・・・"
+                                "\\N<Kaede>Ugh...."
                             ]
                         },
                         {
@@ -10497,7 +10154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅっ・・ぢゅぢゅ・・！！！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -10514,14 +10171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ・・♡吸い付きが良くなったなぁ・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでいいってことかぁ・・・・？"
+                                "\\N<Kusayama>Oh...♡ You've gotten better at sucking...♡ Does that mean\nyou want to continue like this...?"
                             ]
                         },
                         {
@@ -10538,7 +10188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>別にっ・・んぢゅるるっ・・そんなことっ・・・。"
+                                "\\N<Kaede>It's not like that... n-never mind... it's nothing..."
                             ]
                         },
                         {
@@ -10555,14 +10205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そうかぁ・・・？♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初に比べたらだいぶ素直になったよなぁ♡"
+                                "\\N<Kusayama>Is that so...? ♡ Compared to the beginning, you've become\nquite obedient, haven't you? ♡"
                             ]
                         },
                         {
@@ -10579,7 +10222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うっ・・うるさいっ・・・んぢゅるるるっ・・・！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -10596,7 +10239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>うほぉっ・・・いいねぇ♡"
+                                "\\N<Kusayama>Ohh...that feels good♡"
                             ]
                         },
                         {
@@ -10613,7 +10256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅぢゅばばばっ・・・！"
+                                "\\N<Kaede>Ugh...stop it...!!"
                             ]
                         },
                         {
@@ -10630,7 +10273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>気持ち良いぞぉ・・楓♡"
+                                "\\N<Kusayama>Feels good, doesn't it... Kaede♡"
                             ]
                         },
                         {
@@ -10647,7 +10290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅっ・・・んんっ・・・！"
+                                "\\N<Kaede>Nngh...stop it...!"
                             ]
                         },
                         {
@@ -10664,7 +10307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>俺のちんぽ・・美味いかぁ・・・？♡"
+                                "\\N<Kusayama>Does my dick taste good...?♡"
                             ]
                         },
                         {
@@ -10715,14 +10358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>美味しいわけっ・・ないでしょっ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカなのっ・・・んぢゅぢゅっ・・！"
+                                "\\N<Kaede>There's no way it tastes good... You're an idiot... ngh...!"
                             ]
                         },
                         {
@@ -10739,7 +10375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>それでこそ楓だぁ・・♡"
+                                "\\N<Kusayama>That's exactly like Kaede...♡"
                             ]
                         },
                         {
@@ -10756,7 +10392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>でも美味しそうにしゃぶってるよなぁ・・・？♡"
+                                "\\N<Kusayama>But you're sucking on it so deliciously, aren't you...?♡"
                             ]
                         },
                         {
@@ -10773,7 +10409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅぢゅっ・・黙れっ・・・んぢゅるるるっ・・！"
+                                "\\N<Kaede>Nngh...shut up...nnghhh...!"
                             ]
                         },
                         {
@@ -10790,14 +10426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>夫婦だからなぁ・・♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからいつでもしゃぶってくれるかぁ？♡"
+                                "\\N<Kusayama>Because we're a married couple, right...♡ Will you suck it\nanytime from now on?♡"
                             ]
                         },
                         {
@@ -10814,7 +10443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>わっ・・分かってるわよっ・・んぢゅるるるっ・・・。"
+                                "\\N<Kaede>Ah...I-I know... slurp..."
                             ]
                         },
                         {
@@ -10831,7 +10460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ちゃんと言葉にして言ってくれ♡"
+                                "\\N<Kusayama>Say it properly in words for me♡"
                             ]
                         },
                         {
@@ -10848,7 +10477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅるるっ・・っもういちいち・・・。"
+                                "\\N<Kaede>Ugh...stop it...every time..."
                             ]
                         },
                         {
@@ -10865,14 +10494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぢゅっ・・いつでも咥えてあげるわよっ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぢゅるるるっ・・・。"
+                                "\\N<Kaede>I'll...always suck it for you... slurp..."
                             ]
                         },
                         {
@@ -10889,7 +10511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>はぁはぁっ・・・もう我慢出来んっ・・・！♡"
+                                "\\N<Kusayama>Ah... I can't hold back anymore...!♡"
                             ]
                         },
                         {
@@ -10906,7 +10528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・ちょっ・・ここでっ・・・！？"
+                                "\\N<Kaede>Huh...w-wait...here...!?"
                             ]
                         },
                         {
@@ -10993,7 +10615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ひぃ゛ぃあぁぁあーーー！！"
+                                "\\N<Kaede>Ah...ahhhhh!!"
                             ]
                         },
                         {
@@ -11010,7 +10632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ凄い痙攣だなぁ・・♡"
+                                "\\N<Kusayama>Oh, what an amazing convulsion...♡"
                             ]
                         },
                         {
@@ -11027,7 +10649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あぁぁんっ・・んぁぁっ・・！！"
+                                "\\N<Kaede>Ahhhh...nnghhh...!!"
                             ]
                         },
                         {
@@ -11044,7 +10666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>人は来ないって言ったけどよぉ・・♡"
+                                "\\N<Kusayama>You said no one would come, but...♡"
                             ]
                         },
                         {
@@ -11061,7 +10683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>絶対来ないって保証はないんだよなぁ・・♡"
+                                "\\N<Kusayama>There's no guarantee that no one will come, huh...♡"
                             ]
                         },
                         {
@@ -11078,7 +10700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んんああ゛ぁぁぁっ・・なにっ・・今更ぁっ・・・！"
+                                "\\N<Kaede>Ugh...ahhh...what...now...!"
                             ]
                         },
                         {
@@ -11095,14 +10717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>もし来たら言い訳出来ないなぁ：・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって完全に外でセックスしちゃってるんだもんなぁ・・♡"
+                                "\\N<Kusayama>If someone comes, we won't be able to come up with any\nexcuses...♡ Because we're clearly having sex outside...♡"
                             ]
                         },
                         {
@@ -11119,7 +10734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はぁんっ・・んぐぁあ゛っ・・！！"
+                                "\\N<Kaede>Ah...nguhh...!!"
                             ]
                         },
                         {
@@ -11136,7 +10751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>楓が外でおっぱい丸出しでセックスって・・・♡"
+                                "\\N<Kusayama>Kaede having sex outside with her breasts exposed...♡"
                             ]
                         },
                         {
@@ -11153,7 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>たまらん・・・♡"
+                                "\\N<Kusayama>It's irresistible...♡"
                             ]
                         },
                         {
@@ -11170,7 +10785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>言う・・・なぁっ・・・！あぁぁんっ・・・！"
+                                "\\N<Kaede>Don't...stop...! Ahhh...!"
                             ]
                         },
                         {
@@ -11187,7 +10802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>早くっ・・終わりっ・・にっ・・あぁぁ・・・！"
+                                "\\N<Kaede>Hurry...finish...ahhh...!"
                             ]
                         },
                         {
@@ -11204,14 +10819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なら早く出して♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って言ってもらわないとなぁ・・・♡"
+                                "\\N<Kusayama>If you don't ask me to finish quickly...♡"
                             ]
                         },
                         {
@@ -11228,7 +10836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>またっ・・・このっ・・変態っ・・・！"
+                                "\\N<Kaede>Again...this...pervert...!"
                             ]
                         },
                         {
@@ -11245,14 +10853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>変態でいいぞ♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも旦那だけどなぁ・・♡"
+                                "\\N<Kusayama>It's fine to be a pervert ♡ But I'm still your husband,\nyou know... ♡"
                             ]
                         },
                         {
@@ -11269,7 +10870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁぁっ・・・はぁはぁっ・・・！"
+                                "\\N<Kaede>Ugh...ahhh...huff...huff...!"
                             ]
                         },
                         {
@@ -11286,7 +10887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>早くっ・・射精してっ・・・んあぁぁ・・！"
+                                "\\N<Kaede>Hurry...finish...ahhh...!"
                             ]
                         },
                         {
@@ -11303,7 +10904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>早く射精してほしいのかぁ・・・？♡"
+                                "\\N<Kusayama>Do you want me to cum quickly...? ♡"
                             ]
                         },
                         {
@@ -11320,7 +10921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>っもうっ・・早く射精してって言ってるのよっ・・！"
+                                "\\N<Kaede>Just hurry up and cum already...!"
                             ]
                         },
                         {
@@ -11337,7 +10938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>はいはい分かりましたよ♡"
+                                "\\N<Kusayama>Alright, alright, I understand ♡"
                             ]
                         },
                         {
@@ -11388,7 +10989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ふぅっ・・ふぅっ・・・！"
+                                "\\N<Kusayama>Ah...ahh...!"
                             ]
                         },
                         {
@@ -11405,7 +11006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあイクぞぉ・・・♡"
+                                "\\N<Kusayama>Alright, I'm going to cum...♡"
                             ]
                         },
                         {
@@ -11422,7 +11023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んあぁぁっ・・・あ゛っあっ・・・イクっ・・・"
+                                "\\N<Kaede>Ah...ahh...I'm...I'm cumming..."
                             ]
                         },
                         {
@@ -11565,7 +11166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ゛あ゛うぅぅぅ・・・！！"
+                                "\\N<Kaede>Ah...ahh...I'm...I'm cumming..."
                             ]
                         },
                         {
@@ -11582,7 +11183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>うぉぉぉ・・・。"
+                                "\\N<Kusayama>Whoa...."
                             ]
                         },
                         {
@@ -11599,7 +11200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>やっぱ青空の下での射精は最高だなぁ・・・♡"
+                                "\\N<Kusayama> Ejaculating under the blue sky really is the best...♡"
                             ]
                         },
                         {
@@ -11616,7 +11217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぐっ・・あぁっ・・・んんっ・・・・。"
+                                "\\N<Kaede>Nggh...ahh...mmm..."
                             ]
                         },
                         {
@@ -11633,7 +11234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>外でセックスなんて初めてだよなぁ・・・？♡"
+                                "\\N<Kusayama>Isn't this your first time having sex outside...?♡"
                             ]
                         },
                         {
@@ -11684,7 +11285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁっ・・あぁ・・・あ、当たり前でしょっ・・・！！"
+                                "\\N<Kaede>Nggh...ahh...ah, of course...!!"
                             ]
                         },
                         {
@@ -11701,7 +11302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>最高だろぉ・・・？♡"
+                                "\\N<Kusayama>Isn't it the best...?♡"
                             ]
                         },
                         {
@@ -11718,7 +11319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はぁはぁっ・・はぁはぁっ・・・・。"
+                                "\\N<Kaede>Ah...ahh...!"
                             ]
                         },
                         {
@@ -11735,7 +11336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なぁ・・最高だろって・・・♡"
+                                "\\N<Kusayama>Hey... Isn't it the best...?♡"
                             ]
                         },
                         {
@@ -11752,7 +11353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うっ・・うるさいっ・・・！！"
+                                "\\N<Kaede>Ugh...so noisy...!!"
                             ]
                         },
                         {
@@ -11769,14 +11370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあもう一回するかぁ・・・？♡"
+                                "\\N<Kusayama>Hehehe ♡ Shall we do it one more time...? ♡"
                             ]
                         },
                         {
@@ -11793,14 +11387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>嫌って言ってるでしょ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう帰るっ・・・！！"
+                                "\\N<Kaede>You know I don't like it...! I'm going home...!!"
                             ]
                         },
                         {
@@ -11817,7 +11404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ続きは家でかぁ・・・？♡"
+                                "\\N<Kusayama>So, shall we continue at home...?♡"
                             ]
                         },
                         {
@@ -11834,7 +11421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -11851,7 +11438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なぁ・・・家なら良いってことかぁ・・・？♡"
+                                "\\N<Kusayama>Hey... So, is it okay if we do it at home...?♡"
                             ]
                         },
                         {
@@ -11868,7 +11455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・す、好きにすればっ・・・。"
+                                "\\N<Kaede>...D-Do whatever you want...."
                             ]
                         },
                         {
@@ -11885,7 +11472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>よぉし・・じゃあ早速帰ろうか・・・♡"
+                                "\\N<Kusayama>Alright then... Let's go home right away...♡"
                             ]
                         },
                         {
@@ -11902,7 +11489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・・。"
+                                "\\N<Kaede>......."
                             ]
                         },
                         {

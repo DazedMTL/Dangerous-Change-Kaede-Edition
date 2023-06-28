@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民宿　離れ木",
+    "displayName": "Guesthouse - Detached Tree",
     "encounterList": [],
     "encounterStep": 30,
     "height": 19,
@@ -3148,7 +3148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・。"
+                                "......"
                             ]
                         },
                         {
@@ -3247,7 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・。"
+                                "......"
                             ]
                         },
                         {
@@ -3355,7 +3355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
+                                "...."
                             ]
                         },
                         {
@@ -3372,7 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・。"
+                                "......"
                             ]
                         },
                         {
@@ -3389,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・。"
+                                "........"
                             ]
                         },
                         {
@@ -3441,7 +3441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>な、なんで洋介さんと和美さんが・・・。"
+                                "\\N<Naoto>W-Why are Yosuke-san and Kazumi-san..."
                             ]
                         },
                         {
@@ -3458,7 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・・・。"
+                                "\\N<Naoto>Haah..."
                             ]
                         },
                         {
@@ -3475,7 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -3531,7 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>かっ・・・楓はっ・・・。"
+                                "\\N<Naoto>Kaede..."
                             ]
                         },
                         {

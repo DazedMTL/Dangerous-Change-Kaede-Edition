@@ -1548,7 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -1654,7 +1654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -2086,7 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ここも・・・随分・・変わったな・・・。"
+                                "\\N<Naoto> This place... has changed quite a bit..."
                             ]
                         },
                         {
@@ -2437,7 +2437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！"
+                                "\\N<Naoto>....!"
                             ]
                         },
                         {
@@ -2454,7 +2454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お前はっ・・・は・・・葉月・・・。"
+                                "\\N<Kusayama>You... you're... Hazuki..."
                             ]
                         },
                         {
@@ -2471,7 +2471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>下・・・山・・・。"
+                                "\\N<Naoto>Kusayama..."
                             ]
                         },
                         {
@@ -2488,7 +2488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>な・・・何の用だ今更・・・。"
+                                "\\N<Kusayama>W-What do you want now..."
                             ]
                         },
                         {
@@ -2505,7 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -2522,7 +2522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>な、なんか言ったらどうなんだ・・・。"
+                                "\\N<Kusayama>W-What would happen if I said something..."
                             ]
                         },
                         {
@@ -2593,21 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>待てっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか変なもの持ってないだろうな・・・。"
+                                "\\N<Kusayama>Wait! You... don't happen to have something weird on you,\ndo you...?"
                             ]
                         },
                         {
@@ -2624,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そんなもの持ってない。"
+                                "\\N<Naoto>I don't have anything like that."
                             ]
                         },
                         {
@@ -2641,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃ、じゃあ何の用だ。"
+                                "\\N<Kusayama>So, so what do you want?"
                             ]
                         },
                         {
@@ -2658,7 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -2675,7 +2661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>目的は綾か？"
+                                "\\N<Kusayama>What is your purpose, Aya?"
                             ]
                         },
                         {
@@ -2692,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・いや・・・。"
+                                "\\N<Naoto>.....No...."
                             ]
                         },
                         {
@@ -2709,7 +2695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>悪いが、綾だったらもう俺は関わってない。"
+                                "\\N<Kusayama>Sorry, but if it's Aya, I'm no longer involved."
                             ]
                         },
                         {
@@ -2735,7 +2721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>か・・関わってない・・・！？"
+                                "\\N<Naoto>I...I'm not involved...!?"
                             ]
                         },
                         {
@@ -2752,14 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あぁ、新しい仕事をしてから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺とは関係を解消したんだ"
+                                "\\N<Kusayama>Ah, ever since you started your new job, you've cut ties\nwith me."
                             ]
                         },
                         {
@@ -2776,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>AV・・・・女優・・・。"
+                                "\\N<Naoto>AV....actress...."
                             ]
                         },
                         {
@@ -2793,7 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほぉ。知ってるのか。"
+                                "\\N<Kusayama>Oh, so you know."
                             ]
                         },
                         {
@@ -2810,7 +2789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -2827,7 +2806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>一つ言っておくが無理矢理させたわけじゃないぞ。"
+                                "\\N<Kusayama>Just so you know, I didn't force you into anything."
                             ]
                         },
                         {
@@ -2844,7 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あいつが自分からやりたいって言ったんだからな。"
+                                "\\N<Kusayama>He said he wanted to do it himself."
                             ]
                         },
                         {
@@ -2861,7 +2840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -2878,7 +2857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>で、目的が綾じゃないなら何の用だ。"
+                                "\\N<Kusayama>So, if it's not about Aya, what do you want?"
                             ]
                         },
                         {
@@ -2918,7 +2897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・――――いのか。"
+                                "\\N<Naoto>...Do you want to know?"
                             ]
                         },
                         {
@@ -2935,7 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・・あぁ？"
+                                "\\N<Kusayama>Huh?"
                             ]
                         },
                         {
@@ -2952,7 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>お、お前のは・・・そんなに凄いのか・・・。"
+                                "\\N<Naoto>Y-Your...is it really that amazing...."
                             ]
                         },
                         {
@@ -2969,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・あぁ？何の話だ？"
+                                "\\N<Kusayama>...Huh? What are you talking about?"
                             ]
                         },
                         {
@@ -2986,14 +2965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>下山・・・お前のその・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスのテクニックはそんなに凄いのか。"
+                                "\\N<Naoto>Kusayama... Is your... sex technique really that amazing?"
                             ]
                         },
                         {
@@ -3019,7 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんだ急に。そんなこと聞いて何になる。"
+                                "\\N<Kusayama>What's with the sudden question? What does it matter if\nyou ask something like that?"
                             ]
                         },
                         {
@@ -3036,7 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・いいから答えろ。"
+                                "\\N<Naoto>....Just answer the question."
                             ]
                         },
                         {
@@ -3053,7 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・・・。"
+                                "\\N<Kusayama>......"
                             ]
                         },
                         {
@@ -3070,14 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までどんな女でも俺のセックスにハマらせて来たぞ。"
+                                "\\N<Kusayama>Well, yeah. I've managed to make any woman addicted to my\nsex so far."
                             ]
                         },
                         {
@@ -3094,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3111,7 +3076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>さっきからなんなんだ。目的はなんだ。"
+                                "\\N<Kusayama>What's with you since earlier? What's your purpose?"
                             ]
                         },
                         {
@@ -3128,7 +3093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3145,7 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>し、下山・・お前に・・・た、頼みがある。"
+                                "\\N<Naoto>Sh-Kusayama...I-I have a favor to ask you."
                             ]
                         },
                         {
@@ -3162,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>頼み・・・だとぉ？"
+                                "\\N<Kusayama>A favor... you say?"
                             ]
                         },
                         {
@@ -3179,7 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3196,7 +3161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんだ・・・。"
+                                "\\N<Kusayama>What is it...."
                             ]
                         },
                         {
@@ -3213,7 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>くっ・・・・。"
+                                "\\N<Naoto>Ugh....."
                             ]
                         },
                         {
@@ -3230,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんださっきから・・・。さっさと言え。"
+                                "\\N<Kusayama>What's with you since earlier... just say it already."
                             ]
                         },
                         {
@@ -3247,14 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・下山・・・お前に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓と関係をもってもらいたい・・・。"
+                                "\\N<Naoto>...Kusayama... I want you to have a relationship with\nKaede..."
                             ]
                         },
                         {
@@ -3271,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>楓・・・？"
+                                "\\N<Kusayama>Kaede...?"
                             ]
                         },
                         {
@@ -3320,7 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>楓って・・・綾の妹ちゃんのことか。"
+                                "\\N<Kusayama>Kaede... you mean Aya's little sister?"
                             ]
                         },
                         {
@@ -3337,7 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・あぁ。"
+                                "\\N<Naoto>....Ah."
                             ]
                         },
                         {
@@ -3393,14 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そうかぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "葉月、お前寝取られ性癖に目覚めたんだろぉ？"
+                                "\\N<Kusayama>Oh, I see... Hazuki, so you've awakened to the fetish of\nbeing cuckolded, huh?"
                             ]
                         },
                         {
@@ -3445,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ。"
+                                "\\N<Naoto>...."
                             ]
                         },
                         {
@@ -3469,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ・・・なるほどなぁ・・・。"
+                                "\\N<Kusayama>Hehehe... I see..."
                             ]
                         },
                         {
@@ -3486,7 +3437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>何がおかしい・・・！"
+                                "\\N<Naoto>What's so funny...!"
                             ]
                         },
                         {
@@ -3503,7 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>読めてきたぞぉ・・・・？"
+                                "\\N<Kusayama>I think I've figured it out...?"
                             ]
                         },
                         {
@@ -3520,7 +3471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -3537,14 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>愛する妻、綾を俺に寝取られて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶望の淵にたったお前を救った妹ちゃん・・・。"
+                                "\\N<Kusayama>The little sister who saved you from the depths of despair\nafter your beloved wife, Aya, was taken away from me...."
                             ]
                         },
                         {
@@ -3561,21 +3505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>だが、セックスで満足させられてない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に寝取られ性癖が出てきて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他のやつとやってる姿を見てみたい・・・。"
+                                "\\N<Kusayama>But I'm not satisfied with just having sex. At the same\ntime, I've developed a fetish for being cuckolded and I want to see\nyou with someone else...."
                             ]
                         },
                         {
@@ -3604,7 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -3621,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ちっ・・違う！！"
+                                "\\N<Naoto>Tch... That's not it!!"
                             ]
                         },
                         {
@@ -3638,7 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあなんだぁ？反論はあるのかぁ？"
+                                "\\N<Kusayama>Well then, what is it? Do you have any objections?"
                             ]
                         },
                         {
@@ -3655,7 +3585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そ、そういうことじゃない・・・。"
+                                "\\N<Naoto>Th-that's not what I meant..."
                             ]
                         },
                         {
@@ -3672,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほぉ・・・・？"
+                                "\\N<Kusayama>Oh...?"
                             ]
                         },
                         {
@@ -3712,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -3729,7 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・イってるところが見たいんだ。"
+                                "\\N<Naoto>I want to see her when she's climaxing."
                             ]
                         },
                         {
@@ -3746,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・・・。"
+                                "\\N<Kusayama>......"
                             ]
                         },
                         {
@@ -3763,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>だからイかせれるであろう、俺に頼んできたのか。"
+                                "\\N<Kusayama>So, you're asking me because you think I can make her\nclimax."
                             ]
                         },
                         {
@@ -3780,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3797,7 +3727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>俺で何人目だぁ？"
+                                "\\N<Kusayama>Am I the umpteenth person for you?"
                             ]
                         },
                         {
@@ -3814,7 +3744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はっ・・・・？"
+                                "\\N<Naoto>Huh...?"
                             ]
                         },
                         {
@@ -3831,7 +3761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まさか頼むのが俺が初めてじゃないだろぉ？"
+                                "\\N<Kusayama>Don't tell me I'm not the first person you're asking for a\nfavor, right?"
                             ]
                         },
                         {
@@ -3848,7 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お前らは俺のことが死ぬほど嫌いなはずだからなぁ。"
+                                "\\N<Kusayama>You guys must hate me to death, huh?"
                             ]
                         },
                         {
@@ -3865,7 +3795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3882,7 +3812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・1人。"
+                                "\\N<Naoto>....Alone."
                             ]
                         },
                         {
@@ -3899,7 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なるほど、なるほど。"
+                                "\\N<Kusayama>I see, I see."
                             ]
                         },
                         {
@@ -3916,7 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そいつじゃ全然イかせられなかったわけだなぁ？"
+                                "\\N<Kusayama>So, you couldn't make her climax at all, huh?"
                             ]
                         },
                         {
@@ -3933,7 +3863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -3950,7 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>お前なら・・・イカせられるのか。"
+                                "\\N<Naoto>Can you make her climax?"
                             ]
                         },
                         {
@@ -3967,7 +3897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・あぁ俺なら出来る。"
+                                "\\N<Kusayama>...Ah, I can do it."
                             ]
                         },
                         {
@@ -4012,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -4029,7 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>どうするんだぁ？"
+                                "\\N<Kusayama>What are you going to do?"
                             ]
                         },
                         {
@@ -4046,7 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4063,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ふぅ。信用出来ないんだろぉ？俺が。"
+                                "\\N<Kusayama>Sigh. You don't trust me, huh?"
                             ]
                         },
                         {
@@ -4080,14 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、当たり前だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は・・・綾に何をしたと・・・・。"
+                                "\\N<Naoto>Ah, of course! What did you do to Aya..."
                             ]
                         },
                         {
@@ -4104,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁそりゃそうだよなぁ。"
+                                "\\N<Kusayama>Well, I guess that's understandable."
                             ]
                         },
                         {
@@ -4121,14 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>だがなぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今更だがあれは悪いと思ってるんだ・・・。"
+                                "\\N<Kusayama>But you know... I've been feeling bad about what happened,\neven though it's too late now..."
                             ]
                         },
                         {
@@ -4145,7 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4162,14 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お前の頼みなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一つや二つくらい協力的になるってもんだ。"
+                                "\\N<Kusayama>If it's your request, I'll be cooperative to some extent."
                             ]
                         },
                         {
@@ -4186,7 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>俺だって根からの悪人ってわけじゃないんだぞぉ？"
+                                "\\N<Kusayama>I'm not a completely bad person, you know?"
                             ]
                         },
                         {
@@ -4203,7 +4112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>も・・・もし楓に変なことしたら・・・・。"
+                                "\\N<Naoto>If... if you do anything strange to Kaede..."
                             ]
                         },
                         {
@@ -4220,14 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あのなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも俺は妹ちゃんに一度ぶっ飛ばされてるんだよ。"
+                                "\\N<Kusayama>You know, I've already been punched by my little sister\nonce, you know."
                             ]
                         },
                         {
@@ -4244,7 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>力づくでいっても返り討ちに合うだけだろぉ？"
+                                "\\N<Kusayama>If you try to use force, you'll just end up getting\nbeaten, you know?"
                             ]
                         },
                         {
@@ -4261,7 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4278,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>な・・・なら一度だけ・・・。"
+                                "\\N<Naoto>If... if it's just once..."
                             ]
                         },
                         {
@@ -4295,7 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>それで場所はどこだぁ？"
+                                "\\N<Kusayama>So, where is the place?"
                             ]
                         },
                         {
@@ -4312,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・そっちの家でいい。"
+                                "\\N<Naoto>...Your place is fine."
                             ]
                         },
                         {
@@ -4329,7 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ。あくまで家には近づけないってか・・・笑"
+                                "\\N<Kusayama>Hehehe. So you won't come near my house, huh... Laughable."
                             ]
                         },
                         {
@@ -4346,7 +4248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4363,7 +4265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そこに住んでるんだろ・・・？"
+                                "\\N<Naoto>You live there, right...?"
                             ]
                         },
                         {
@@ -4380,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あぁ住んでる。"
+                                "\\N<Kusayama>Yeah, I live there."
                             ]
                         },
                         {
@@ -4397,7 +4299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>俺と・・綾が・・住んでたところか・・・？"
+                                "\\N<Naoto>Is that where Ayame and I used to live...?"
                             ]
                         },
                         {
@@ -4414,7 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あぁ・・そうだ。"
+                                "\\N<Kusayama>Ah, that's right."
                             ]
                         },
                         {
@@ -4440,7 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ。"
+                                "\\N<Naoto>...."
                             ]
                         },
                         {
@@ -4457,14 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>それでお前はどこで見てるんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前か？隣の部屋か？"
+                                "\\N<Kusayama>So where are you watching from? Right in front of me? Or\nin the next room?"
                             ]
                         },
                         {
@@ -4481,7 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>い・・いや・・・映像を撮って・・・送ってくれ。"
+                                "\\N<Naoto>No...please take a video...and send it to me."
                             ]
                         },
                         {
@@ -4498,7 +4393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なるほどなぁ・・・。分かった。"
+                                "\\N<Kusayama>I see... I understand."
                             ]
                         },
                         {
@@ -4515,7 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>で、いつだ？"
+                                "\\N<Kusayama>So, when is it?"
                             ]
                         },
                         {
@@ -4532,7 +4427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4549,21 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>決まってないのかぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ今夜なんてどうだぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "丁度空いてるからよぉ・・・。"
+                                "\\N<Kusayama>So you haven't decided yet...? How about tonight then? I\nhappen to be free..."
                             ]
                         },
                         {
@@ -4580,7 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・今夜・・・。"
+                                "\\N<Naoto>.....Tonight...."
                             ]
                         },
                         {
@@ -4597,14 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁ俺は待ってるからよぉ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妹ちゃんと相談してくれや・・・。"
+                                "\\N<Kusayama>Well, I'll be waiting... Please discuss it with your\nsister..."
                             ]
                         },
                         {
@@ -4621,7 +4495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4702,7 +4576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4719,7 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁ・・・本当に・・・下山と・・・・。"
+                                "\\N<Naoto>Ah...really...with Kusayama..."
                             ]
                         },
                         {
@@ -4736,7 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁ・・・。"
+                                "\\N<Naoto>Ah...huff...huff..."
                             ]
                         },
                         {

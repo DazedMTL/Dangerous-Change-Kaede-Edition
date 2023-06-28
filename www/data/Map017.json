@@ -757,14 +757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将さん>あら直人君。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな夜にどうしたの？"
+                                "\\N<Landlady>Oh, Naoto-kun. What brings you out on a night like this?"
                             ]
                         },
                         {
@@ -841,7 +834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>逃げろー！！"
+                                "\\N<Child A> Run away!!"
                             ]
                         },
                         {
@@ -950,7 +943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>うわー！！"
+                                "\\N<Child B>Wow!!"
                             ]
                         },
                         {
@@ -1059,7 +1052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供C>待て待てー！！"
+                                "\\N<Child C>Wait, wait!!"
                             ]
                         },
                         {

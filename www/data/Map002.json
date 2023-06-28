@@ -2048,7 +2048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>どこ行くの？"
+                                "\\N<Kaede>Where are you going?"
                             ]
                         },
                         {
@@ -2154,7 +2154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更衣室に行こう。"
+                                "Let's go to the changing room."
                             ]
                         },
                         {
@@ -2377,7 +2377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はぁー今日もいい天気・・・。"
+                                "\\N<Kaede>Ah, it's another beautiful day...."
                             ]
                         },
                         {
@@ -2462,14 +2462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>直人がここに来て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう随分経つね。"
+                                "\\N<Kaede>It's been quite a while since Naoto came here."
                             ]
                         },
                         {
@@ -2493,14 +2486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いろいろあったけど、本当来てよかったと思ってる。"
+                                "\\N<Naoto>Yeah. There have been a lot of things going on, but I'm\nreally glad I came."
                             ]
                         },
                         {
@@ -2517,7 +2503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ここに来るとさ・・・。"
+                                "\\N<Naoto>When I come here..."
                             ]
                         },
                         {
@@ -2534,14 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>今までのこと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部忘れられそうだからさ・・・。"
+                                "\\N<Naoto>Because when I come here... it feels like I can forget about\neverything that happened before...."
                             ]
                         },
                         {
@@ -2613,7 +2592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・うん。"
+                                "\\N<Kaede>....Yeah."
                             ]
                         },
                         {
@@ -2630,7 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・色々・・・あったもんね・・・。"
+                                "\\N<Kaede>...Yeah, there have been a lot of things...."
                             ]
                         },
                         {
@@ -2677,7 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ああ・・・・。"
+                                "\\N<Naoto>Ah....."
                             ]
                         },
                         {
@@ -2694,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>本当・・・楓がいなかったら・・・。"
+                                "\\N<Naoto>Really... If Kaede wasn't here...."
                             ]
                         },
                         {
@@ -2775,7 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>それはもう言わない約束でしょ・・・？"
+                                "\\N<Kaede>You promised not to say that anymore, right...?"
                             ]
                         },
                         {
@@ -2792,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そう・・・だね。"
+                                "\\N<Naoto>Yeah... you're right."
                             ]
                         },
                         {
@@ -2809,7 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>でも・・ありがとう・・・本当に。"
+                                "\\N<Naoto>But... thank you... really."
                             ]
                         },
                         {
@@ -2826,7 +2805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・うん。"
+                                "\\N<Kaede>....Yeah."
                             ]
                         },
                         {
@@ -2843,7 +2822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>私も感謝してるからさ・・・。"
+                                "\\N<Kaede>I'm grateful too, you know...."
                             ]
                         },
                         {
@@ -2860,7 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓・・・・。"
+                                "\\N<Naoto>Kaede....."
                             ]
                         },
                         {
@@ -2877,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>じゃあ・・・お家帰ろっか・・・。"
+                                "\\N<Kaede>Well then... shall we go home?"
                             ]
                         },
                         {
@@ -2894,7 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ああ・・・！"
+                                "\\N<Naoto>Ah...!"
                             ]
                         },
                         {
@@ -3129,7 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>おはようございますー！"
+                                "\\N<Naoto>Good morning!"
                             ]
                         },
                         {
@@ -3155,7 +3134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>あ、おはよう直人君、楓ちゃん！"
+                                "\\N<Yosuke>Ah, good morning Naoto-kun, Kaede-chan!"
                             ]
                         },
                         {
@@ -3188,7 +3167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おはようございます。"
+                                "\\N<Kaede>Good morning."
                             ]
                         },
                         {
@@ -3221,7 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>いやー絶好の海日和だねー！"
+                                "\\N<Yosuke>Ah, it's the perfect weather for the beach!"
                             ]
                         },
                         {
@@ -3247,7 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>本当ですね！"
+                                "\\N<Naoto>That's true!"
                             ]
                         },
                         {
@@ -3273,14 +3252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>私まで呼んでもらってすいません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに子供たちまで。"
+                                "\\N<Landlady>I'm sorry for being called over, and even the children\ntoo."
                             ]
                         },
                         {
@@ -3297,14 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>みやくんが村の皆にごちそうしたいって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってたからいいんじゃないでしょうか？"
+                                "\\N<Yosuke>Since Miyakun said he wants to treat everyone in the\nvillage, isn't that a good idea?"
                             ]
                         },
                         {
@@ -3321,7 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>そうですか？ありがとうございます。"
+                                "\\N<Landlady>Is that so? Thank you very much."
                             ]
                         },
                         {
@@ -3338,7 +3303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>お礼ならみやくんに言ってあげてください笑"
+                                "\\N<Yosuke>If you want to thank someone, tell it to Miyakun, haha."
                             ]
                         },
                         {
@@ -3364,7 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>ほれ？さっきからみやの姿が見えんが・・・。"
+                                "\\N<Village Chief>Huh? I haven't seen Miyakun around since earlier..."
                             ]
                         },
                         {
@@ -3390,7 +3355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あれ和美さんもいないですよね。"
+                                "\\N<Naoto>Oh, Wami-san isn't here either, huh?"
                             ]
                         },
                         {
@@ -3407,14 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>みやくんは買い忘れた食材を買いに行ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "和美は今着替えてる。"
+                                "\\N<Yosuke>Miyakun went to buy the ingredients he forgot to buy. Wami\nis changing clothes right now."
                             ]
                         },
                         {
@@ -3440,7 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、じゃあ皆海入るんですね！"
+                                "\\N<Naoto>Oh, so everyone is going to the beach!"
                             ]
                         },
                         {
@@ -3457,14 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>そうだね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな炎天下の中でバーベキューだけしたら倒れちゃうよ笑"
+                                "\\N<Yosuke>That's right! If we have a barbecue in this scorching\nweather, we'll collapse, haha."
                             ]
                         },
                         {
@@ -3521,7 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓・・・！"
+                                "\\N<Naoto>Kaede...!"
                             ]
                         },
                         {
@@ -3561,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う、うん・・・。"
+                                "\\N<Kaede>Y-Yeah...."
                             ]
                         },
                         {
@@ -3948,7 +3899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供C>あ！直人兄ちゃんと楓姉ちゃんだ！！"
+                                "\\N<Child C>Ah! It's Naoto big brother and Kaede big sister!!"
                             ]
                         },
                         {
@@ -3965,7 +3916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>向こうで遊ぼうよー！"
+                                "\\N<Child B>Let's play over there!"
                             ]
                         },
                         {
@@ -3982,7 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>鬼ごっこしよ！鬼ごっこ！！"
+                                "\\N<Child A>Let's play tag! Tag, tag!!"
                             ]
                         },
                         {
@@ -4008,7 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>こーら！まだ二人とも来たばかりでしょ！"
+                                "\\N<Landlady>Hey! You two just arrived, didn't you?!"
                             ]
                         },
                         {
@@ -4065,14 +4016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、平気ですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ全員揃うまで時間ありそうだし！！"
+                                "\\N<Naoto>Oh, it's fine! It looks like we still have some time until\neveryone gathers!!"
                             ]
                         },
                         {
@@ -4105,14 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>よーし！じゃあ10秒数えるからねー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "10－！9－！"
+                                "\\N<Kaede>Alright! Then I'll count to ten! 10-! 9-!"
                             ]
                         },
                         {
@@ -4172,7 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供たち>うわー！！！！"
+                                "\\N<Children>Wow-!!!"
                             ]
                         },
                         {
@@ -4684,7 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>よーし！！"
+                                "\\N<Naoto>Alright!!"
                             ]
                         },
                         {
@@ -5141,7 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>あれ！直人さんに楓、どこにいたんすか！"
+                                "\\N<Miya>Oh! Naoto-san, where were you, Kaede?"
                             ]
                         },
                         {
@@ -5158,14 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ごめんごめん笑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆で鬼ごっこしててさ！"
+                                "\\N<Naoto>Sorry, sorry! We were all playing tag!"
                             ]
                         },
                         {
@@ -5182,14 +5112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>お！いいっすね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後で皆でやりましょー！"
+                                "\\N<Miya>Oh! That sounds great! Let's all play later!"
                             ]
                         },
                         {
@@ -5231,7 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あら、直人君、楓ちゃんおはよう！"
+                                "\\N<Kazumi>Oh, good morning Naoto-kun, Kaede-chan!"
                             ]
                         },
                         {
@@ -5264,7 +5187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>和美さん・・・・お、おはようございます。"
+                                "\\N<Naoto>Good morning, Kazumi-san."
                             ]
                         },
                         {
@@ -5290,14 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>あー！直人さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "和美さんのボディに見とれてるなー！？"
+                                "\\N<Miya>Oh! Naoto-san, are you captivated by Kazumi-san's body?!"
                             ]
                         },
                         {
@@ -5354,7 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ばっ・・そんなわけないだろ！笑"
+                                "\\N<Naoto>Haha.. There's no way that's true!"
                             ]
                         },
                         {
@@ -5394,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>本当ですかー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "和美さんの爆乳ボディに何も思わない男はいませんよー？笑"
+                                "\\N<Miya>Is that true? There's no man who wouldn't think anything about\nKazumi-san's busty body, right? Haha."
                             ]
                         },
                         {
@@ -5418,7 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>や、やめろって・・！笑"
+                                "\\N<Naoto>Hey, cut it out..! Haha."
                             ]
                         },
                         {
@@ -5458,14 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>よし！じゃあ楓も水着になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その締まったボディみせてやりなよ！笑"
+                                "\\N<Miya>Alright! Then Kaede, show off your tight body in a swimsuit\ntoo! Haha."
                             ]
                         },
                         {
@@ -5529,7 +5431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おい。"
+                                "\\N<Kaede>Hey."
                             ]
                         },
                         {
@@ -5569,7 +5471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>あっ・・・すいません。"
+                                "\\N<Miya>Ah... I'm sorry."
                             ]
                         },
                         {
@@ -5611,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あれ？楓ちゃんも水着持ってきてるのよね？"
+                                "\\N<Kazumi>Oh? Kaede-chan, did you bring a swimsuit too?"
                             ]
                         },
                         {
@@ -5713,7 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ・・・まぁ一応・・・。"
+                                "\\N<Kaede>Ah... well, I did bring one just in case...."
                             ]
                         },
                         {
@@ -5753,14 +5655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>じゃあ着替えてきなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気温も上がってきたし、暑いでしょう？"
+                                "\\N<Kazumi>Then go change! The temperature has risen, so it must be\nhot, right?"
                             ]
                         },
                         {
@@ -5800,7 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>は、はい・・・。"
+                                "\\N<Kaede>Yes...."
                             ]
                         },
                         {
@@ -5824,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>じゃあ俺らも着替えてきます！"
+                                "\\N<Naoto>Alright, we'll go change too!"
                             ]
                         },
                         {
@@ -5857,7 +5752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>うん！先に準備してるわね！"
+                                "\\N<Kazumi>Yes! I'm getting ready first!"
                             ]
                         },
                         {
@@ -5888,7 +5783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はい！"
+                                "\\N<Naoto>Yes!"
                             ]
                         },
                         {
@@ -6350,14 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>じゃあ今日は俺のおごりなんで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃんじゃん食べちゃて下さい！"
+                                "\\N<Miya>Well then, since it's on me today, go ahead and eat as much as\nyou want!"
                             ]
                         },
                         {
@@ -6383,7 +6271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>おー美味しそうじゃのー！"
+                                "\\N<Village Chief>Oh, it looks delicious!"
                             ]
                         },
                         {
@@ -6409,7 +6297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>じゃあ頂きましょうか！"
+                                "\\N<Landlady>Well then, shall we dig in?"
                             ]
                         },
                         {
@@ -6453,7 +6341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供たち>やったー！"
+                                "\\N<Children>Yay-!"
                             ]
                         },
                         {
@@ -6724,7 +6612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あ、楓ちゃん！"
+                                "\\N<Kazumi>Ah, Kaede-chan!"
                             ]
                         },
                         {
@@ -6829,7 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>お待たせ。"
+                                "\\N<Kaede>Sorry to keep you waiting."
                             ]
                         },
                         {
@@ -6846,7 +6734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>おぉっ・・・・。"
+                                "\\N<Naoto>Oh..."
                             ]
                         },
                         {
@@ -6863,14 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらー上着てるのー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかくスタイル良いのにもったいない笑"
+                                "\\N<Kazumi>Oh, you're wearing a jacket? It's a shame since you have\nsuch a nice figure, haha."
                             ]
                         },
                         {
@@ -6903,7 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・・。"
+                                "\\N<Kaede>Huh...."
                             ]
                         },
                         {
@@ -6920,7 +6801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>そーだよ楓！暑いんだからそれ脱いじゃえよー！笑"
+                                "\\N<Miya>Hey Kaede, it's hot out, so why don't you take that off? Haha."
                             ]
                         },
                         {
@@ -6953,7 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おいっ・・・。"
+                                "\\N<Kaede>Hey...."
                             ]
                         },
                         {
@@ -6970,7 +6851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>あ、ご・・・・ごめん。"
+                                "\\N<Miya>Ah, s-sorry."
                             ]
                         },
                         {
@@ -7003,14 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>直人は・・その・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱いだ方が良いと思う？"
+                                "\\N<Kaede>Naoto... um... do you think it would be better if I took it\noff?"
                             ]
                         },
                         {
@@ -7027,14 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>う・・うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓の水着姿・・・・見たいよ。"
+                                "\\N<Naoto>Uh... yeah. I... I want to see Kaede in a swimsuit."
                             ]
                         },
                         {
@@ -7051,7 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ひゅーひゅー！！"
+                                "\\N<Miya>Hyu-hyu!!"
                             ]
                         },
                         {
@@ -7068,7 +6935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ちょ、やめてよみやくん笑"
+                                "\\N<Naoto>Hey, stop it, Miya-kun. Laughing"
                             ]
                         },
                         {
@@ -7085,7 +6952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -7130,7 +6997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ！"
+                                "\\N<Naoto>.....!"
                             ]
                         },
                         {
@@ -7147,7 +7014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>やっぱりスタイル抜群ねー楓ちゃん！"
+                                "\\N<Kazumi>As expected, Kaede-chan, you have an amazing figure!"
                             ]
                         },
                         {
@@ -7164,7 +7031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>うわー！思ったよりおっぱいデカっ！！"
+                                "\\N<Miya>Wow! Your boobs are bigger than I thought!!"
                             ]
                         },
                         {
@@ -7197,7 +7064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うるさい・・・。"
+                                "\\N<Kaede>So noisy...."
                             ]
                         },
                         {
@@ -7214,7 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓・・・・。き、キレイだよ。"
+                                "\\N<Naoto>Kaede... y-you look beautiful."
                             ]
                         },
                         {
@@ -7247,7 +7114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う、嬉しい・・・。"
+                                "\\N<Kaede>I-I'm happy...."
                             ]
                         },
                         {
@@ -7264,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えへへ・・・。"
+                                "\\N<Naoto>Ehehe...."
                             ]
                         },
                         {
@@ -7281,7 +7148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ひゅーひゅー！！"
+                                "\\N<Miya>Hyu-hyu!!"
                             ]
                         },
                         {
@@ -7298,7 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>みやくんってば！！"
+                                "\\N<Naoto>Miya-kun, seriously!!"
                             ]
                         },
                         {
@@ -7425,7 +7292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>じゃあ全員揃ったところで頂きましょう！"
+                                "\\N<Kazumi>Well then, now that everyone is here, let's dig in!"
                             ]
                         },
                         {
@@ -7540,7 +7407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -7557,7 +7424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -7574,7 +7441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {
@@ -7612,14 +7479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>いやーでも本当みやくんの件が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解決してよかったねー！"
+                                "\\N<Naoto>Yeah, but I'm really glad that Miya's situation got resolved!"
                             ]
                         },
                         {
@@ -7645,14 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>まじでありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝してもしきれないっすよ・・・。"
+                                "\\N<Miya>Thank you so much! I can't express my gratitude enough...."
                             ]
                         },
                         {
@@ -7669,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>俺は何もしてないけどね・・・笑"
+                                "\\N<Naoto>I didn't do anything though...haha"
                             ]
                         },
                         {
@@ -7695,28 +7548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>いーや！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの二人の前でも引かずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺を守ってくれようとしたじゃないっすか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの恩は忘れませんよー？"
+                                "\\N<Miya>No! You tried to protect me without backing down in front of\nthose two, right? I won't forget that favor, you know?"
                             ]
                         },
                         {
@@ -7742,14 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>直人くん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなかっこいいことしたのかすごいなー笑"
+                                "\\N<Yosuke>Naoto-kun, did you really do something so cool? That's\namazing, haha."
                             ]
                         },
                         {
@@ -7775,7 +7600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>さすがね！"
+                                "\\N<Kazumi>As expected!"
                             ]
                         },
                         {
@@ -7792,7 +7617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>やめてくださいよ笑"
+                                "\\N<Naoto>Please stop it, haha."
                             ]
                         },
                         {
@@ -7809,7 +7634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>実際助けたのは楓なんですから笑"
+                                "\\N<Naoto>Actually, it was Kaede who helped, so she deserves the\ncredit, haha."
                             ]
                         },
                         {
@@ -7857,7 +7682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ねっ！"
+                                "\\N<Naoto>Hey!"
                             ]
                         },
                         {
@@ -7921,7 +7746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>まぁ・・・。"
+                                "\\N<Kaede>Well...."
                             ]
                         },
                         {
@@ -7945,14 +7770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>なんか取っ組み合いになったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓ちゃんが強すぎたとか・・・。"
+                                "\\N<Yosuke>It turned into a bit of a scuffle, but they said Kaede-chan\nwas too strong...."
                             ]
                         },
                         {
@@ -7994,7 +7812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>えっ！？楓ちゃんってそんなに強いの！？"
+                                "\\N<Kazumi>Huh!? Kaede-chan is that strong!?"
                             ]
                         },
                         {
@@ -8065,7 +7883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>小さい時から空手やってて・・・。"
+                                "\\N<Kaede>I've been doing karate since I was little...."
                             ]
                         },
                         {
@@ -8129,7 +7947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>それでも凄いね・・・。"
+                                "\\N<Yosuke>Even so, that's amazing...."
                             ]
                         },
                         {
@@ -8155,7 +7973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>昔はゴリラ女でしたからねー！"
+                                "\\N<Miya>I used to be a gorilla girl back then, you know!"
                             ]
                         },
                         {
@@ -8188,7 +8006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あんたねぇ・・・。"
+                                "\\N<Kaede>You, you know...."
                             ]
                         },
                         {
@@ -8212,14 +8030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そういえばみやくん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洋介さんと和美さんにはちゃんと謝ったのかい？"
+                                "\\N<Naoto>By the way, Miya-kun, did you properly apologize to Yosuke-\nsan and Kazumi-san?"
                             ]
                         },
                         {
@@ -8245,14 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>もちろんっすよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のせいで迷惑かけてしまって・・・"
+                                "\\N<Miya>Of course! I caused trouble with my actions..."
                             ]
                         },
                         {
@@ -8278,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>あははそれはもういいさ。"
+                                "\\N<Yosuke>Hahaha, well, that's all in the past."
                             ]
                         },
                         {
@@ -8304,7 +8108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>その代わりちゃんと協力してますもんね笑"
+                                "\\N<Miya>Instead, I'm cooperating properly, you know? Haha."
                             ]
                         },
                         {
@@ -8330,7 +8134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>・・・・・っ。"
+                                "\\N<Yosuke>....."
                             ]
                         },
                         {
@@ -8363,7 +8167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>・・・・・っ。"
+                                "\\N<Kazumi>....."
                             ]
                         },
                         {
@@ -8396,7 +8200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>なに？協力って。"
+                                "\\N<Naoto>What? Cooperation?"
                             ]
                         },
                         {
@@ -8422,7 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>あ、なんでもないっす！"
+                                "\\N<Miya>Ah, it's nothing!"
                             ]
                         },
                         {
@@ -8455,7 +8259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>さ、さぁっお肉食べましょう・・・！"
+                                "\\N<Kazumi>L-Let's, let's eat the meat...!"
                             ]
                         },
                         {
@@ -8491,7 +8295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -8508,7 +8312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -8525,7 +8329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {
@@ -8643,7 +8447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ふぅー！お腹いっぱい！"
+                                "\\N<Naoto>Phew! I'm full!"
                             ]
                         },
                         {
@@ -8707,7 +8511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うん結構食べたねー！"
+                                "\\N<Kaede>Yeah, we ate quite a lot, huh-!"
                             ]
                         },
                         {
@@ -8740,7 +8544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あれ？みんなどこ行ったんだ？"
+                                "\\N<Naoto>Huh? Where did everyone go?"
                             ]
                         },
                         {
@@ -8773,7 +8577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>みやと子供たちは向こうで鬼ごっこしてるって。"
+                                "\\N<Kaede>Miya and the kids are playing tag over there."
                             ]
                         },
                         {
@@ -8797,14 +8601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>村長と女将は向こうか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？洋介さんと和美さんは・・・？"
+                                "\\N<Naoto>The village chief and the landlady are over there.... Huh?\nWhere are Yosuke-san and Kazumi-san...?"
                             ]
                         },
                         {
@@ -8837,14 +8634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あ、そういえば。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきまでいたのにね。"
+                                "\\N<Kaede>Oh, now that you mention it. They were here just a moment\nago."
                             ]
                         },
                         {
@@ -8908,7 +8698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>直人兄ちゃんと楓姉ちゃんも鬼ごっこしよーよ！！"
+                                "\\N<Child A> Let's play tag with Naoto and Kaede too!"
                             ]
                         },
                         {
@@ -8996,7 +8786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>おっ！やるか！"
+                                "\\N<Naoto>Oh! Let's do it!"
                             ]
                         },
                         {
@@ -9029,7 +8819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>よーし！！"
+                                "\\N<Kaede>Alright!!"
                             ]
                         },
                         {
@@ -9276,7 +9066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>更衣室に用なんてないでしょ・・・。"
+                                "\\N<Kaede>There's no need for you to be in the changing room...."
                             ]
                         },
                         {
@@ -9398,7 +9188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>更衣室に用なんてないでしょ・・・。"
+                                "\\N<Kaede>There's no need for me to go to the changing room...."
                             ]
                         },
                         {
@@ -9520,7 +9310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>更衣室に用なんてないでしょ・・・。"
+                                "\\N<Kaede>There's no need for me to go to the changing room...."
                             ]
                         },
                         {
@@ -9642,7 +9432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>更衣室に用なんてないでしょ・・・。"
+                                "\\N<Kaede>There's no need for me to go to the changing room...."
                             ]
                         },
                         {
@@ -9757,7 +9547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちは女子更衣室だ・・・。"
+                                "This is the girls' changing room...."
                             ]
                         },
                         {
@@ -9872,7 +9662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>こっち女子更衣室だけど・・・。"
+                                "\\N<Kaede>This is the girls' changing room...."
                             ]
                         },
                         {
@@ -9994,7 +9784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>こっち女子更衣室だけど・・・。"
+                                "\\N<Kaede>This is the girls' changing room...."
                             ]
                         },
                         {
@@ -10116,7 +9906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>こっち女子更衣室だけど・・・。"
+                                "\\N<Kaede>This is the girls' changing room...."
                             ]
                         },
                         {
@@ -10222,7 +10012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・っ・・・っ！！・・・っっ・！！"
+                                "....Ah...ah!!...ahh!!"
                             ]
                         },
                         {
@@ -10278,7 +10068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>こっち女子更衣室だけど・・・。"
+                                "\\N<Kaede>This is the girls' changing room..."
                             ]
                         },
                         {
@@ -10384,7 +10174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は楓が着替えている・・・。"
+                                "Right now, Kaede is changing her clothes...."
                             ]
                         },
                         {
@@ -10555,7 +10345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更衣室に行こう・・・。"
+                                "Let's go to the changing room...."
                             ]
                         },
                         {
@@ -10810,7 +10600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>みやのやつ遅いのぉ。"
+                                "\\N<Village Chief> Miyano is so slow."
                             ]
                         },
                         {
@@ -10878,7 +10668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>みやのやつ遅いのぉ。"
+                                "\\N<Village Chief> Miyano is so slow."
                             ]
                         },
                         {
@@ -10946,7 +10736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>肉じゃ肉じゃ♪"
+                                "\\N<Village Chief>Meat, meat, meat!♪"
                             ]
                         },
                         {
@@ -11125,7 +10915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>遊んでくれてありがとうね。"
+                                "\\N<Landlady>Thank you for playing with us."
                             ]
                         },
                         {
@@ -11193,7 +10983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>遊んでくれてありがとうね。"
+                                "\\N<Landlady>Thank you for playing with us."
                             ]
                         },
                         {
@@ -11372,7 +11162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>和美・・遅いなぁ・・・。"
+                                "\\N<Yosuke> Kazumi... she's late..."
                             ]
                         },
                         {
@@ -11440,7 +11230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>ぐっ・・・・。"
+                                "\\N<Yosuke>Ugh....."
                             ]
                         },
                         {
@@ -11686,7 +11476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>着替えないの？"
+                                "\\N<Kazumi> Aren't you going to change your clothes?"
                             ]
                         },
                         {
@@ -11923,7 +11713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>お腹すいたー！"
+                                "\\N<Child A>I'm hungry!"
                             ]
                         },
                         {
@@ -12153,7 +11943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>ばーべきゅーだー！"
+                                "\\N<Child B> Ba-byu-da-!"
                             ]
                         },
                         {
@@ -12383,7 +12173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供C>お肉♪お肉♪"
+                                "\\N<Child C> Meat♪ Meat♪"
                             ]
                         },
                         {
@@ -12724,7 +12514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ひかる>お母さんなんか顔赤い？"
+                                "\\N<Hikaru>Mom, why is your face red?"
                             ]
                         },
                         {
@@ -12903,7 +12693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>いやーいい天気っすね！！"
+                                "\\N<Miya>Ah, it's such great weather!!"
                             ]
                         },
                         {
@@ -13193,7 +12983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>みやのやつ遅いのぉ。"
+                                "\\N<Village Chief> Miyano is so slow."
                             ]
                         },
                         {
@@ -13270,7 +13060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>遊んでくれてありがとうね。"
+                                "\\N<Landlady>Thank you for playing with us."
                             ]
                         },
                         {
@@ -13731,14 +13521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>じゃあ今日は俺のおごりなんで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃんじゃん食べちゃて下さい！"
+                                "\\N<Miya>Well then, since it's on me today, go ahead and eat as much as\nyou want!"
                             ]
                         },
                         {
@@ -13764,7 +13547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<村長>おー美味しそうじゃのー！"
+                                "\\N<Village Chief>Oh, it looks delicious!"
                             ]
                         },
                         {
@@ -13790,7 +13573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>じゃあ頂きましょうか！"
+                                "\\N<Landlady>Well then, let's dig in!"
                             ]
                         },
                         {
@@ -13834,7 +13617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供たち>やったー！"
+                                "\\N<Children>Yay-!"
                             ]
                         },
                         {
@@ -14110,7 +13893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あ、楓ちゃん！"
+                                "\\N<Kazumi>Ah, Kaede-chan!"
                             ]
                         },
                         {
@@ -14215,7 +13998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>お待たせ。"
+                                "\\N<Kaede>Sorry to keep you waiting."
                             ]
                         },
                         {
@@ -14232,7 +14015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>おぉっ・・・・。"
+                                "\\N<Naoto>Oh..."
                             ]
                         },
                         {
@@ -14249,14 +14032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらー上着てるのー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかくスタイル良いのにもったいない笑"
+                                "\\N<Kazumi>Oh, you're wearing a jacket? It's a shame since you have\nsuch a nice figure, haha."
                             ]
                         },
                         {
@@ -14289,7 +14065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・・。"
+                                "\\N<Kaede>Huh...."
                             ]
                         },
                         {
@@ -14306,7 +14082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>そーだよ楓！暑いんだからそれ脱いじゃえよー！笑"
+                                "\\N<Miya>Hey Kaede, it's hot out, so why don't you take off that\njacket? Haha."
                             ]
                         },
                         {
@@ -14339,7 +14115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おいっ・・・。"
+                                "\\N<Kaede>Hey...."
                             ]
                         },
                         {
@@ -14356,7 +14132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>あ、ご・・・・ごめん。"
+                                "\\N<Miya>Ah, s-sorry."
                             ]
                         },
                         {
@@ -14389,14 +14165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>直人は・・その・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱いだ方が良いと思う？"
+                                "\\N<Kaede>Naoto... um... do you think I should take it off?"
                             ]
                         },
                         {
@@ -14413,14 +14182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>う・・うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓の水着姿・・・・見たいよ。"
+                                "\\N<Naoto>Uh... yeah. I... I want to see Kaede in a swimsuit."
                             ]
                         },
                         {
@@ -14437,7 +14199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ひゅーひゅー！！"
+                                "\\N<Miya>Eeek!"
                             ]
                         },
                         {
@@ -14454,7 +14216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ちょ、やめてよみやくん笑"
+                                "\\N<Naoto>Hey, stop it, Miya-kun."
                             ]
                         },
                         {
@@ -14471,7 +14233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -14516,7 +14278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ！"
+                                "\\N<Naoto>.....!"
                             ]
                         },
                         {
@@ -14533,7 +14295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>やっぱりスタイル抜群ねー楓ちゃん！"
+                                "\\N<Kazumi>As expected, Kaede-chan, you have an amazing figure!"
                             ]
                         },
                         {
@@ -14550,7 +14312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>うわー！思ったよりおっぱいデカっ！！"
+                                "\\N<Miya>Wow! Your boobs are bigger than I thought!!"
                             ]
                         },
                         {
@@ -14583,7 +14345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>うるさい・・・。"
+                                "\\N<Kaede>So noisy...."
                             ]
                         },
                         {
@@ -14600,7 +14362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓・・・・。き、キレイだよ。"
+                                "\\N<Naoto>Kaede... y-you look beautiful."
                             ]
                         },
                         {
@@ -14633,7 +14395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う、嬉しい・・・。"
+                                "\\N<Kaede>I-I'm happy...."
                             ]
                         },
                         {
@@ -14650,7 +14412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えへへ・・・。"
+                                "\\N<Naoto>Ehehe...."
                             ]
                         },
                         {
@@ -14667,7 +14429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ひゅーひゅー！！"
+                                "\\N<Miya>Eeek!"
                             ]
                         },
                         {
@@ -14684,7 +14446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>みやくんってば！！"
+                                "\\N<Naoto>Miya-kun, seriously!!"
                             ]
                         },
                         {
@@ -14720,7 +14482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -14737,7 +14499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -14754,7 +14516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {

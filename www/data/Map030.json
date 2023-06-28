@@ -1399,7 +1399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>え！？お前の知り合いあそこ行ったのかよ！！"
+                                "\\N<Male>What!? Your acquaintance went there!!"
                             ]
                         },
                         {
@@ -1416,14 +1416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>あぁやばかったらしいぜ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさに酒池肉林って名の通りだな・・・。"
+                                "\\N<Male>Yeah, it seems like it was really dangerous.... It was truly a\nden of debauchery, just as the rumors say...."
                             ]
                         },
                         {
@@ -1500,7 +1493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>え！？お前の知り合いあそこ行ったのかよ！！"
+                                "\\N<Male>What!? Your acquaintance went there!!"
                             ]
                         },
                         {
@@ -1517,14 +1510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>あぁやばかったらしいぜ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさに酒池肉林って名の通りだな・・・。"
+                                "\\N<Male>Yeah, it seems like it was really dangerous.... It was truly a\nden of debauchery, just as the rumors say...."
                             ]
                         },
                         {
@@ -1602,14 +1588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<カラオケ店員>いらっしゃいませー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "只今満室となります。"
+                                "\\N<Karaoke clerk>Welcome. We are currently fully booked."
                             ]
                         },
                         {

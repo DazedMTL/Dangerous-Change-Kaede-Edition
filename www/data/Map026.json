@@ -6643,7 +6643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>ここのプール潰れちゃったんだってー。"
+                                "\\N<Female>I heard that the pool here closed down."
                             ]
                         },
                         {
@@ -6660,21 +6660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>ねー残念よねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか噂によると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さい男の子が更衣室で女の人に襲われたとかなんとか・・・。"
+                                "\\N<Female>Yeah, it's really unfortunate. Apparently, there's a rumor\ngoing around that a little boy was attacked by a woman in the changing\nroom or something like that..."
                             ]
                         },
                         {
@@ -6751,7 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市内プールは閉鎖しました。"
+                                "The indoor pool in the city is closed."
                             ]
                         },
                         {
@@ -6996,7 +6982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>あーやっと次だー！"
+                                "\\N<Male>Ah, finally it's my turn!"
                             ]
                         },
                         {
@@ -7253,7 +7239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>人気店だから並ぶのはしょうがないけどよー・・・。"
+                                "\\N<Male>It's inevitable to wait in line at popular shops..."
                             ]
                         },
                         {
@@ -7330,14 +7316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>さ、買うものも買ったし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺んち行こうか♡"
+                                "\\N<Male>Alright, I've bought everything I needed! Shall we go to my\nplace? ♡"
                             ]
                         },
                         {
@@ -7354,7 +7333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>そうね♡"
+                                "\\N<Female>Sure♡"
                             ]
                         },
                         {
@@ -7431,14 +7410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>さ、買うものも買ったし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺んち行こうか♡"
+                                "\\N<Male>Alright, I've bought everything I needed! Shall we go to my\nplace? ♡"
                             ]
                         },
                         {
@@ -7455,7 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>そうね♡"
+                                "\\N<Female>Sure♡"
                             ]
                         },
                         {
@@ -7592,7 +7564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>えっと乗り換えが・・・。"
+                                "\\N<Female>Um, I need to transfer..."
                             ]
                         },
                         {
@@ -7669,7 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<老婆>腰が・・あいたたた・・・。"
+                                "\\N<Wife>My back... it hurts..."
                             ]
                         },
                         {
@@ -7746,7 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>キャバクラでも行かねー？"
+                                "\\N<Male>How about going to a cabaret club?"
                             ]
                         },
                         {
@@ -7823,7 +7795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>金ないだろ・・・。"
+                                "\\N<Male>I don't have any money...."
                             ]
                         },
                         {
@@ -8015,7 +7987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>はぁ～！楽しかった！！"
+                                "\\N<Aya>Ah~! That was so much fun!!"
                             ]
                         },
                         {
@@ -8039,7 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>結構泳いでたねー！"
+                                "\\N<Naoto>You were swimming quite a lot, huh-!"
                             ]
                         },
                         {
@@ -8072,7 +8044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>てかシー坊いたのビックリしたな笑"
+                                "\\N<Naoto>By the way, I was surprised at how good you were at swimming,\nhaha."
                             ]
                         },
                         {
@@ -8123,14 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>ほんとに！！笑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い大きくなってるし！！"
+                                "\\N<Aya>Really!! Haha, you've grown so much!!"
                             ]
                         },
                         {
@@ -8154,7 +8119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あの可愛いシー坊はいったどこへやら・・・笑"
+                                "\\N<Naoto>Where did that cute little swimmer go... haha"
                             ]
                         },
                         {
@@ -8205,7 +8170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>時の流れだね～。"
+                                "\\N<Aya>Time flies, huh~."
                             ]
                         },
                         {
@@ -8229,7 +8194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>よし！じゃあ帰ろっか！"
+                                "\\N<Naoto>Alright! Let's head back!"
                             ]
                         },
                         {
@@ -8280,7 +8245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>オッケー！"
+                                "\\N<Aya>Okay-!"
                             ]
                         },
                         {
@@ -8517,7 +8482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男の子>早く帰ろうよコロー！"
+                                "\\N<Boy>Let's go home quickly, Coro!"
                             ]
                         },
                         {
@@ -8594,7 +8559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<コロ>ワン！！"
+                                "\\N<Koro>Woof!!"
                             ]
                         },
                         {

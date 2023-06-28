@@ -1711,7 +1711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>へへへ、ようやく結婚だね・・・♡"
+                                "\\N<Male>Hehehe, we're finally getting married...♡"
                             ]
                         },
                         {
@@ -1788,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>これからよろしくね♡"
+                                "\\N<Female>Nice to meet you from now on ♡"
                             ]
                         },
                         {
@@ -1865,14 +1865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>ごめんよー・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず取りに行こうか・・・。"
+                                "\\N<Male>Sorry.... Let's go and get it for now...."
                             ]
                         },
                         {
@@ -1949,7 +1942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>もー。また書類忘れー？"
+                                "\\N<Female>Oh no, forgot the documents again?"
                             ]
                         },
                         {
@@ -2470,7 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>よし・・・これでOKだな・・・♡"
+                                "\\N<Kusayama>Alright... this should be good... ♡"
                             ]
                         },
                         {
@@ -2541,7 +2534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -2581,7 +2574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ行こうか・・・♡"
+                                "\\N<Kusayama>Well then, shall we go...♡"
                             ]
                         },
                         {
@@ -2788,7 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付女性>では確認致しますね。"
+                                "\\N<Receptionist (Female)>Alright, let me confirm that for you."
                             ]
                         },
                         {
@@ -2821,7 +2814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お願いします・・・♡"
+                                "\\N<Kusayama>Please...♡"
                             ]
                         },
                         {
@@ -2877,14 +2870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付女性>えー。下山卓三様。柏木楓様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お名前にお間違いはないでしょうか？"
+                                "\\N<Receptionist (Female)>Um, Mr. Takuzo Kusayama and Ms. Kaede\nKashiwagi, are those your correct names?"
                             ]
                         },
                         {
@@ -2910,7 +2896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・はい♡"
+                                "\\N<Kusayama>...Yes♡"
                             ]
                         },
                         {
@@ -2943,7 +2929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・はい。"
+                                "\\N<Kaede>....Yes."
                             ]
                         },
                         {
@@ -2967,14 +2953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付女性>記入漏れも・・ナシっと・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では受理いたします。"
+                                "\\N<Receptionist (Female)>Alright, no missing information... I will\naccept it then."
                             ]
                         },
                         {
@@ -2991,7 +2970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付女性>おめでとうございます。"
+                                "\\N<Receptionist (Female)>Congratulations."
                             ]
                         },
                         {
@@ -3024,7 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>・・・どうも♡"
+                                "\\N<Kusayama>...Thank you♡"
                             ]
                         },
                         {
@@ -3041,7 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -3105,14 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>楓ぇ・・・せっかく夫婦になったんだ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと嬉しそうにしてくれよ♡"
+                                "\\N<Kusayama>Kaede... We finally became a married couple♡ Show more\nexcitement, will you?♡"
                             ]
                         },
                         {
@@ -3167,7 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>これは・・・直人に・・・。"
+                                "\\N<Kaede>This is... for Naoto...."
                             ]
                         },
                         {
@@ -3193,14 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>でも夫婦は夫婦だろぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の妻なんだからよぉ♡"
+                                "\\N<Kusayama>But we're a married couple, right? You're my wife, after\nall♡"
                             ]
                         },
                         {
@@ -3217,7 +3182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -3243,7 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ・・・我が家へ帰るか♡"
+                                "\\N<Kusayama>Well then... Shall we go back to our home♡"
                             ]
                         },
                         {
@@ -3260,7 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -3513,14 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ・・・直人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげさまで・・晴れて夫婦だ・・・♡"
+                                "\\N<Kusayama>Oh... Naoto. Thanks to you... we are now officially\nmarried...♡"
                             ]
                         },
                         {
@@ -3569,14 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあ帰って愛し合うからよぉ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またなぁ・・・♡"
+                                "\\N<Kusayama>Well then, let's go home and love each other...♡ See you\nlater...♡"
                             ]
                         },
                         {
@@ -4341,7 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・・！"
+                                "\\N<Naoto>Ah...!"
                             ]
                         },
                         {
@@ -4358,7 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓っ・・楓ぇっ・・・！！"
+                                "\\N<Naoto>Kaede... Kaede...!!"
                             ]
                         },
                         {

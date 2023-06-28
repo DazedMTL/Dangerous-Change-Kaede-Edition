@@ -686,7 +686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらどうも直人君に楓ちゃん。"
+                                "\\N<Kazumi>Oh, hello Naoto-kun and Kaede-chan."
                             ]
                         },
                         {
@@ -703,7 +703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>村おこしの案は決まったのかしら？"
+                                "\\N<Kazumi>Have you decided on the plan to revitalize the village?"
                             ]
                         },
                         {
@@ -743,7 +743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>いやそれが全然まだで・・・笑"
+                                "\\N<Naoto>No, not at all... haha."
                             ]
                         },
                         {
@@ -783,7 +783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>うふふ。まぁゆっくりでいいんじゃない？"
+                                "\\N<Kazumi>Hehe, well, there's no rush, right?"
                             ]
                         },
                         {
@@ -870,7 +870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>こら！ひかる！家の中で走り周らないの！！"
+                                "\\N<Kazumi>Hey! Hikaru! Don't run around inside the house!!"
                             ]
                         },
                         {
@@ -969,7 +969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ひかる！いい加減やめなさい！！"
+                                "\\N<Kazumi>Hikaru! Stop it already!!"
                             ]
                         },
                         {
@@ -1111,7 +1111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あ、直人君おはよう！"
+                                "\\N<Kazumi>Ah, good morning Naoto-kun!"
                             ]
                         },
                         {
@@ -1135,7 +1135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>お、おはようございます！"
+                                "\\N<Naoto>Oh, good morning!"
                             ]
                         },
                         {
@@ -1168,7 +1168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>昨日は洋介と会えた？"
+                                "\\N<Kazumi>Did you meet Yosuke yesterday?"
                             ]
                         },
                         {
@@ -1192,7 +1192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ・・・あ、会えました！"
+                                "\\N<Naoto>Ah... Oh, yes! I met him!"
                             ]
                         },
                         {
@@ -1225,21 +1225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの人最近おかしいのよねー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひかるの寝かしつけもしないで。"
+                                "\\N<Kazumi>Yeah, that person has been acting strange lately! Not even\nputting Hikaru to bed."
                             ]
                         },
                         {
@@ -1263,7 +1249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そ、そうなんですね・・・。"
+                                "\\N<Naoto>Oh, really...."
                             ]
                         },
                         {
@@ -1296,14 +1282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>またガツンと怒らなきゃ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはは。"
+                                "\\N<Kazumi>I have to scold him again...! Ahaha."
                             ]
                         },
                         {
@@ -1327,7 +1306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ははは・・・。"
+                                "\\N<Naoto>Hahaha...."
                             ]
                         },
                         {
@@ -1411,7 +1390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あら直人君おはよう！"
+                                "\\N<Kazumi>Good morning, Naoto-kun!"
                             ]
                         },
                         {
@@ -1435,7 +1414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ・・・。"
+                                "\\N<Naoto>Ah...."
                             ]
                         },
                         {
@@ -1525,7 +1504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>お、おはようございます！"
+                                "\\N<Naoto>Oh, good morning!"
                             ]
                         },
                         {
@@ -1581,7 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ん？どうしたの？笑"
+                                "\\N<Kazumi>Hmm? What's wrong? Laughing"
                             ]
                         },
                         {
@@ -1605,7 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>い、いえ・・・なんでもありません・・・。"
+                                "\\N<Naoto>No, it's nothing..."
                             ]
                         },
                         {
@@ -1638,7 +1617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>何よもうー笑"
+                                "\\N<Kazumi>What's wrong? Laughing already?"
                             ]
                         },
                         {
@@ -1662,7 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ・・・よ、洋介さんいらっしゃいますか・・・。"
+                                "\\N<Naoto>Oh... Y-Yosuke-san, are you here...."
                             ]
                         },
                         {
@@ -1695,7 +1674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あ、洋介？ちょっと待ってね！"
+                                "\\N<Kazumi>Ah, Yosuke? Wait a moment!"
                             ]
                         },
                         {
@@ -2021,14 +2000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あ、なんか今、手が離せないみたいだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外で待っててって・・・！"
+                                "\\N<Kazumi>Ah, it seems like I can't leave right now, so please wait\noutside...!"
                             ]
                         },
                         {
@@ -2052,7 +2024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、分かりました！"
+                                "\\N<Naoto>Ah, understood!"
                             ]
                         },
                         {
@@ -2085,7 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ごめんねーわざわざ来てくれたのに！"
+                                "\\N<Kazumi>I'm sorry - you came all this way for nothing!"
                             ]
                         },
                         {
@@ -2109,7 +2081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>大丈夫です・・・！"
+                                "\\N<Naoto>I'm fine...!"
                             ]
                         },
                         {
@@ -2279,7 +2251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらどうも直人君に楓ちゃん。"
+                                "\\N<Kazumi>Oh, hello Naoto-kun and Kaede-chan."
                             ]
                         },
                         {
@@ -2527,7 +2499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人と楓>こんばんはー。"
+                                "\\N<Naoto and Kaede>Good evening."
                             ]
                         },
                         {
@@ -2600,7 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらこんばんは直人くんに楓ちゃん！"
+                                "\\N<Kazumi>Oh, good evening Naoto-kun and Kaede-chan!"
                             ]
                         },
                         {
@@ -2734,7 +2706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>どうしたの？こんな夜に。"
+                                "\\N<Kazumi>What's wrong? On a night like this."
                             ]
                         },
                         {
@@ -2758,7 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あー村おこしの件で・・・。"
+                                "\\N<Naoto>Ah, it's about the village revitalization project...."
                             ]
                         },
                         {
@@ -2791,7 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>村おこし・・・？"
+                                "\\N<Kazumi>Village revitalization...?"
                             ]
                         },
                         {
@@ -2808,7 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>今年も案を出さなきゃいけないのね笑"
+                                "\\N<Kazumi>We have to come up with a plan for it again this year, huh?\nHaha."
                             ]
                         },
                         {
@@ -2832,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はいそうなんです・・・。"
+                                "\\N<Naoto>Yes, that's right...."
                             ]
                         },
                         {
@@ -2865,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>どうしていいか分からなくて・・・。"
+                                "\\N<Kaede>I don't know what to do...."
                             ]
                         },
                         {
@@ -2889,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>確か、和美さん昨年、案出したんですよね。"
+                                "\\N<Naoto>If I remember correctly, Kazumi-san came up with a plan last\nyear."
                             ]
                         },
                         {
@@ -2922,7 +2894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>うんそうだけど・・・。"
+                                "\\N<Kazumi>Yeah, that's right...."
                             ]
                         },
                         {
@@ -2985,7 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>なるほどー・・。それでうちに来たと？"
+                                "\\N<Kazumi>I see... So you came here for that?"
                             ]
                         },
                         {
@@ -3016,7 +2988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はい・・・。"
+                                "\\N<Naoto>Yes...."
                             ]
                         },
                         {
@@ -3049,7 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>まぁ面倒っちゃ面倒よね笑"
+                                "\\N<Kazumi>Well, it's a bit of a hassle, isn't it? Haha."
                             ]
                         },
                         {
@@ -3073,14 +3045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>面倒というより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をどうすればいいのか分からなくて・・・。"
+                                "\\N<Naoto>More than it being a hassle, I just don't know what to do...."
                             ]
                         },
                         {
@@ -3113,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>そんなの適当でいいのよ？適当で笑"
+                                "\\N<Kazumi>It's fine to just come up with something random, right? Just\ncome up with something random and laugh."
                             ]
                         },
                         {
@@ -3153,7 +3118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>適当・・・。"
+                                "\\N<Kaede>Random...."
                             ]
                         },
                         {
@@ -3193,7 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>そうよー？そんな難しく考える必要はないわ笑。"
+                                "\\N<Kazumi>Is that so? There's no need to think so hard about it, just\nlaugh it off."
                             ]
                         },
                         {
@@ -3210,14 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>こんなはずれの村に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人を呼び込もうってこと自体が無茶なんだから笑"
+                                "\\N<Kazumi>Bringing people into this remote village itself is a crazy\nidea, so just laugh it off."
                             ]
                         },
                         {
@@ -3257,7 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>村長と同じこと言ってる・・・。"
+                                "\\N<Kaede>The village chief is saying the same thing...."
                             ]
                         },
                         {
@@ -3297,7 +3255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>でしょ笑"
+                                "\\N<Kazumi>That's right, just laugh."
                             ]
                         },
                         {
@@ -3321,7 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>確か昨年は・・・。"
+                                "\\N<Naoto>If I remember correctly, last year..."
                             ]
                         },
                         {
@@ -3354,7 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>うん。村にある民宿の宿泊費を半額にしたのよ。"
+                                "\\N<Kazumi>Yeah. We reduced the accommodation fees at the inn in the\nvillage by half."
                             ]
                         },
                         {
@@ -3394,14 +3352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ただそれだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なーんも効果なかったけどねー笑"
+                                "\\N<Kazumi>That's all. Well, it didn't have any effect though - haha."
                             ]
                         },
                         {
@@ -3425,7 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>な、なるほど・・・。"
+                                "\\N<Naoto>I see...."
                             ]
                         },
                         {
@@ -3442,7 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ、そういえば洋介さんは？"
+                                "\\N<Naoto>Oh, speaking of which, what about Yosuke-san?"
                             ]
                         },
                         {
@@ -3475,7 +3426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>今ひかるを寝かしつけてるところよ。"
+                                "\\N<Kazumi>I'm putting Hikaru to bed right now."
                             ]
                         },
                         {
@@ -3499,14 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>じゃあ洋介さんへの相談は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また今度にしておきます。"
+                                "\\N<Naoto>Alright, I'll save the discussion about Yosuke-san for\nanother time."
                             ]
                         },
                         {
@@ -3539,7 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ごめんねー。うちの子寝つき悪いから・・・笑"
+                                "\\N<Kazumi>Sorry, my child has trouble falling asleep...haha."
                             ]
                         },
                         {
@@ -3563,7 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>いえ！全然大丈夫です！"
+                                "\\N<Naoto>No! It's totally fine!"
                             ]
                         },
                         {
@@ -3580,7 +3524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>じゃあ夜分遅くに失礼しました。"
+                                "\\N<Naoto>Well then, I apologize for coming so late at night."
                             ]
                         },
                         {
@@ -3613,7 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>うん。またいつでもいらっしゃい。"
+                                "\\N<Kazumi>Yeah. You're welcome anytime."
                             ]
                         },
                         {
@@ -3630,7 +3574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>楓ちゃんもまたね。"
+                                "\\N<Kazumi>See you later, Kaede-chan."
                             ]
                         },
                         {
@@ -3670,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はい。おやすみなさい。"
+                                "\\N<Kaede>Yes. Goodnight."
                             ]
                         },
                         {
@@ -4009,14 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あれ、留守かな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもドア空いてたよな。"
+                                "\\N<Naoto>Huh, I wonder if they're not home.... But the door was open."
                             ]
                         },
                         {
@@ -4040,14 +3977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・しょうがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰るか。"
+                                "\\N<Naoto>...Oh well. I guess I'll go home."
                             ]
                         },
                         {
@@ -4227,14 +4157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、洋介さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "返事がなかったんで勝手に・・・・って・・えぇ！？"
+                                "\\N<Naoto>Ah, Yosuke-san didn't reply so I thought I'd just... wait,\nhuh!?"
                             ]
                         },
                         {
@@ -4301,7 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>な、直人くん・・・！？"
+                                "\\N<Kazumi>Naoto-kun...!?"
                             ]
                         },
                         {
@@ -4318,7 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ・・・あー－！！すいません！！"
+                                "\\N<Naoto>Ah... Ah-!! I'm sorry!!"
                             ]
                         },
                         {
@@ -4335,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>勝手に入ってきちゃって・・・！"
+                                "\\N<Naoto>I just entered without permission...!"
                             ]
                         },
                         {
@@ -4368,14 +4291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>べ、別に平気だけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの？こんな夜遅くに。"
+                                "\\N<Kazumi>W-Well, it's not a big deal... What's wrong? Why are you\nhere so late at night?"
                             ]
                         },
                         {
@@ -4392,7 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>え、えっと・・・洋介さんに・・その呼ばれて。"
+                                "\\N<Naoto>Um, well... Yosuke-san called me, so I came here."
                             ]
                         },
                         {
@@ -4409,7 +4325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>えっ！？洋介なら、今外出してるけど・・・。"
+                                "\\N<Kazumi>Huh!? If it's Yosuke, he's actually out right now...."
                             ]
                         },
                         {
@@ -4426,7 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>え！？そ、そうなんですね・・・！"
+                                "\\N<Naoto>What!? R-Really...!?"
                             ]
                         },
                         {
@@ -4443,7 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>・・・・。"
+                                "\\N<Kazumi>....."
                             ]
                         },
                         {
@@ -4460,7 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4477,7 +4393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ、し、失礼しましたー！！"
+                                "\\N<Naoto>Ah, s-sorry!!"
                             ]
                         },
                         {
@@ -4861,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ひかる>あーこんにちはー！"
+                                "\\N<Hikaru>Ah, hello-!"
                             ]
                         },
                         {
@@ -4925,7 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ひかる！家の中は走らない！！"
+                                "\\N<Kazumi>Hikaru! Don't run inside the house!!"
                             ]
                         },
                         {
@@ -5048,7 +4964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手には入ってはまずい・・・。"
+                                "It's not good to just barge in without permission..."
                             ]
                         },
                         {
@@ -5147,7 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>ひぃぃぃっ・・あぁぁ！洋介！！洋介ぇ・・！！"
+                                "\\N<Kazumi>Eeek... Ahhh! Yosuke!! Yosukeee...!!"
                             ]
                         },
                         {
@@ -5164,7 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>和美ぃっ・・・和美っ・・・！！！"
+                                "\\N<Yosuke>Kazumi... Kazumi...!!!"
                             ]
                         },
                         {
@@ -5267,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -5493,7 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ひかる>あーこんにちはー！"
+                                "\\N<Hikaru>Ah, hello-!"
                             ]
                         },
                         {
@@ -5840,14 +5756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あれ、留守かな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもドア空いてたよな。"
+                                "\\N<Naoto>Huh, I wonder if they're not home.... But the door was open."
                             ]
                         },
                         {
@@ -5871,14 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・しょうがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰るか。"
+                                "\\N<Naoto>...Oh well. I guess I'll go home."
                             ]
                         },
                         {
@@ -6058,14 +5960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あ、洋介さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "返事がなかったんで勝手に・・・・って・・えぇ！？"
+                                "\\N<Naoto>Ah, Yosuke-san didn't reply so I thought I'd just... wait,\nhuh!?"
                             ]
                         },
                         {
@@ -6132,7 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>な、直人くん・・・！？"
+                                "\\N<Kazumi>Naoto-kun...!?"
                             ]
                         },
                         {
@@ -6149,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ・・・あー－！！すいません！！"
+                                "\\N<Naoto>Ah... Ah-!! I'm sorry!!"
                             ]
                         },
                         {
@@ -6166,7 +6061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>勝手に入ってきちゃって・・・！"
+                                "\\N<Naoto>I just entered without permission...!"
                             ]
                         },
                         {
@@ -6199,14 +6094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>べ、別に平気だけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの？こんな夜遅くに。"
+                                "\\N<Kazumi>W-Well, it's not a big deal... What's wrong? Why are you\nhere so late at night?"
                             ]
                         },
                         {
@@ -6223,7 +6111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>え、えっと・・・洋介さんに・・その呼ばれて。"
+                                "\\N<Naoto>Um, well... Yosuke-san called me, so I came here."
                             ]
                         },
                         {
@@ -6240,7 +6128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>えっ！？洋介なら、今外出してるけど・・・。"
+                                "\\N<Kazumi>Huh!? If it's Yosuke, he's actually out right now...."
                             ]
                         },
                         {
@@ -6257,7 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>え！？そ、そうなんですね・・・！"
+                                "\\N<Naoto>What!? R-Really...!?"
                             ]
                         },
                         {
@@ -6274,7 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>・・・・。"
+                                "\\N<Kazumi>....."
                             ]
                         },
                         {
@@ -6291,7 +6179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -6308,7 +6196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ、し、失礼しましたー！！"
+                                "\\N<Naoto>Ah, s-sorry!!"
                             ]
                         },
                         {

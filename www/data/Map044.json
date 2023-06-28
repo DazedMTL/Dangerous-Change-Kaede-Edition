@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "リビング",
+    "displayName": "Living Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -934,7 +934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -1253,7 +1253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>本当に・・・それでいいの・・・？"
+                                "\\N<Kaede>Is it really... okay like this...?"
                             ]
                         },
                         {
@@ -1277,7 +1277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・あぁ。"
+                                "\\N<Naoto>Ah..."
                             ]
                         },
                         {
@@ -1333,7 +1333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>それが・・直人の望んでることなの・・・？"
+                                "\\N<Kaede>Is that... what Naoto wants...?"
                             ]
                         },
                         {
@@ -1380,7 +1380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・あぁ。"
+                                "\\N<Naoto>Ah..."
                             ]
                         },
                         {
@@ -1436,7 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・分かった・・・。"
+                                "\\N<Kaede>....I understand...."
                             ]
                         },
                         {
@@ -1594,7 +1594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・来た・・見たい。"
+                                "\\N<Kaede>I... want to see it."
                             ]
                         },
                         {
@@ -1641,7 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -1681,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>じゃあ・・・行ってくる。"
+                                "\\N<Kaede>Well then... I'll be going."
                             ]
                         },
                         {
@@ -1712,7 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・あぁ。"
+                                "\\N<Naoto>....Ah."
                             ]
                         },
                         {
@@ -2255,7 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・楓・・・・。"
+                                "\\N<Naoto>...Kaede....."
                             ]
                         },
                         {
@@ -2326,7 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そんなに・・・・。"
+                                "\\N<Naoto>So much....."
                             ]
                         },
                         {
@@ -2397,7 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>そんなに・・・いいのか・・・・。"
+                                "\\N<Naoto>Is it really... okay like this....."
                             ]
                         },
                         {
@@ -2468,7 +2468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁはぁはぁはぁ・・・・！！！！"
+                                "\\N<Naoto>Ha...ha...ha...ha...ha...!!!"
                             ]
                         },
                         {
@@ -2568,7 +2568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・・！！"
+                                "\\N<Naoto>Ha...ha...ha...ha...ha...!!!"
                             ]
                         },
                         {
@@ -2611,7 +2611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>んぁっ・・はぁはぁ・・・楓ぇ・・・！"
+                                "\\N<Naoto>Ugh...huff...huff...Kaede...!"
                             ]
                         },
                         {
@@ -2654,7 +2654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・・！！"
+                                "\\N<Naoto>Haah...!!"
                             ]
                         },
                         {
@@ -2697,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁはぁはぁはぁ・・・！！"
+                                "\\N<Naoto>Haah...haah...haah...haah...haah...!!"
                             ]
                         },
                         {
@@ -2766,7 +2766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -2783,7 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -2800,7 +2800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {
@@ -2879,7 +2879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・っと・・・・！"
+                                "....Ugh...!"
                             ]
                         },
                         {
@@ -2896,7 +2896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・おとっ・・・！"
+                                "...Ouch...!"
                             ]
                         },
                         {
@@ -2932,7 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>直人・・・！直人・・・！"
+                                "\\N<Kaede>Naoto...! Naoto...!"
                             ]
                         },
                         {
@@ -3010,7 +3010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>かえ・・・で・・・・。"
+                                "\\N<Naoto>Kaede..."
                             ]
                         },
                         {
@@ -3027,7 +3027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・直人・・！しっかりして・・・！"
+                                "\\N<Kaede>...Naoto...! Pull yourself together...!"
                             ]
                         },
                         {
@@ -3044,7 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・あぁ・・・だ、大丈夫・・・・。"
+                                "\\N<Naoto>...Ah...I-I'm fine..."
                             ]
                         },
                         {
@@ -3061,7 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>待ってて・・・今水持ってくるから！"
+                                "\\N<Kaede>Wait... I'll go get some water now!"
                             ]
                         },
                         {
@@ -3264,7 +3264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>はい直人・・・ゆっくり口に含んで・・・。"
+                                "\\N<Kaede>Here, Naoto... Take it slowly and hold it in your mouth..."
                             ]
                         },
                         {
@@ -3281,7 +3281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・あぁ・・・ゴクゴク・・・。"
+                                "\\N<Naoto>...Ah...gulp, gulp..."
                             ]
                         },
                         {
@@ -3351,7 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>大丈夫・・・・？"
+                                "\\N<Kaede>Are you okay...?"
                             ]
                         },
                         {
@@ -3368,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・ふぅ・・・。"
+                                "\\N<Naoto>....Phew...."
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>気絶してたみたいだ・・・興奮しすぎて・・・・"
+                                "\\N<Naoto>It seems like I fainted... I got too excited..."
                             ]
                         },
                         {
@@ -3443,7 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -3460,7 +3460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>み・・・見てたの・・・？"
+                                "\\N<Kaede>You...saw that...?"
                             ]
                         },
                         {
@@ -3477,7 +3477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ・・・あぁ・・・。"
+                                "\\N<Naoto>Ah...ahh...."
                             ]
                         },
                         {
@@ -3535,7 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -3559,7 +3559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>直人・・・本当に・・・良かったの・・・？"
+                                "\\N<Kaede>Naoto... Did you really... feel better?"
                             ]
                         },
                         {
@@ -3583,14 +3583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>下山と結婚・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが本当にしてほしかったことなの・・・？"
+                                "\\N<Kaede>Marriage and settling down... Is that really what you\nwanted...?"
                             ]
                         },
                         {
@@ -3614,7 +3607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3631,7 +3624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・あぁ。"
+                                "\\N<Naoto>.....Ah."
                             ]
                         },
                         {
@@ -3648,7 +3641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>私と・・・出来なくなっても・・・。"
+                                "\\N<Kaede>Even if you can't be with me anymore..."
                             ]
                         },
                         {
@@ -3665,7 +3658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>後悔・・・してないの？"
+                                "\\N<Kaede>Do you... have no regrets?"
                             ]
                         },
                         {
@@ -3682,7 +3675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -3699,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・あぁ。"
+                                "\\N<Naoto>.....Ah."
                             ]
                         },
                         {
@@ -3716,7 +3709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・たまらないよ・・・。"
+                                "\\N<Naoto>...I can't take it anymore..."
                             ]
                         },
                         {
@@ -3740,7 +3733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・そう。"
+                                "\\N<Kaede>...I see."
                             ]
                         },
                         {
@@ -3771,7 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓は・・・後悔してないの・・・？"
+                                "\\N<Naoto>Do you... have no regrets, Kaede...?"
                             ]
                         },
                         {
@@ -3795,7 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -3819,7 +3812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>本心が・・・聞きたい・・・。"
+                                "\\N<Naoto>I want to hear your true feelings..."
                             ]
                         },
                         {
@@ -3843,7 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>本心・・・・。"
+                                "\\N<Kaede>My true feelings..."
                             ]
                         },
                         {
@@ -3860,7 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あぁ・・・・。"
+                                "\\N<Naoto>Ah....."
                             ]
                         },
                         {
@@ -3877,7 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>分かった・・・思うままに話すね。"
+                                "\\N<Kaede>Understood... I'll speak my mind then."
                             ]
                         },
                         {
@@ -3894,7 +3887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>う、うん・・・・。"
+                                "\\N<Naoto>Uh, yeah....."
                             ]
                         },
                         {
@@ -3952,14 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>正直・・・驚いた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下山と結婚してほしいって言われたことに・・・。"
+                                "\\N<Kaede>To be honest... I was surprised... when he told me he wants\nto marry Shimoyama...."
                             ]
                         },
                         {
@@ -3976,7 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>もう関わらせないと思ってたから・・・。"
+                                "\\N<Kaede>I thought I wouldn't have anything to do with him anymore...."
                             ]
                         },
                         {
@@ -3993,7 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -4010,21 +3996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>言われた直後はね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に嫌だった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意味わからなかったし・・・。"
+                                "\\N<Kaede>Right after he told me... I really hated it... I didn't\nunderstand the meaning behind it..."
                             ]
                         },
                         {
@@ -4041,7 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・ごめん。"
+                                "\\N<Naoto>....I'm sorry."
                             ]
                         },
                         {
@@ -4058,14 +4030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ううん・・・いいの・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も謝らなきゃいけないから・・・・。"
+                                "\\N<Kaede>No... it's okay... I have to apologize too..."
                             ]
                         },
                         {
@@ -4082,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・え。"
+                                "\\N<Naoto>....Huh."
                             ]
                         },
                         {
@@ -4099,14 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>自分自身には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直人のためって言い聞かせてたから・・・。"
+                                "\\N<Kaede>I kept telling myself it was for Naoto's sake..."
                             ]
                         },
                         {
@@ -4123,7 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>でも・・・・。"
+                                "\\N<Kaede>But....."
                             ]
                         },
                         {
@@ -4140,21 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>これからあいつと毎日しなきゃいけない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "求められたらセックス・・・何回もイカされるんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態なこともたくさん・・・・。"
+                                "\\N<Kaede>I have to be with him every day from now on.... If he wants\nit, we have to have sex... and he'll make me come multiple times. He\nwants to do all sorts of perverted things....."
                             ]
                         },
                         {
@@ -4171,7 +4115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>そう思ったら・・・"
+                                "\\N<Kaede>If that's what you think..."
                             ]
                         },
                         {
@@ -4195,7 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>濡れ・・・てた・・・。"
+                                "\\N<Kaede>I was... wet...."
                             ]
                         },
                         {
@@ -4219,7 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！！！！"
+                                "\\N<Naoto>....!!"
                             ]
                         },
                         {
@@ -4236,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・はぁはぁっ・・・！"
+                                "\\N<Naoto>Ah... ah...!"
                             ]
                         },
                         {
@@ -4260,7 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！？"
+                                "\\N<Naoto>....!?"
                             ]
                         },
                         {
@@ -4277,14 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>く、暗くて・・・き、気付かなかった・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓・・・その恰好・・・。"
+                                "\\N<Naoto>It was... dark... I... I didn't notice... Kaede... your\nappearance..."
                             ]
                         },
                         {
@@ -4342,21 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う・・・うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "着けて・・ない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで行けって・・・。"
+                                "\\N<Kaede>Uh... yeah. I'm not wearing... it... You can go with this..."
                             ]
                         },
                         {
@@ -4373,7 +4296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！！！"
+                                "\\N<Naoto>....!!"
                             ]
                         },
                         {
@@ -4390,21 +4313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>か、楓・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにっ・・そんなにいいのか・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつが・・・下山がっ・・・・！"
+                                "\\N<Naoto>Kaede... Is it really... Is it really okay...!? That guy...\nShimoyama...!"
                             ]
                         },
                         {
@@ -4421,7 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -4438,7 +4347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>私は・・・。"
+                                "\\N<Kaede>I..."
                             ]
                         },
                         {
@@ -4455,7 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>良い・・・とは思わない・・・。"
+                                "\\N<Kaede>I don't think it's good..."
                             ]
                         },
                         {
@@ -4472,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・・・。"
+                                "\\N<Naoto>Huh..."
                             ]
                         },
                         {
@@ -4489,14 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>気持ち悪いし、変態だし・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲス野郎だし・・・。"
+                                "\\N<Kaede>He's creepy, a pervert... and a scumbag..."
                             ]
                         },
                         {
@@ -4513,7 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -4530,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>でも・・・分からないの・・・・。"
+                                "\\N<Kaede>But... I don't understand..."
                             ]
                         },
                         {
@@ -4547,14 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あいつだと・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下山だと簡単にイっちゃうんだよね・・・・。"
+                                "\\N<Kaede>He easily gets excited when it's Shimoyama..."
                             ]
                         },
                         {
@@ -4571,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！"
+                                "\\N<Naoto>....!!"
                             ]
                         },
                         {
@@ -4588,14 +4483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>それって・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良いって・・・ことじゃないのか・・・。"
+                                "\\N<Naoto>Does that mean... it feels good to you...?"
                             ]
                         },
                         {
@@ -4612,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -4629,7 +4517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・ごめん・・・。"
+                                "\\N<Kaede>.....I'm sorry...."
                             ]
                         },
                         {
@@ -4646,7 +4534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>でも吐き気がするほど嫌い・・・・。"
+                                "\\N<Kaede>But I hate him so much that it makes me sick..."
                             ]
                         },
                         {
@@ -4663,14 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>私は・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すぐにでも直人が止めたいっていえば・・・"
+                                "\\N<Kaede>If I were to say right now that I want Naoto to stop..."
                             ]
                         },
                         {
@@ -4733,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁぁっ・・？！！"
+                                "\\N<Kaede>Ah...?!"
                             ]
                         },
                         {
@@ -4750,7 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・かっ・・楓・・・！？"
+                                "\\N<Naoto>....Kaede...!?"
                             ]
                         },
                         {
@@ -4767,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>だいじょっ・・ぶっ・・なんでもっ・・んぁ！！"
+                                "\\N<Kaede>It's... it's okay... why... ah!!"
                             ]
                         },
                         {
@@ -4784,7 +4665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・まさか・・・・。"
+                                "\\N<Naoto>...No way..."
                             ]
                         },
                         {
@@ -4801,7 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・そのスカートの・・・・。"
+                                "\\N<Naoto>...That skirt..."
                             ]
                         },
                         {
@@ -4818,7 +4699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・なか・・・・。"
+                                "\\N<Naoto>...Naka..."
                             ]
                         },
                         {
@@ -4869,7 +4750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁっ・・・ごめっ・・なおっ・・とっ・・・・。"
+                                "\\N<Kaede>Ah...I'm sorry...Naoto..."
                             ]
                         },
                         {
@@ -4886,7 +4767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・はぁはぁっ・・・はぁはぁ・・・・！！"
+                                "\\N<Naoto>...Huff...huff...!!"
                             ]
                         },
                         {
@@ -4903,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>それっ・・とっ・・んぁっ・えいっ・・ぞっ・・・"
+                                "\\N<Kaede>Th-there...ah...ahh...no..."
                             ]
                         },
                         {
@@ -4920,7 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・なんだ楓っ・・なんて・・・・。"
+                                "\\N<Naoto>Huh...what's wrong, Kaede...what's..."
                             ]
                         },
                         {
@@ -4937,7 +4818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>もっ・・もうっ・・戻るねっ・・・・。"
+                                "\\N<Kaede>I-I'm...I'm going back now..."
                             ]
                         },
                         {
@@ -4954,7 +4835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・あ、あぁ・・・・。"
+                                "\\N<Naoto>...Ah, ah....."
                             ]
                         },
                         {
@@ -4971,14 +4852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ちゃんとっ・・ご飯食べてっ・・あぁぁ・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりっ・・やすんっ・・あぁぁ・・・！！！"
+                                "\\N<Kaede>Eat your meal properly... Ahh!! Take your time... Rest...\nAhh!!"
                             ]
                         },
                         {
@@ -4995,7 +4869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・か、楓っ・・・・。"
+                                "\\N<Naoto>...K-Kaede..."
                             ]
                         },
                         {
@@ -5012,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・はぁはぁっ・・・・！"
+                                "\\N<Naoto>Huff...huff...!!"
                             ]
                         },
                         {
@@ -5177,7 +5051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・・楓・・・・。"
+                                "\\N<Naoto>Huff...huff...Kaede..."
                             ]
                         },
                         {
@@ -5217,14 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>ダメだ・・・おかしくなる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうっ・・・寝よう・・・。"
+                                "\\N<Naoto> I can't take it anymore... I'm going crazy... I'm going to\nsleep..."
                             ]
                         },
                         {
@@ -5454,7 +5321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5471,7 +5338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聞いてたろ？"
+                                "Did you hear?"
                             ]
                         },
                         {
@@ -5488,7 +5355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5505,7 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう諦めろや。"
+                                "Just give up already."
                             ]
                         },
                         {
@@ -5522,7 +5389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5539,7 +5406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ別に引っ越さなくてもいいけどよ・・・。"
+                                "Well, you don't really have to move, you know..."
                             ]
                         },
                         {
@@ -5556,7 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5573,7 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ俺ら夫婦の生活は邪魔するなや・・・。"
+                                "Just don't interfere with our married life..."
                             ]
                         },
                         {
@@ -5590,7 +5457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5607,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、それとこれやるよ・・・。"
+                                "Oh, and I'll do this too..."
                             ]
                         },
                         {
@@ -5624,7 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5641,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ？ハプバの会員証だよ。"
+                                "Huh? It's my membership card for Happy Burger."
                             ]
                         },
                         {
@@ -5658,7 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5675,7 +5542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別に見るか見ないかは任せるがな・・・・。"
+                                "It's up to you whether you want to watch or not..."
                             ]
                         },
                         {
@@ -5692,7 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5709,7 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで最後の諦めがつくだろぉ？♡"
+                                "This should be the final surrender, right? ♡"
                             ]
                         },
                         {
@@ -5726,7 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -5743,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -5760,7 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {
@@ -6101,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>大丈夫・・・・？"
+                                "\\N<Kaede>Are you okay...?"
                             ]
                         },
                         {
@@ -6118,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・ふぅ・・・。"
+                                "\\N<Naoto>....*sigh*...."
                             ]
                         },
                         {
@@ -6135,7 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>気絶してたみたいだ・・・興奮しすぎて・・・・"
+                                "\\N<Naoto>It seems like I fainted... I got too excited...."
                             ]
                         },
                         {
@@ -6193,7 +6060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -6210,7 +6077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>み・・・見てたの・・・？"
+                                "\\N<Kaede>Did you... see that?"
                             ]
                         },
                         {
@@ -6227,7 +6094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あっ・・・あぁ・・・。"
+                                "\\N<Naoto>Ah...ahh...."
                             ]
                         },
                         {
@@ -6285,7 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -6309,7 +6176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>直人・・・本当に・・・良かったの・・・？"
+                                "\\N<Kaede>Naoto... were you really... okay?"
                             ]
                         },
                         {
@@ -6333,14 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>下山と結婚・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが本当にしてほしかったことなの・・・？"
+                                "\\N<Kaede>Getting married and leaving the mountain... Is that really\nwhat you wanted...?"
                             ]
                         },
                         {
@@ -6364,7 +6224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -6381,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・あぁ。"
+                                "\\N<Naoto>.....Ah."
                             ]
                         },
                         {
@@ -6398,7 +6258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>後悔・・・してないの？"
+                                "\\N<Kaede>Do you... have any regrets?"
                             ]
                         },
                         {
@@ -6415,7 +6275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -6432,7 +6292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・あぁ。"
+                                "\\N<Naoto>.....Ah."
                             ]
                         },
                         {
@@ -6449,7 +6309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・たまらないよ・・・。"
+                                "\\N<Naoto>...I can't take it anymore..."
                             ]
                         },
                         {
@@ -6473,7 +6333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・そう。"
+                                "\\N<Kaede>...I see."
                             ]
                         },
                         {
@@ -6504,7 +6364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓は・・・後悔してないの・・・？"
+                                "\\N<Naoto>Kaede... do you have any regrets...?"
                             ]
                         },
                         {
@@ -6528,7 +6388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・っ。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -6552,7 +6412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>本心が・・・聞きたい・・・。"
+                                "\\N<Naoto>I want to know your true feelings..."
                             ]
                         },
                         {
@@ -6576,7 +6436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>本心・・・・。"
+                                "\\N<Kaede>My true feelings..."
                             ]
                         },
                         {
@@ -6593,7 +6453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>あぁ・・・・。"
+                                "\\N<Naoto>Ah....."
                             ]
                         },
                         {
@@ -6610,7 +6470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>分かった・・・思うままに話すね。"
+                                "\\N<Kaede>Alright... I'll speak my mind."
                             ]
                         },
                         {
@@ -6627,7 +6487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>う、うん・・・・。"
+                                "\\N<Naoto>Uh, yeah..."
                             ]
                         },
                         {
@@ -6685,14 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>正直・・・驚いた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下山と結婚してほしいって言われたことに・・・。"
+                                "\\N<Kaede>To be honest... I was surprised... when I was told that\nShitayama wants to marry me...."
                             ]
                         },
                         {
@@ -6709,7 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>もう関わらせないと思ってたから・・・。"
+                                "\\N<Kaede>I thought I wouldn't have anything to do with him anymore...."
                             ]
                         },
                         {
@@ -6726,7 +6579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・。"
+                                "\\N<Naoto>....."
                             ]
                         },
                         {
@@ -6743,21 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>言われた直後はね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に嫌だった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意味わからなかったし・・・。"
+                                "\\N<Kaede>Right after I was told... I really hated it.... I didn't\nunderstand the meaning...."
                             ]
                         },
                         {
@@ -6774,7 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・ごめん。"
+                                "\\N<Naoto>....I'm sorry."
                             ]
                         },
                         {
@@ -6791,14 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ううん・・・いいの・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も謝らなきゃいけないから・・・・。"
+                                "\\N<Kaede>No... it's okay... I have to apologize too..."
                             ]
                         },
                         {
@@ -6815,7 +6647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・え。"
+                                "\\N<Naoto>....Huh."
                             ]
                         },
                         {
@@ -6832,14 +6664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>自分自身には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直人のためって言い聞かせてたから・・・。"
+                                "\\N<Kaede>I kept telling myself that it was for Naoto's sake...."
                             ]
                         },
                         {
@@ -6856,7 +6681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>でも・・・・。"
+                                "\\N<Kaede>But....."
                             ]
                         },
                         {
@@ -6873,21 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>これからあいつと毎日しなきゃいけない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "求められたらセックス・・・何回もイカされるんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態なこともたくさん・・・・。"
+                                "\\N<Kaede>I have to be with him every day from now on... If he wants\nit, we have to have sex... and I'll be made to come multiple times.\nThere are also a lot of perverted things..."
                             ]
                         },
                         {
@@ -6904,7 +6715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>そう思ったら・・・"
+                                "\\N<Kaede>If I think about it..."
                             ]
                         },
                         {
@@ -6928,7 +6739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>濡れ・・・てた・・・。"
+                                "\\N<Kaede>I was... wet...."
                             ]
                         },
                         {
@@ -6952,7 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！！！！"
+                                "\\N<Naoto>....!!"
                             ]
                         },
                         {
@@ -6969,7 +6780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・はぁはぁっ・・・！"
+                                "\\N<Naoto>Ah...ah...!"
                             ]
                         },
                         {
@@ -6993,7 +6804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！？"
+                                "\\N<Naoto>....!?!"
                             ]
                         },
                         {
@@ -7010,14 +6821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>く、暗くて・・・き、気付かなかった・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓・・・その恰好・・・。"
+                                "\\N<Naoto>It was... dark... I... I didn't notice... Kaede... your\nappearance..."
                             ]
                         },
                         {
@@ -7075,21 +6879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>う・・・うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "着けて・・ない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで行けって・・・。"
+                                "\\N<Kaede>Uh... yeah. I'm not wearing... it... You said it's fine like\nthis..."
                             ]
                         },
                         {
@@ -7106,7 +6896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！！！"
+                                "\\N<Naoto>....!!"
                             ]
                         },
                         {
@@ -7123,21 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>か、楓・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにっ・・そんなにいいのか・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつが・・・下山がっ・・・・！"
+                                "\\N<Naoto>Kaede... Is it really... Is it really okay...!? That guy...\nShimoyama...!"
                             ]
                         },
                         {
@@ -7154,7 +6930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -7171,7 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>私は・・・。"
+                                "\\N<Kaede>I..."
                             ]
                         },
                         {
@@ -7188,7 +6964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>良い・・・とは思わない・・・。"
+                                "\\N<Kaede>I don't think it's good..."
                             ]
                         },
                         {
@@ -7205,7 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・・・。"
+                                "\\N<Naoto>Huh..."
                             ]
                         },
                         {
@@ -7222,14 +6998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>気持ち悪いし、変態だし・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲス野郎だし・・・。"
+                                "\\N<Kaede>He's creepy, a pervert... and a scumbag..."
                             ]
                         },
                         {
@@ -7246,7 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・。"
+                                "\\N<Naoto>......"
                             ]
                         },
                         {
@@ -7263,7 +7032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>でも・・・分からないの・・・・。"
+                                "\\N<Kaede>But... I don't understand..."
                             ]
                         },
                         {
@@ -7280,14 +7049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あいつだと・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下山だと簡単にイっちゃうんだよね・・・・。"
+                                "\\N<Kaede>He's the type... Shimoyama, he easily gets excited..."
                             ]
                         },
                         {
@@ -7304,7 +7066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・っ！"
+                                "\\N<Naoto>....!!"
                             ]
                         },
                         {
@@ -7321,14 +7083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>それって・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良いって・・・ことじゃないのか・・・。"
+                                "\\N<Naoto>Doesn't that mean... it feels good...?"
                             ]
                         },
                         {
@@ -7345,7 +7100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・。"
+                                "\\N<Kaede>......"
                             ]
                         },
                         {
@@ -7362,7 +7117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・・ごめん・・・。"
+                                "\\N<Kaede>.....I'm sorry...."
                             ]
                         },
                         {
@@ -7379,7 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>でも吐き気がするほど嫌い・・・・。"
+                                "\\N<Kaede>But I hate him so much that it makes me sick..."
                             ]
                         },
                         {
@@ -7396,14 +7151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>私は・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すぐにでも直人が止めたいっていえば・・・"
+                                "\\N<Kaede>If I could just tell Naoto right now that I want him to\nstop..."
                             ]
                         },
                         {
@@ -7466,7 +7214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁぁっ・・？！！"
+                                "\\N<Kaede>Ugh...?!"
                             ]
                         },
                         {
@@ -7483,7 +7231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・かっ・・楓・・・！？"
+                                "\\N<Naoto>....Kaede...!?"
                             ]
                         },
                         {
@@ -7500,7 +7248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>だいじょっ・・ぶっ・・なんでもっ・・んぁ！！"
+                                "\\N<Kaede>It's... fine... why... ah!!"
                             ]
                         },
                         {
@@ -7517,7 +7265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・まさか・・・・。"
+                                "\\N<Naoto>...No way..."
                             ]
                         },
                         {
@@ -7534,7 +7282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・そのスカートの・・・・。"
+                                "\\N<Naoto>...That skirt..."
                             ]
                         },
                         {
@@ -7551,7 +7299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・なか・・・・。"
+                                "\\N<Naoto>...Naka..."
                             ]
                         },
                         {
@@ -7602,7 +7350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>んぁっ・・・ごめっ・・なおっ・・とっ・・・・。"
+                                "\\N<Kaede>Ah... I'm sorry... Naoto..."
                             ]
                         },
                         {
@@ -7619,7 +7367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・はぁはぁっ・・・はぁはぁ・・・・！！"
+                                "\\N<Naoto>...Huff...huff...!!"
                             ]
                         },
                         {
@@ -7636,7 +7384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>それっ・・とっ・・んぁっ・えいっ・・ぞっ・・・"
+                                "\\N<Kaede>Th-there... t-take this..."
                             ]
                         },
                         {
@@ -7653,7 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・なんだ楓っ・・なんて・・・・。"
+                                "\\N<Naoto>Huh... Kaede, what's... what's going on..."
                             ]
                         },
                         {
@@ -7670,7 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>もっ・・もうっ・・戻るねっ・・・・。"
+                                "\\N<Kaede>I-I'm... going back now..."
                             ]
                         },
                         {
@@ -7687,7 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・あ、あぁ・・・・。"
+                                "\\N<Naoto>...Ah, ah....."
                             ]
                         },
                         {
@@ -7704,14 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ちゃんとっ・・ご飯食べてっ・・あぁぁ・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりっ・・やすんっ・・あぁぁ・・・！！！"
+                                "\\N<Kaede>Please... make sure to eat... rest... aahh!! Take your\ntime... relax... aahh...!!!"
                             ]
                         },
                         {
@@ -7728,7 +7469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・か、楓っ・・・・。"
+                                "\\N<Naoto>...K-Kaede..."
                             ]
                         },
                         {
@@ -7745,7 +7486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はぁはぁっ・・はぁはぁっ・・・・！"
+                                "\\N<Naoto>Huff...huff...!!"
                             ]
                         },
                         {

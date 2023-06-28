@@ -1478,7 +1478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。では確認致しますね。"
+                                "Yes, I will confirm it for you."
                             ]
                         },
                         {
@@ -1495,7 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
+                                "...."
                             ]
                         },
                         {
@@ -1512,7 +1512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "記入漏れも・・ナシっと・・・。"
+                                "No missing entries... Got it..."
                             ]
                         },
                         {
@@ -1529,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ではこちらの婚姻届け、受理致します。"
+                                "I will accept this marriage registration form."
                             ]
                         },
                         {
@@ -1546,7 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おめでとうございます。"
+                                "Congratulations."
                             ]
                         },
                         {
@@ -1570,7 +1570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
+                                "...."
                             ]
                         },
                         {
@@ -1587,7 +1587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・。"
+                                "......"
                             ]
                         },
                         {
@@ -1604,7 +1604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・。"
+                                "........"
                             ]
                         },
                         {

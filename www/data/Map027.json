@@ -3298,7 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・。"
+                                "......"
                             ]
                         },
                         {
@@ -3478,7 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ここで性行為禁止！！"
+                                "※Sexual activity is prohibited here!"
                             ]
                         },
                         {
@@ -3639,7 +3639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<怖そうな人>あ？何見てんだよあっち行け。"
+                                "\\N<Scary-looking person>Huh? What are you looking at? Go over there."
                             ]
                         },
                         {
@@ -3767,14 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<怖そうな人>ここ通りたいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理無理。"
+                                "\\N<Scary-looking person>Do you want to pass through here? Impossible,\nimpossible."
                             ]
                         },
                         {
@@ -3902,7 +3895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>俺行ってみたいんだよなー！！"
+                                "\\N<Male>I really want to go and see it!!"
                             ]
                         },
                         {
@@ -3919,7 +3912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>でもあそこって完全会員制だろ？"
+                                "\\N<Male>But isn't that place members-only?"
                             ]
                         },
                         {
@@ -3996,7 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>俺行ってみたいんだよなー！！"
+                                "\\N<Male>I really want to go and see it!!"
                             ]
                         },
                         {
@@ -4013,7 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>でもあそこって完全会員制だろ？"
+                                "\\N<Male>But isn't that place members-only?"
                             ]
                         },
                         {
@@ -4090,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>なぁまた行こうぜ？ハプバ♡"
+                                "\\N<Male>Hey, let's go again? Hapba♡"
                             ]
                         },
                         {
@@ -4107,14 +4100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>絶対嫌っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前騙して連れてったこと許してないんだからね！"
+                                "\\N<Female>No way...! I haven't forgiven you for tricking me and taking\nme there last time!"
                             ]
                         },
                         {
@@ -4191,7 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>なぁまた行こうぜ？ハプバ♡"
+                                "\\N<Male>Hey, let's go again? Hapba♡"
                             ]
                         },
                         {
@@ -4208,14 +4194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女性>絶対嫌っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前騙して連れてったこと許してないんだからね！"
+                                "\\N<Female>No way...! I haven't forgiven you for tricking me and taking\nme there last time!"
                             ]
                         },
                         {
@@ -4292,7 +4271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男性>ぶつぶつぶつぶつ・・・・・。"
+                                "\\N<Male>Mumbling, mumbling, mumbling..."
                             ]
                         },
                         {
@@ -4370,7 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<居酒屋店員>あっ今満席なんすよね～！"
+                                "\\N<Izakaya Clerk> Ah, we're fully booked right now!"
                             ]
                         },
                         {
@@ -6045,7 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ふぅ・・・いい感じに酒が入ったな・・・♡"
+                                "\\N<Kusayama>Ah... the alcohol is hitting just right... ♡"
                             ]
                         },
                         {
@@ -6103,7 +6082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あっ・・ご馳走・・様でした・・・。"
+                                "\\N<Aya>Ah... Thank you for the meal...."
                             ]
                         },
                         {
@@ -6127,7 +6106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>はいよ・・・じゃあ行くか♡"
+                                "\\N<Kusayama>Alright then... Let's go♡"
                             ]
                         },
                         {
@@ -6178,7 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>・・・・・・。"
+                                "\\N<Aya>......."
                             ]
                         },
                         {
@@ -6218,7 +6197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店員>ありがとうございましたーー！！"
+                                "\\N<Shopkeeper>Thank you very much--!!"
                             ]
                         },
                         {
@@ -7892,7 +7871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>はぁはぁ・・・び、びっくりした・・・。"
+                                "\\N<Aya>Ah, ah... I-I was surprised..."
                             ]
                         },
                         {
@@ -7932,7 +7911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>危うく騒動になるところだったなぁ・・・♡"
+                                "\\N<Kusayama>It was almost turning into a big commotion...♡"
                             ]
                         },
                         {
@@ -7990,7 +7969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>わ、笑いごとじゃありません・・・。"
+                                "\\N<Aya>This is not a laughing matter...."
                             ]
                         },
                         {
@@ -8014,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>でも・・・・。"
+                                "\\N<Kusayama>But..."
                             ]
                         },
                         {
@@ -8040,7 +8019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>興奮してたんだろぉ・・・？♡"
+                                "\\N<Kusayama>You were excited, right...?♡"
                             ]
                         },
                         {
@@ -8105,14 +8084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれどれ・・・・。"
+                                "\\N<Kusayama>Hehehe... Let's see..."
                             ]
                         },
                         {
@@ -8145,7 +8117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁぁっ・・・・！"
+                                "\\N<Aya>Ah...!"
                             ]
                         },
                         {
@@ -8162,14 +8134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ほぉ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グチョグチョじゃねぇか・・・♡"
+                                "\\N<Kusayama>Oh...♡ You're all wet...♡"
                             ]
                         },
                         {
@@ -8186,7 +8151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>いやぁっ・・はぁんっ・・こんな所でっ・・・♡"
+                                "\\N<Aya>Ah...ah...in a place like this...♡"
                             ]
                         },
                         {
@@ -8226,7 +8191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ここに来る前も色んな奴に見られてたな・・・♡"
+                                "\\N<Kusayama>Before coming here, I was seen by various people...♡"
                             ]
                         },
                         {
@@ -8243,7 +8208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>だからこんなになってるんだろ・・・♡"
+                                "\\N<Kusayama>That's why you're like this...♡"
                             ]
                         },
                         {
@@ -8260,7 +8225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁんっ・・・そうっ・・見られてたっ・・んぁ！"
+                                "\\N<Aya>Ah...yes...I was being watched...ah!"
                             ]
                         },
                         {
@@ -8309,7 +8274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃあとっておきをやるか・・・♡"
+                                "\\N<Kusayama>Shall I do something special...♡"
                             ]
                         },
                         {
@@ -8342,7 +8307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>えっ・・・なんで目隠しなんかっ・・・え・・"
+                                "\\N<Aya>Huh... why am I blindfolded... eh..."
                             ]
                         },
                         {
@@ -8371,7 +8336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>まぁ俺に任せろよ・・・♡"
+                                "\\N<Kusayama>Well, leave it to me...♡"
                             ]
                         },
                         {
@@ -8395,14 +8360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁんっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、これって・・・あぁ・・・！"
+                                "\\N<Aya>Ahh...! Th-this is... ahh...!"
                             ]
                         },
                         {
@@ -8426,7 +8384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>じゃ、少ししたら戻ってくるからよ・・・♡"
+                                "\\N<Kusayama>I'll be back in a little while...♡"
                             ]
                         },
                         {
@@ -8443,7 +8401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -8467,7 +8425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・。"
+                                "........"
                             ]
                         },
                         {
@@ -8491,7 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・。"
+                                "..........."
                             ]
                         },
                         {
@@ -8863,7 +8821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>あー楽しかった！"
+                                "\\N<Child>Ah, that was fun!"
                             ]
                         },
                         {
@@ -8889,7 +8847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>塾の後のカラオケは楽しいね！！"
+                                "\\N<Child>Karaoke after cram school is fun, isn't it!!"
                             ]
                         },
                         {
@@ -8915,7 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>明日の小テストも頑張ろうぜー！"
+                                "\\N<Child>Let's do our best on tomorrow's quiz too!"
                             ]
                         },
                         {
@@ -8950,7 +8908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>おー！"
+                                "\\N<Child>Oh!"
                             ]
                         },
                         {
@@ -8976,7 +8934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>じゃ帰ろっか！"
+                                "\\N<Child>Well, let's go home!"
                             ]
                         },
                         {
@@ -9002,7 +8960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>そうだね！"
+                                "\\N<Child>That's right!"
                             ]
                         },
                         {
@@ -9028,7 +8986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>あっ！カラオケの部屋にノート忘れた！"
+                                "\\N<Child>Ah! Naoto forgot his notes in the karaoke room!"
                             ]
                         },
                         {
@@ -9054,7 +9012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>まじかよ！じゃあ取り行こうぜ！！"
+                                "\\N<Child>Seriously?! Then let's go get them!!"
                             ]
                         },
                         {
@@ -9080,14 +9038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>いや先帰っていいよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り行ってくるよ！"
+                                "\\N<Child>No, you can go home first!! I'll go get them for you!"
                             ]
                         },
                         {
@@ -9113,7 +9064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>そうか！じゃあまた明日な！！"
+                                "\\N<Child>Oh, I see! Well then, see you tomorrow!!"
                             ]
                         },
                         {
@@ -9139,7 +9090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>小テスト頑張ろうぜー！！"
+                                "\\N<Child>Let's do our best on the quiz!!"
                             ]
                         },
                         {
@@ -9165,7 +9116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>おう！！"
+                                "\\N<Child>Oh!!"
                             ]
                         },
                         {
@@ -9270,7 +9221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>はぁなんで忘れちゃうんだろうなー。"
+                                "\\N<Child>Ah, I wonder why he always forgets things..."
                             ]
                         },
                         {
@@ -9346,7 +9297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・んぁ・・・・・・。"
+                                "...Ugh......."
                             ]
                         },
                         {
@@ -9403,7 +9354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>ん！？"
+                                "\\N<Child>Huh!?"
                             ]
                         },
                         {
@@ -9420,7 +9371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>なんかあっちから声が聞こえたような・・・。"
+                                "\\N<Child>I think I heard a voice coming from over there...."
                             ]
                         },
                         {
@@ -9503,7 +9454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・あぁ・・・・・・。"
+                                "...Ah......."
                             ]
                         },
                         {
@@ -9529,14 +9480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>やっぱり・・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして・・・お、おばけ・・・。"
+                                "\\N<Child>As I thought....! Could it be...a, a ghost...."
                             ]
                         },
                         {
@@ -9553,7 +9497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>・・・・・。"
+                                "\\N<Child>......"
                             ]
                         },
                         {
@@ -9570,7 +9514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>こ、怖くなんかないぞ・・・！"
+                                "\\N<Child>I-I'm not scared...!"
                             ]
                         },
                         {
@@ -9697,7 +9641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>えっ・・・！？"
+                                "\\N<Child>Huh...!?"
                             ]
                         },
                         {
@@ -9779,7 +9723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁんっ・・はぁはぁ・・・はぁっ・・あぁ！！"
+                                "\\N<Aya>Ah...haa...haa...haa...ahh!!"
                             ]
                         },
                         {
@@ -9796,7 +9740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>(・・・女のひと・・・！？)"
+                                "\\N<Child>(...A woman...!?)"
                             ]
                         },
                         {
@@ -9813,7 +9757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁぁっ・・・もうぉっ・・だめっ・・・あぁ！"
+                                "\\N<Aya>Ahhhh...no...it's no use...ahh!"
                             ]
                         },
                         {
@@ -9830,7 +9774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>(女のひとが・・いじめられてる・・・？)"
+                                "\\N<Child>(Is that woman... being bullied...?)"
                             ]
                         },
                         {
@@ -9847,7 +9791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁぁっ・・・イクっ・・イクぅっ・・・！！"
+                                "\\N<Aya>Ahhhh...I'm...I'm coming...!!"
                             ]
                         },
                         {
@@ -9906,7 +9850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁぁぁっぁあぁああーー！！"
+                                "\\N<Aya>Aaaah Aah--！！"
                             ]
                         },
                         {
@@ -9923,7 +9867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>はぁはぁ・・・・はぁはぁんあぁ・・・。"
+                                "\\N<Aya>Haah...haah....haah...."
                             ]
                         },
                         {
@@ -9940,7 +9884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>(ど、どうしよう・・助けたほうがいいのかな・・・)"
+                                "\\N<Child>(W-What should I do... Should I help?)"
                             ]
                         },
                         {
@@ -10011,7 +9955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>だ、誰かいるの・・・・！？"
+                                "\\N<Aya>W-Who's there...!?"
                             ]
                         },
                         {
@@ -10068,7 +10012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>(ど、どうしよう・・・・えっと・・・。)"
+                                "\\N<Child>(W-What should I do.... um....)"
                             ]
                         },
                         {
@@ -10094,7 +10038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>あ・・・あの・・・。"
+                                "\\N<Child>Um... um..."
                             ]
                         },
                         {
@@ -10120,7 +10064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>えっ・・・！？"
+                                "\\N<Aya>Huh...!?"
                             ]
                         },
                         {
@@ -10171,7 +10115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>だっ・・誰・・・？こ、子供！？"
+                                "\\N<Aya>Wh-who...? A, a child!?"
                             ]
                         },
                         {
@@ -10188,14 +10132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>う・・うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉さん・・イジメられてるの・・・？大丈夫・・・？"
+                                "\\N<Child>Um... um. Are you being bullied, miss...? Are you okay...?"
                             ]
                         },
                         {
@@ -10212,21 +10149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>だ、大丈夫よ・・・んぁっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、お姉さんは平気っ・・あぁっ・！だから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "む、向こうへ行っててねっ・・あぁ・・！"
+                                "\\N<Aya>I-I'm...I'm fine...ahh...y-you don't have to worry about\nme...ahh...! So...j-just go over there...ahh...!"
                             ]
                         },
                         {
@@ -10243,7 +10166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>で、でも・・・・。"
+                                "\\N<Child>But..."
                             ]
                         },
                         {
@@ -10260,14 +10183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>本当に大丈夫っ・・あぁ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからっ・・・向こうへっ・・あぁぁぁ・・・！！"
+                                "\\N<Aya>I'm really okay... Ahh...! So... just go over there...\nAhhh...!!"
                             ]
                         },
                         {
@@ -10284,7 +10200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供>ぼ、僕・・・誰か呼んでくる・・・！"
+                                "\\N<Child>I-I... I'll go call someone...!"
                             ]
                         },
                         {
@@ -10301,7 +10217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>えっ・・・ちょ、ちょっと待っ・・あぁあぁん！！"
+                                "\\N<Aya>Wait... w-wait a minute... ahhhh!!"
                             ]
                         },
                         {
@@ -10888,14 +10804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>それでこの先なのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イジメられてる人ってのは。"
+                                "\\N<Male student>Is that what's happening here? The person being\nbullied?"
                             ]
                         },
                         {
@@ -10921,14 +10830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>なんか怖くねーか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなカラオケの裏でイジメられてるってのも気になるし。"
+                                "\\N<Male student>Isn't it scary...? I'm worried about someone being\nbullied behind this karaoke place."
                             ]
                         },
                         {
@@ -10954,14 +10856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>まぁあのボウズに助けてあげて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて言われたらそりゃ無下にはできないよな・・・。"
+                                "\\N<Male student>Well, if that baldy asked me to help, I can't just\nignore him..."
                             ]
                         },
                         {
@@ -10987,7 +10882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>お前見た目と違って真面目だもんな・・・。"
+                                "\\N<Male student>You're more serious than you look...."
                             ]
                         },
                         {
@@ -11013,7 +10908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>とりあえず行ってみるか。"
+                                "\\N<Male student>Let's go check it out for now."
                             ]
                         },
                         {
@@ -11241,7 +11136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>・・・・・っ！？"
+                                "\\N<Male student>.....!?!"
                             ]
                         },
                         {
@@ -11267,7 +11162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>おいおいまじかよ・・・・。"
+                                "\\N<Male student>Oh man, seriously..."
                             ]
                         },
                         {
@@ -11342,7 +11237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>はぁんっ・・あぁ・・・・あぁぁ・・・。"
+                                "\\N<Aya>Ah...ahh...ahhh...."
                             ]
                         },
                         {
@@ -11359,7 +11254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>え、AVの撮影とかじゃねーのか・・・。"
+                                "\\N<Male student>Wait, is this some kind of adult video shoot...?"
                             ]
                         },
                         {
@@ -11376,7 +11271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>でも周りには誰もいないぜ・・・。"
+                                "\\N<Male student>But there's no one around...."
                             ]
                         },
                         {
@@ -11393,7 +11288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁっ・・・・だっ・・誰ぇ・・・。"
+                                "\\N<Aya>Ah...ahh...ahhh...."
                             ]
                         },
                         {
@@ -11410,7 +11305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>あ・・・えっと・・・。"
+                                "\\N<Male student>Um... well..."
                             ]
                         },
                         {
@@ -11427,14 +11322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>お、お姉さん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなとこで何してるんですか・・・。"
+                                "\\N<Male student>Um, um... What are you doing here...?"
                             ]
                         },
                         {
@@ -11451,7 +11339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>なにって・・あぁんっ・・・！"
+                                "\\N<Aya>What are you...ahh...!"
                             ]
                         },
                         {
@@ -11468,21 +11356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>ん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか書いてある・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「精液をぶっかけてください」"
+                                "\\N<Male student>Huh...? There's something written here.... Please\nejaculate on me."
                             ]
                         },
                         {
@@ -11499,7 +11373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>・・・・っ！？"
+                                "\\N<Male student>....!?!"
                             ]
                         },
                         {
@@ -11516,7 +11390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>ま、まじかよ・・・。"
+                                "\\N<Male student>Seriously...."
                             ]
                         },
                         {
@@ -11533,7 +11407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>な、なぁ・・・どうする！？"
+                                "\\N<Male student>Hey, what should we do!?"
                             ]
                         },
                         {
@@ -11550,21 +11424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>どうって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか怖くないか・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ろうぜ・・・！"
+                                "\\N<Male student>Isn't this... kind of scary?! Let's go back...!"
                             ]
                         },
                         {
@@ -11581,7 +11441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>い・・・いや・・・。"
+                                "\\N<Male student>No... no..."
                             ]
                         },
                         {
@@ -11598,14 +11458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>書いてある通り・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶ、ぶっかけて見ようぜ・・・。"
+                                "\\N<Male student>As it's written... Let's, let's try ejaculating on\nher...."
                             ]
                         },
                         {
@@ -11622,7 +11475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>お、お前・・本気か！？"
+                                "\\N<Male student>Are you... serious!?"
                             ]
                         },
                         {
@@ -11639,7 +11492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>こ、こんな体験もうできねーだろ・・・。"
+                                "\\N<Male student>I... I can't handle experiences like this anymore...."
                             ]
                         },
                         {
@@ -11656,7 +11509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>・・・ま、まぁ・・・。"
+                                "\\N<Male student>W-Well..."
                             ]
                         },
                         {
@@ -11673,7 +11526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>じゃ、じゃあ・・・。"
+                                "\\N<Male student>W-Well..."
                             ]
                         },
                         {
@@ -11780,7 +11633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>なっ・・・なにっ・・・！？"
+                                "\\N<Aya>Wha... what...!?"
                             ]
                         },
                         {
@@ -11797,7 +11650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>はぁはぁ・・・大きいおっぱい・・・。。"
+                                "\\N<Male student>Ah... big breasts..."
                             ]
                         },
                         {
@@ -11814,7 +11667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>んぁっ・・・なっ・・・なにっ・・・！？"
+                                "\\N<Aya>Ah... wha... what...!?"
                             ]
                         },
                         {
@@ -11831,14 +11684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>あぁ・・俺もうヤバいかも・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく見たらお姉さんエロすぎだろ・・・・。"
+                                "\\N<Male student>Ah... I might be in trouble.... Now that I look\nclosely, that lady is way too erotic...."
                             ]
                         },
                         {
@@ -11855,7 +11701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>あぁ・・ヤバイ・・・射精るっ！！！！"
+                                "\\N<Male student>Oh no... I'm gonna ejaculate!!!"
                             ]
                         },
                         {
@@ -11872,7 +11718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>お、俺も・・！！"
+                                "\\N<Male student>Oh, me too..!!"
                             ]
                         },
                         {
@@ -11983,14 +11829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>えっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁんっ・・・この匂いっ・・あぁ・・！"
+                                "\\N<Aya>What...!? Ahh... this scent... ahh...!"
                             ]
                         },
                         {
@@ -12007,7 +11846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>お、おい！帰ろうぜ・・・！"
+                                "\\N<Male student>Hey, let's go home...!"
                             ]
                         },
                         {
@@ -12024,7 +11863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子学生>あ、あぁ！"
+                                "\\N<Male student>Ah, ah!"
                             ]
                         },
                         {
@@ -12417,7 +12256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おぉ・・・しっかりぶっかけられてるじゃないか♡"
+                                "\\N<Kusayama>Oh... you're getting covered in it properly, aren't you ♡"
                             ]
                         },
                         {
@@ -12475,7 +12314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁっ・・・あぁ・・・んぁ・・・・。"
+                                "\\N<Aya>Ah... ah... ngh..."
                             ]
                         },
                         {
@@ -12492,7 +12331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>おいおいイキすぎて放心状態かぁ・・・？♡"
+                                "\\N<Kusayama>Hey hey, are you in a state of ecstasy from cumming too\nmuch...? ♡"
                             ]
                         },
                         {
@@ -12509,7 +12348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>んぁ・・・あぁ・・・えぇ・・・？"
+                                "\\N<Aya>Uh...ah...huh...?"
                             ]
                         },
                         {
@@ -12526,7 +12365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>どんな顔してるんだろうなぁ・・・？♡"
+                                "\\N<Kusayama>I wonder what kind of expression you're making...? ♡"
                             ]
                         },
                         {
@@ -12559,7 +12398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>あぁっ・・・はぁんっ・・・・・。"
+                                "\\N<Aya>Ah... haaan..."
                             ]
                         },
                         {
@@ -12576,14 +12415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ひひひ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔も分からないやつにぶっかけられたんだな・・・♡"
+                                "\\N<Kusayama>Hehehe...♡ You got covered by someone whose face you don't\neven know...♡"
                             ]
                         },
                         {
@@ -12600,7 +12432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>んぁっ・・・あぁっ・・・・。"
+                                "\\N<Aya>Ngh...ahh....."
                             ]
                         },
                         {
@@ -12617,7 +12449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>興奮したか・・・？しただろぉ・・・？♡"
+                                "\\N<Kusayama>Did you get excited...? You definitely did...? ♡"
                             ]
                         },
                         {
@@ -12634,7 +12466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>したっ・・・あぁっ・・・しましたっ・・・あぁ！！"
+                                "\\N<Aya>I did it... Ahh... I did it... Ahh!!"
                             ]
                         },
                         {
@@ -12651,7 +12483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>よし・・・じゃああの店・・行くか・・・♡"
+                                "\\N<Kusayama>Alright... Shall we go to that shop...♡"
                             ]
                         },
                         {
@@ -12668,7 +12500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<綾>はいっ・・・・♡"
+                                "\\N<Aya>Yes...♡"
                             ]
                         },
                         {

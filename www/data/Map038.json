@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "1階　部屋前",
+    "displayName": "1st Floor Room Front",
     "encounterList": [],
     "encounterStep": 30,
     "height": 6,
@@ -703,7 +703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が締まっている。。。"
+                                "The door is locked..."
                             ]
                         },
                         {
@@ -792,7 +792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が締まっている。。。"
+                                "The door is locked..."
                             ]
                         },
                         {
@@ -1179,7 +1179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が締まっている。。。"
+                                "The door is locked..."
                             ]
                         },
                         {
@@ -1268,7 +1268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が締まっている。。。"
+                                "The door is locked..."
                             ]
                         },
                         {

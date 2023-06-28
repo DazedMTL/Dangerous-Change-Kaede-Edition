@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "露天風呂",
+    "displayName": "Open-air bath",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3443,7 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>まさか楓ちゃんが来てるなんてね！"
+                                "\\N<Kazumi>I can't believe Kaede-chan is here!"
                             ]
                         },
                         {
@@ -3460,7 +3460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>本当びっくりしちゃった笑"
+                                "\\N<Kazumi>I was really surprised, haha."
                             ]
                         },
                         {
@@ -3493,7 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いや・・あのこれは・・・。"
+                                "\\N<Kaede>No... that's not..."
                             ]
                         },
                         {
@@ -3526,14 +3526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか楓ちゃんの知り合いに会うなんて偶然ですなぁ！笑"
+                                "\\N<Kusayama>Hahaha! It's such a coincidence to meet someone who knows\nKaede-chan! Laughing"
                             ]
                         },
                         {
@@ -3559,7 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>でもここにいるなんて、直人君も凄いわねー笑"
+                                "\\N<Kazumi>But it's amazing that Naoto-kun is here too - laughs."
                             ]
                         },
                         {
@@ -3585,7 +3578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>彼も僕と同じ性癖をもっているからなー。"
+                                "\\N<Yosuke>Because he has the same fetish as me."
                             ]
                         },
                         {
@@ -3611,7 +3604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>お二人はなぜここに？"
+                                "\\N<Kusayama>Why are you two here?"
                             ]
                         },
                         {
@@ -3628,14 +3621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>いやーここ混浴温泉でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからそういう目的でちょいちょい来てたんですよ笑"
+                                "\\N<Yosuke>No, we're here for the mixed bath hot springs, right? So\nwe've been coming here occasionally for that purpose, haha."
                             ]
                         },
                         {
@@ -3652,7 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>はぁーなるほど♡"
+                                "\\N<Kusayama>Ah, I see ♡"
                             ]
                         },
                         {
@@ -3669,14 +3655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>でもまさか直人くんじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "協力してもらってる方となんて、直人君が凄すぎます笑"
+                                "\\N<Yosuke>But I never expected that it would be someone other than\nNaoto-kun who is helping us. Naoto-kun is amazing, haha."
                             ]
                         },
                         {
@@ -3702,21 +3681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>いやぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当直人君に協力してほしいって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言われたときは焦りましたよー！笑"
+                                "\\N<Kusayama>Oh... When Naoto-kun asked me to help, I was really\nflustered! Haha"
                             ]
                         },
                         {
@@ -3749,7 +3714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -3766,7 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>じゃあもう何度も楓ちゃんと・・？"
+                                "\\N<Yosuke>So you've met Kaede-chan multiple times already...?"
                             ]
                         },
                         {
@@ -3792,7 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>ええ笑　何度もセックスしてますよぉ笑"
+                                "\\N<Kusayama>Hahaha, we've had sex multiple times, you know? Laughing"
                             ]
                         },
                         {
@@ -3818,7 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらー楓ちゃんも結構大胆なのねぇ・・・笑"
+                                "\\N<Kazumi>Oh my, Kaede-chan, you're quite bold... haha."
                             ]
                         },
                         {
@@ -3844,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>そっ・・それはっ・・・・。"
+                                "\\N<Kaede>Tha..that's..."
                             ]
                         },
                         {
@@ -3870,21 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>楓ちゃんの乱れ方は結構凄いですからねぇー♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段のクールと真逆ですよ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もつい興奮しちゃって笑"
+                                "\\N<Kusayama>Kaede-chan's way of being wild is quite amazing, you know?\nIt's the complete opposite of her usual cool demeanor...? I also can't\nhelp but get excited, haha."
                             ]
                         },
                         {
@@ -3910,7 +3861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>・・・・。"
+                                "\\N<Yosuke>....."
                             ]
                         },
                         {
@@ -3967,7 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おっ・・・おい！"
+                                "\\N<Kaede>Hey...hey!"
                             ]
                         },
                         {
@@ -4000,7 +3951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>あらー・・・下山さんて凄いのねぇ・・・♡"
+                                "\\N<Kazumi>Oh my... Kusayama-san, you're amazing, aren't you...♡"
                             ]
                         },
                         {
@@ -4057,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>・・・・和美・・・・。"
+                                "\\N<Yosuke>....Kazumi....."
                             ]
                         },
                         {
@@ -4090,14 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>良いでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇー？下山さん♡"
+                                "\\N<Kazumi>Isn't it good? Hey, Kusayama-san♡"
                             ]
                         },
                         {
@@ -4154,7 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>・・・・。"
+                                "\\N<Yosuke>....."
                             ]
                         },
                         {
@@ -4171,7 +4115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>し、下山さん・・・あの・・・。"
+                                "\\N<Yosuke>U-um, Kusayama-san... about that..."
                             ]
                         },
                         {
@@ -4188,7 +4132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>なんでしょう・・・？"
+                                "\\N<Kusayama>What is it...?"
                             ]
                         },
                         {
@@ -4205,7 +4149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>よ、よかったら和美を抱いてみませんか？"
+                                "\\N<Yosuke>If you want, would you like to hug Kazumi?"
                             ]
                         },
                         {
@@ -4222,14 +4166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>私もそういった性癖で・・・その・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで会ったのも何かのご縁ですし・・。"
+                                "\\N<Kusayama>I also have that kind of fetish... um... meeting here must\nbe fate or something..."
                             ]
                         },
                         {
@@ -4255,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>もちろんいいですよ・・♡"
+                                "\\N<Kusayama>Of course, that's fine...♡"
                             ]
                         },
                         {
@@ -4272,7 +4209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>・・・・。"
+                                "\\N<Kaede>....."
                             ]
                         },
                         {
@@ -4289,14 +4226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そしたら洋介さんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楓ちゃんとセックスしちゃいますかぁ？♡"
+                                "\\N<Kusayama>Then, Yosuke-san, would you have sex with Kaede-chan? ♡"
                             ]
                         },
                         {
@@ -4322,7 +4252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>えっ・・・・！"
+                                "\\N<Yosuke>Huh...?!"
                             ]
                         },
                         {
@@ -4379,7 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>ちょっ・・何言ってんの・・・！"
+                                "\\N<Kaede>Hey, what are you saying...?!"
                             ]
                         },
                         {
@@ -4405,7 +4335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>い、いやぁ・・それはやめておきますよ笑"
+                                "\\N<Yosuke>No, no... let's not do that, haha."
                             ]
                         },
                         {
@@ -4422,14 +4352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>直人くんが頼んだのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あくまで下山さんですし・・笑"
+                                "\\N<Yosuke>Naoto-kun only asked for Kusayama-san's hug, haha."
                             ]
                         },
                         {
@@ -4477,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>そうですかぁ・・・♡じゃあ遠慮なく・・♡"
+                                "\\N<Kusayama>Is that so...♡ Well then, don't hold back...♡"
                             ]
                         },
                         {
@@ -4494,7 +4417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>和美さん・・♡　ここでしちゃいます・・？？♡"
+                                "\\N<Kusayama>Shall we do it here, Kazumi-san..? ♡"
                             ]
                         },
                         {
@@ -4511,7 +4434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<和美>んー・・・・そうしますか♡"
+                                "\\N<Kazumi>Hmm... Is that so? ♡"
                             ]
                         },
                         {
@@ -4537,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>・・・・っ！"
+                                "\\N<Yosuke>....!"
                             ]
                         },
                         {
@@ -4554,14 +4477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<洋介>じゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ僕と楓ちゃんは部屋で待ってますんで・・・。"
+                                "\\N<Yosuke>Then, um, Kaede-chan and I will be waiting in the room..."
                             ]
                         },
                         {
@@ -4587,7 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<下山>あ、了解です・・・♡"
+                                "\\N<Kusayama>Understood...♡"
                             ]
                         },
                         {
@@ -4620,7 +4536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>・・・・・っ！！"
+                                "\\N<Naoto>.....!!"
                             ]
                         },
                         {

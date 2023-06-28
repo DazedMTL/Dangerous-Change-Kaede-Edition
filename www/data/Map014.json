@@ -2032,7 +2032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼ごっこから逃げるわけには行かない・・・・！"
+                                "I can't just run away from playing tag....!"
                             ]
                         },
                         {
@@ -2191,7 +2191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>あぁ！捕まっちゃった・・・！"
+                                "\\N<Child A> Ah! I got caught...!"
                             ]
                         },
                         {
@@ -2345,7 +2345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>あぁ！くそぉ！"
+                                "\\N<Child A>Ah! Damn it!"
                             ]
                         },
                         {
@@ -2515,7 +2515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>うげっ！"
+                                "\\N<Child A> Ugh!"
                             ]
                         },
                         {
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ひかる>あぁ！捕まったー！！"
+                                "\\N<Hikaru>Ah! I've been caught-!!"
                             ]
                         },
                         {
@@ -2838,7 +2838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>皆ー！バーベキュー始めるよー！"
+                                "\\N<Landlady>Everyone! Let's start the barbecue!"
                             ]
                         },
                         {
@@ -2898,7 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供達>やったー！！！"
+                                "\\N<Children>Yay-!!!"
                             ]
                         },
                         {
@@ -3067,7 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>直人兄ちゃんが鬼だー！"
+                                "\\N<Child A> Naoto is the demon brother!"
                             ]
                         },
                         {
@@ -3093,7 +3093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>逃げろー！"
+                                "\\N<Child B> Run away!"
                             ]
                         },
                         {
@@ -3119,7 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>捕まえてみろー！"
+                                "\\N<Miya>Try to catch me-!"
                             ]
                         },
                         {
@@ -4263,7 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>げっ・・・！"
+                                "\\N<Miya>Gah...!"
                             ]
                         },
                         {
@@ -4289,7 +4289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はいタッチ♪"
+                                "\\N<Naoto>Tag, you're it♪"
                             ]
                         },
                         {
@@ -4337,7 +4337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>な、直人さん意外に早いっすね・・・。"
+                                "\\N<Miya>Oh, Naoto-san, you're surprisingly fast...."
                             ]
                         },
                         {
@@ -4363,7 +4363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>だろう？"
+                                "\\N<Naoto>Right?"
                             ]
                         },
                         {
@@ -4380,7 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>逃げろー！！"
+                                "\\N<Naoto>Run away!!"
                             ]
                         },
                         {
@@ -4549,7 +4549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>よっしゃ！こうなったら楓を捕まえてやる！"
+                                "\\N<Miya>Alright! If that's how it is, I'll catch Kaede!"
                             ]
                         },
                         {
@@ -4606,7 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>楓姉ちゃんは早すぎるから無理だと思うよー！"
+                                "\\N<Child A>I think it's impossible to catch Kaede-chan because she's\ntoo fast!"
                             ]
                         },
                         {
@@ -4663,7 +4663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>そうそうー！"
+                                "\\N<Child B> That's right!"
                             ]
                         },
                         {
@@ -4689,7 +4689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>そんなこと言ったら燃えてくるだろー！！"
+                                "\\N<Miya>If you say things like that, I'll get fired up!!"
                             ]
                         },
                         {
@@ -4822,7 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>よーし！ターッチ・・・・"
+                                "\\N<Miya>Alright! Tag...."
                             ]
                         },
                         {
@@ -4933,7 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>え、あれ・・・。"
+                                "\\N<Miya>Huh, what's that...."
                             ]
                         },
                         {
@@ -4966,7 +4966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>遅い！！"
+                                "\\N<Kaede>Slowpoke!!"
                             ]
                         },
                         {
@@ -5021,7 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>くそー！！"
+                                "\\N<Miya>Damn it-!!"
                             ]
                         },
                         {
@@ -5119,7 +5119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>これじゃ一生捕まらないかな？"
+                                "\\N<Kaede>At this rate, will I never be caught in my whole life?"
                             ]
                         },
                         {
@@ -5183,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>チクショー！！"
+                                "\\N<Miya>Damn it-!!"
                             ]
                         },
                         {
@@ -5283,7 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>は、早すぎる・・・。"
+                                "\\N<Miya>She's too fast...."
                             ]
                         },
                         {
@@ -5309,7 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>おーいみやくーん！楓は諦めたらー？笑"
+                                "\\N<Naoto>Hey, Miya-kun! What if Kaede gave up? Haha."
                             ]
                         },
                         {
@@ -5335,7 +5335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>絶対捕まえてやるー！！"
+                                "\\N<Miya>I'll definitely catch her-!!"
                             ]
                         },
                         {
@@ -5715,7 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>はぁはぁ・・・。"
+                                "\\N<Miya>Haahaa...."
                             ]
                         },
                         {
@@ -5748,7 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>もう諦めて他を狙いなさい？"
+                                "\\N<Kaede>Why don't you give up and aim for someone else?"
                             ]
                         },
                         {
@@ -5781,7 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>まだまだぁー！！"
+                                "\\N<Miya>I'm not giving up yet-!!"
                             ]
                         },
                         {
@@ -5869,7 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あっ・・・！"
+                                "\\N<Kaede>Ah...!"
                             ]
                         },
                         {
@@ -5895,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓危ない！浮き輪が！！"
+                                "\\N<Naoto>Kaede, be careful! The float is coming towards you!!"
                             ]
                         },
                         {
@@ -5921,14 +5921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ちょっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に止まるなって・・・・！！！"
+                                "\\N<Miya>Hey, wai...!! Don't stop so suddenly....!!!"
                             ]
                         },
                         {
@@ -6057,7 +6050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>大丈夫か！二人とも！！"
+                                "\\N<Naoto>Are you both okay?!"
                             ]
                         },
                         {
@@ -6081,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・・。"
+                                "\\N<Naoto>Huh....."
                             ]
                         },
                         {
@@ -6132,7 +6125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・・・。"
+                                "\\N<Kaede>Huh....."
                             ]
                         },
                         {
@@ -6149,7 +6142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>いてて・・・"
+                                "\\N<Miya>Ouch..."
                             ]
                         },
                         {
@@ -6166,7 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>なんか柔らかいものに・・・"
+                                "\\N<Miya>It feels like something soft..."
                             ]
                         },
                         {
@@ -6199,7 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>えへっ・・・えへへ・・・。"
+                                "\\N<Miya>Hehe...hehehe...."
                             ]
                         },
                         {
@@ -6216,7 +6209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おい・・・・。"
+                                "\\N<Kaede>Hey....."
                             ]
                         },
                         {
@@ -6233,7 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>わ、わざとじゃないんだよ・・・？♡"
+                                "\\N<Miya>It wasn't on purpose, you know...? ♡"
                             ]
                         },
                         {
@@ -6250,7 +6243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>早く離れなさい・・・。"
+                                "\\N<Kaede>Get away quickly...."
                             ]
                         },
                         {
@@ -6267,7 +6260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ちょっと待ってよ態勢がっ・・・♡"
+                                "\\N<Miya>Hey, wait a minute...♡"
                             ]
                         },
                         {
@@ -6284,7 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いつまでくっついてんのよっ・・・！！！"
+                                "\\N<Kaede>How long are you going to stick to me...!!!"
                             ]
                         },
                         {
@@ -6395,7 +6388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>うげっ・・・！！"
+                                "\\N<Miya>Ugh...!!"
                             ]
                         },
                         {
@@ -6428,7 +6421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いつまで触ってんのよ！！！"
+                                "\\N<Kaede>How long are you going to keep touching me!!!"
                             ]
                         },
                         {
@@ -6484,7 +6477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ごめんごめんわざとじゃないんだってば・・・。"
+                                "\\N<Miya>Sorry, sorry, it wasn't on purpose, I swear..."
                             ]
                         },
                         {
@@ -6501,7 +6494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>でも・・・。"
+                                "\\N<Miya>But..."
                             ]
                         },
                         {
@@ -6527,7 +6520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>は、ハリが合って良いおっぱいだったよ？♡"
+                                "\\N<Miya>Oh, your breasts fit perfectly in my hands, they're so nice,\naren't they? ♡"
                             ]
                         },
                         {
@@ -6576,7 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>殺すわよ・・・？"
+                                "\\N<Kaede>I'll kill you...?"
                             ]
                         },
                         {
@@ -6609,14 +6602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ごめんごめん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "褒めたつもりなんだって！！！"
+                                "\\N<Miya>Sorry, sorry!! I meant it as a compliment!!!"
                             ]
                         },
                         {
@@ -6696,14 +6682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>はーい！皆ー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう帰るわよー！！"
+                                "\\N<Landlady>Alright! Everyone, it's time to go home!!"
                             ]
                         },
                         {
@@ -6747,7 +6726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供たち>はーい！！"
+                                "\\N<Children>Yes!!"
                             ]
                         },
                         {
@@ -6783,7 +6762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -6800,7 +6779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -6817,7 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {
@@ -7953,7 +7932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>直人兄ちゃんが鬼だー！"
+                                "\\N<Child A> Naoto is the demon brother!"
                             ]
                         },
                         {
@@ -7979,7 +7958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>逃げろー！"
+                                "\\N<Child B> Run away!"
                             ]
                         },
                         {
@@ -8005,7 +7984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>捕まえてみろー！"
+                                "\\N<Miya>Try to catch me-!"
                             ]
                         },
                         {
@@ -9149,7 +9128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>げっ・・・！"
+                                "\\N<Miya>Gah...!"
                             ]
                         },
                         {
@@ -9175,7 +9154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>はいタッチ♪"
+                                "\\N<Naoto>Tag, you're it♪"
                             ]
                         },
                         {
@@ -9223,7 +9202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>な、直人さん意外に早いっすね・・・。"
+                                "\\N<Miya>Oh, Naoto-san, you're surprisingly fast...."
                             ]
                         },
                         {
@@ -9249,7 +9228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>だろう？"
+                                "\\N<Naoto>Right?"
                             ]
                         },
                         {
@@ -9266,7 +9245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>逃げろー！！"
+                                "\\N<Naoto>Run away!!"
                             ]
                         },
                         {
@@ -9435,7 +9414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>よっしゃ！こうなったら楓を捕まえてやる！"
+                                "\\N<Miya>Alright! If that's how it is, I'll catch Kaede!"
                             ]
                         },
                         {
@@ -9492,7 +9471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供A>楓姉ちゃんは早すぎるから無理だと思うよー！"
+                                "\\N<Child A>I think it's impossible to catch Kaede-chan because she's\ntoo fast!"
                             ]
                         },
                         {
@@ -9549,7 +9528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供B>そうそうー！"
+                                "\\N<Child B> That's right!"
                             ]
                         },
                         {
@@ -9575,7 +9554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>そんなこと言ったら燃えてくるだろー！！"
+                                "\\N<Miya>If you say things like that, I'll get fired up!!"
                             ]
                         },
                         {
@@ -9708,7 +9687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>よーし！ターッチ・・・・"
+                                "\\N<Miya>Alright! Tag...."
                             ]
                         },
                         {
@@ -9819,7 +9798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>え、あれ・・・。"
+                                "\\N<Miya>Huh, what's that...."
                             ]
                         },
                         {
@@ -9852,7 +9831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>遅い！！"
+                                "\\N<Kaede>Slowpoke!!"
                             ]
                         },
                         {
@@ -9907,7 +9886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>くそー！！"
+                                "\\N<Miya>Damn it-!!"
                             ]
                         },
                         {
@@ -10005,7 +9984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>これじゃ一生捕まらないかな？"
+                                "\\N<Kaede>At this rate, will I never be caught in my whole life?"
                             ]
                         },
                         {
@@ -10069,7 +10048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>チクショー！！"
+                                "\\N<Miya>Damn it-!!"
                             ]
                         },
                         {
@@ -10169,7 +10148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>は、早すぎる・・・。"
+                                "\\N<Miya>She's too fast...."
                             ]
                         },
                         {
@@ -10195,7 +10174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>おーいみやくーん！楓は諦めたらー？笑"
+                                "\\N<Naoto>Hey, Miya-kun! What if Kaede gave up? Haha."
                             ]
                         },
                         {
@@ -10221,7 +10200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>絶対捕まえてやるー！！"
+                                "\\N<Miya>I'll definitely catch her-!!"
                             ]
                         },
                         {
@@ -10601,7 +10580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>はぁはぁ・・・。"
+                                "\\N<Miya>Haahaa...."
                             ]
                         },
                         {
@@ -10634,7 +10613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>もう諦めて他を狙いなさい？"
+                                "\\N<Kaede>Why don't you give up and aim for someone else?"
                             ]
                         },
                         {
@@ -10667,7 +10646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>まだまだぁー！！"
+                                "\\N<Miya>I'm not giving up yet-!!"
                             ]
                         },
                         {
@@ -10755,7 +10734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>あっ・・・！"
+                                "\\N<Kaede>Ah...!"
                             ]
                         },
                         {
@@ -10781,7 +10760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>楓危ない！浮き輪が！！"
+                                "\\N<Naoto>Kaede, be careful! The float is coming towards you!!"
                             ]
                         },
                         {
@@ -10807,14 +10786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ちょっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に止まるなって・・・・！！！"
+                                "\\N<Miya>Hey, wai...!! Don't stop so suddenly....!!!"
                             ]
                         },
                         {
@@ -10943,7 +10915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>大丈夫か！二人とも！！"
+                                "\\N<Naoto>Are you both okay?!"
                             ]
                         },
                         {
@@ -10967,7 +10939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<直人>えっ・・・・。"
+                                "\\N<Naoto>Huh....."
                             ]
                         },
                         {
@@ -11018,7 +10990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>えっ・・・・。"
+                                "\\N<Kaede>Huh....."
                             ]
                         },
                         {
@@ -11035,7 +11007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>いてて・・・"
+                                "\\N<Miya>Ouch..."
                             ]
                         },
                         {
@@ -11052,7 +11024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>なんか柔らかいものに・・・"
+                                "\\N<Miya>It feels like something soft..."
                             ]
                         },
                         {
@@ -11085,7 +11057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>えへっ・・・えへへ・・・。"
+                                "\\N<Miya>Hehe...hehehe...."
                             ]
                         },
                         {
@@ -11102,7 +11074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>おい・・・・。"
+                                "\\N<Kaede>Hey....."
                             ]
                         },
                         {
@@ -11119,7 +11091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>わ、わざとじゃないんだよ・・・？♡"
+                                "\\N<Miya>It wasn't on purpose, you know...? ♡"
                             ]
                         },
                         {
@@ -11136,7 +11108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>早く離れなさい・・・。"
+                                "\\N<Kaede>Get away quickly...."
                             ]
                         },
                         {
@@ -11153,7 +11125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ちょっと待ってよ態勢がっ・・・♡"
+                                "\\N<Miya>Hey, wait a minute...♡"
                             ]
                         },
                         {
@@ -11170,7 +11142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いつまでくっついてんのよっ・・・！！！"
+                                "\\N<Kaede>How long are you going to stick to me...!!!"
                             ]
                         },
                         {
@@ -11281,7 +11253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>うげっ・・・！！"
+                                "\\N<Miya>Ugh...!!"
                             ]
                         },
                         {
@@ -11314,7 +11286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>いつまで触ってんのよ！！！"
+                                "\\N<Kaede>How long are you going to keep touching me!!!"
                             ]
                         },
                         {
@@ -11370,7 +11342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ごめんごめんわざとじゃないんだってば・・・。"
+                                "\\N<Miya>Sorry, sorry, it wasn't on purpose, I swear..."
                             ]
                         },
                         {
@@ -11387,7 +11359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>でも・・・。"
+                                "\\N<Miya>But..."
                             ]
                         },
                         {
@@ -11413,7 +11385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>は、ハリが合って良いおっぱいだったよ？♡"
+                                "\\N<Miya>It's just that our bodies fit together so well, your breasts\nare amazing, you know? ♡"
                             ]
                         },
                         {
@@ -11462,7 +11434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楓>殺すわよ・・・？"
+                                "\\N<Kaede>I'll kill you...?"
                             ]
                         },
                         {
@@ -11495,14 +11467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<みや>ごめんごめん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "褒めたつもりなんだって！！！"
+                                "\\N<Miya>Sorry, sorry!! I meant it as a compliment!!!"
                             ]
                         },
                         {
@@ -11582,14 +11547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女将>はーい！皆ー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう帰るわよー！！"
+                                "\\N<Landlady>Alright! Everyone, it's time to go home!!"
                             ]
                         },
                         {
@@ -11633,7 +11591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<子供たち>はーい！！"
+                                "\\N<Children>Yes!!"
                             ]
                         },
                         {
@@ -11669,7 +11627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・。"
+                                "....."
                             ]
                         },
                         {
@@ -11686,7 +11644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・。"
+                                "......."
                             ]
                         },
                         {
@@ -11703,7 +11661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・。"
+                                "........."
                             ]
                         },
                         {
