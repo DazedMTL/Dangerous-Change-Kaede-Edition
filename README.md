@@ -1,7 +1,7 @@
 # Apply Patch
 1. Click Code
 2. Click Download ZIP
-3. Place Data and Js in /www. Replace All.
+3. Extract to game folder and Replace All.
 
 # How To Contribute
 TLDR 3 steps.
