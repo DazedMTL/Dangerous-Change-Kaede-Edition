@@ -2454,7 +2454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>You... you're... Hazuki..."
+                                "\\N<Shimoyama>You... you're... Hazuki..."
                             ]
                         },
                         {
@@ -2471,7 +2471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Naoto>Kusayama..."
+                                "\\N<Naoto>Shimoyama..."
                             ]
                         },
                         {
@@ -2488,7 +2488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>W-What do you want now..."
+                                "\\N<Shimoyama>W-What do you want now..."
                             ]
                         },
                         {
@@ -2522,7 +2522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>W-What would happen if I said something..."
+                                "\\N<Shimoyama>W-What would happen if I said something..."
                             ]
                         },
                         {
@@ -2593,7 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Wait! You... don't happen to have something weird on you,\ndo you...?"
+                                "\\N<Shimoyama>Wait! You... don't happen to have something weird on you,\ndo you...?"
                             ]
                         },
                         {
@@ -2627,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So, so what do you want?"
+                                "\\N<Shimoyama>So, so what do you want?"
                             ]
                         },
                         {
@@ -2661,7 +2661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>What is your purpose, Aya?"
+                                "\\N<Shimoyama>What is your purpose, Aya?"
                             ]
                         },
                         {
@@ -2695,7 +2695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Sorry, but if it's Aya, I'm no longer involved."
+                                "\\N<Shimoyama>Sorry, but if it's Aya, I'm no longer involved."
                             ]
                         },
                         {
@@ -2738,7 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Ah, ever since you started your new job, you've cut ties\nwith me."
+                                "\\N<Shimoyama>Ah, ever since you started your new job, you've cut ties\nwith me."
                             ]
                         },
                         {
@@ -2772,7 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Oh, so you know."
+                                "\\N<Shimoyama>Oh, so you know."
                             ]
                         },
                         {
@@ -2806,7 +2806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Just so you know, I didn't force you into anything."
+                                "\\N<Shimoyama>Just so you know, I didn't force you into anything."
                             ]
                         },
                         {
@@ -2823,7 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>He said he wanted to do it himself."
+                                "\\N<Shimoyama>He said he wanted to do it himself."
                             ]
                         },
                         {
@@ -2857,7 +2857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So, if it's not about Aya, what do you want?"
+                                "\\N<Shimoyama>So, if it's not about Aya, what do you want?"
                             ]
                         },
                         {
@@ -2914,7 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Huh?"
+                                "\\N<Shimoyama>Huh?"
                             ]
                         },
                         {
@@ -2948,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>...Huh? What are you talking about?"
+                                "\\N<Shimoyama>...Huh? What are you talking about?"
                             ]
                         },
                         {
@@ -2965,7 +2965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Naoto>Kusayama... Is your... sex technique really that amazing?"
+                                "\\N<Naoto>Shimoyama... Is your... sex technique really that amazing?"
                             ]
                         },
                         {
@@ -2991,7 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>What's with the sudden question? What does it matter if\nyou ask something like that?"
+                                "\\N<Shimoyama>What's with the sudden question? What does it matter if\nyou ask something like that?"
                             ]
                         },
                         {
@@ -3025,7 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>......"
+                                "\\N<Shimoyama>......"
                             ]
                         },
                         {
@@ -3042,41 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Well, yeah. I've managed to make any woman addicted to my\nsex so far."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Naoto>......"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Kusayama>What's with you since earlier? What's your purpose?"
+                                "\\N<Shimoyama>Well, yeah. I've managed to make any woman addicted to my\nsex so far."
                             ]
                         },
                         {
@@ -3110,24 +3076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Naoto>Sh-Kusayama...I-I have a favor to ask you."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Kusayama>A favor... you say?"
+                                "\\N<Shimoyama>What's with you since earlier? What's your purpose?"
                             ]
                         },
                         {
@@ -3161,7 +3110,58 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>What is it...."
+                                "\\N<Naoto>Sh-Shimoyama...I-I have a favor to ask you."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Shimoyama>A favor... you say?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Naoto>......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Shimoyama>What is it...."
                             ]
                         },
                         {
@@ -3195,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>What's with you since earlier... just say it already."
+                                "\\N<Shimoyama>What's with you since earlier... just say it already."
                             ]
                         },
                         {
@@ -3212,7 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Naoto>...Kusayama... I want you to have a relationship with\nKaede..."
+                                "\\N<Naoto>...Shimoyama... I want you to have a relationship with\nKaede..."
                             ]
                         },
                         {
@@ -3229,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Kaede...?"
+                                "\\N<Shimoyama>Kaede...?"
                             ]
                         },
                         {
@@ -3278,7 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Kaede... you mean Aya's little sister?"
+                                "\\N<Shimoyama>Kaede... you mean Aya's little sister?"
                             ]
                         },
                         {
@@ -3351,7 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Oh, I see... Hazuki, so you've awakened to the fetish of\nbeing cuckolded, huh?"
+                                "\\N<Shimoyama>Oh, I see... Hazuki, so you've awakened to the fetish of\nbeing cuckolded, huh?"
                             ]
                         },
                         {
@@ -3420,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Hehehe... I see..."
+                                "\\N<Shimoyama>Hehehe... I see..."
                             ]
                         },
                         {
@@ -3454,7 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>I think I've figured it out...?"
+                                "\\N<Shimoyama>I think I've figured it out...?"
                             ]
                         },
                         {
@@ -3488,7 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>The little sister who saved you from the depths of despair\nafter your beloved wife, Aya, was taken away from me...."
+                                "\\N<Shimoyama>The little sister who saved you from the depths of despair\nafter your beloved wife, Aya, was taken away from me...."
                             ]
                         },
                         {
@@ -3505,7 +3505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>But I'm not satisfied with just having sex. At the same\ntime, I've developed a fetish for being cuckolded and I want to see\nyou with someone else...."
+                                "\\N<Shimoyama>But I'm not satisfied with just having sex. At the same\ntime, I've developed a fetish for being cuckolded and I want to see\nyou with someone else...."
                             ]
                         },
                         {
@@ -3568,7 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Well then, what is it? Do you have any objections?"
+                                "\\N<Shimoyama>Well then, what is it? Do you have any objections?"
                             ]
                         },
                         {
@@ -3602,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Oh...?"
+                                "\\N<Shimoyama>Oh...?"
                             ]
                         },
                         {
@@ -3676,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>......"
+                                "\\N<Shimoyama>......"
                             ]
                         },
                         {
@@ -3693,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So, you're asking me because you think I can make her\nclimax."
+                                "\\N<Shimoyama>So, you're asking me because you think I can make her\nclimax."
                             ]
                         },
                         {
@@ -3727,7 +3727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Am I the umpteenth person for you?"
+                                "\\N<Shimoyama>Am I the umpteenth person for you?"
                             ]
                         },
                         {
@@ -3761,7 +3761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Don't tell me I'm not the first person you're asking for a\nfavor, right?"
+                                "\\N<Shimoyama>Don't tell me I'm not the first person you're asking for a\nfavor, right?"
                             ]
                         },
                         {
@@ -3778,7 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>You guys must hate me to death, huh?"
+                                "\\N<Shimoyama>You guys must hate me to death, huh?"
                             ]
                         },
                         {
@@ -3829,7 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>I see, I see."
+                                "\\N<Shimoyama>I see, I see."
                             ]
                         },
                         {
@@ -3846,7 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So, you couldn't make her climax at all, huh?"
+                                "\\N<Shimoyama>So, you couldn't make her climax at all, huh?"
                             ]
                         },
                         {
@@ -3897,7 +3897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>...Ah, I can do it."
+                                "\\N<Shimoyama>...Ah, I can do it."
                             ]
                         },
                         {
@@ -3959,7 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>What are you going to do?"
+                                "\\N<Shimoyama>What are you going to do?"
                             ]
                         },
                         {
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Sigh. You don't trust me, huh?"
+                                "\\N<Shimoyama>Sigh. You don't trust me, huh?"
                             ]
                         },
                         {
@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Well, I guess that's understandable."
+                                "\\N<Shimoyama>Well, I guess that's understandable."
                             ]
                         },
                         {
@@ -4044,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>But you know... I've been feeling bad about what happened,\neven though it's too late now..."
+                                "\\N<Shimoyama>But you know... I've been feeling bad about what happened,\neven though it's too late now..."
                             ]
                         },
                         {
@@ -4078,7 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>If it's your request, I'll be cooperative to some extent."
+                                "\\N<Shimoyama>If it's your request, I'll be cooperative to some extent."
                             ]
                         },
                         {
@@ -4095,7 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>I'm not a completely bad person, you know?"
+                                "\\N<Shimoyama>I'm not a completely bad person, you know?"
                             ]
                         },
                         {
@@ -4129,7 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>You know, I've already been punched by my little sister\nonce, you know."
+                                "\\N<Shimoyama>You know, I've already been punched by my little sister\nonce, you know."
                             ]
                         },
                         {
@@ -4146,7 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>If you try to use force, you'll just end up getting\nbeaten, you know?"
+                                "\\N<Shimoyama>If you try to use force, you'll just end up getting\nbeaten, you know?"
                             ]
                         },
                         {
@@ -4197,7 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So, where is the place?"
+                                "\\N<Shimoyama>So, where is the place?"
                             ]
                         },
                         {
@@ -4231,7 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Hehehe. So you won't come near my house, huh... Laughable."
+                                "\\N<Shimoyama>Hehehe. So you won't come near my house, huh... Laughable."
                             ]
                         },
                         {
@@ -4282,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Yeah, I live there."
+                                "\\N<Shimoyama>Yeah, I live there."
                             ]
                         },
                         {
@@ -4316,7 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Ah, that's right."
+                                "\\N<Shimoyama>Ah, that's right."
                             ]
                         },
                         {
@@ -4359,7 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So where are you watching from? Right in front of me? Or\nin the next room?"
+                                "\\N<Shimoyama>So where are you watching from? Right in front of me? Or\nin the next room?"
                             ]
                         },
                         {
@@ -4393,7 +4393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>I see... I understand."
+                                "\\N<Shimoyama>I see... I understand."
                             ]
                         },
                         {
@@ -4410,7 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So, when is it?"
+                                "\\N<Shimoyama>So, when is it?"
                             ]
                         },
                         {
@@ -4444,7 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>So you haven't decided yet...? How about tonight then? I\nhappen to be free..."
+                                "\\N<Shimoyama>So you haven't decided yet...? How about tonight then? I\nhappen to be free..."
                             ]
                         },
                         {
@@ -4478,7 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kusayama>Well, I'll be waiting... Please discuss it with your\nsister..."
+                                "\\N<Shimoyama>Well, I'll be waiting... Please discuss it with your\nsister..."
                             ]
                         },
                         {
@@ -4593,7 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Naoto>Ah...really...with Kusayama..."
+                                "\\N<Naoto>Ah...really...with Shimoyama..."
                             ]
                         },
                         {
