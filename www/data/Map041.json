@@ -1788,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female>Nice to meet you from now on ♡"
+                                "\\N<Woman>Nice to meet you from now on ♡"
                             ]
                         },
                         {
@@ -1942,7 +1942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female>Oh no, forgot the documents again?"
+                                "\\N<Woman>Oh no, forgot the documents again?"
                             ]
                         },
                         {
@@ -2781,7 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist (Female)>Alright, let me confirm that for you."
+                                "\\N<Female Receptionist>Alright, let me confirm that for you."
                             ]
                         },
                         {
@@ -2870,7 +2870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist (Female)>Um, Mr. Takuzo Shimoyama and Ms. Kaede\nKashiwagi, are those your correct names?"
+                                "\\N<Female Receptionist>Um, Mr. Takuzo Shimoyama and Ms. Kaede\nKashiwagi, are those your correct names?"
                             ]
                         },
                         {
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist (Female)>Alright, no missing information... I will\naccept it then."
+                                "\\N<Female Receptionist>Alright, no missing information... I will\naccept it then."
                             ]
                         },
                         {
@@ -2970,7 +2970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist (Female)>Congratulations."
+                                "\\N<Female Receptionist>Congratulations."
                             ]
                         },
                         {
